@@ -2,351 +2,351 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Fleet Air Defense Zone",
-     "type": "Carrier Battle Group Air Defense Training Area",
-     "significance": "Practice of coordinated fleet air defense with carrier-based aircraft",
-     "coordinates": [
-       { "lat": 15.0, "lon": 65.0 },
-       { "lat": 15.0, "lon": 70.0 },
-       { "lat": 20.0, "lon": 70.0 },
-       { "lat": 20.0, "lon": 65.0 }
-     ]
+   	"name": "Arabian Sea Fleet Air Defense Zone",
+   	"type": "Carrier Battle Group Air Defense Training Area",
+   	"significance": "Practice of coordinated fleet air defense with carrier-based aircraft",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 65.0 },
+   		{ "lat": 15.0, "lon": 70.0 },
+   		{ "lat": 20.0, "lon": 70.0 },
+   		{ "lat": 20.0, "lon": 65.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Eastern Seaboard Integrated Air Defense Sector",
-     "type": "Multi-Layer Air Defense Exercise Zone",
-     "significance": "Coordination of ship-based and coastal air defense systems",
-     "coordinates": [
-       { "lat": 15.0, "lon": 82.0 },
-       { "lat": 15.0, "lon": 85.0 },
-       { "lat": 19.0, "lon": 85.0 },
-       { "lat": 19.0, "lon": 82.0 }
-     ]
+   	"name": "Eastern Seaboard Integrated Air Defense Sector",
+   	"type": "Multi-Layer Air Defense Exercise Zone",
+   	"significance": "Coordination of ship-based and coastal air defense systems",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 82.0 },
+   		{ "lat": 15.0, "lon": 85.0 },
+   		{ "lat": 19.0, "lon": 85.0 },
+   		{ "lat": 19.0, "lon": 82.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Lakshadweep Islands Air Defense Perimeter",
-     "type": "Island Chain Air Defense Training Area",
-     "significance": "Practice of air defense for scattered island territories",
-     "coordinates": [
-       { "lat": 8.0, "lon": 72.0 },
-       { "lat": 8.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 72.0 }
-     ]
+   	"name": "Lakshadweep Islands Air Defense Perimeter",
+   	"type": "Island Chain Air Defense Training Area",
+   	"significance": "Practice of air defense for scattered island territories",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 72.0 },
+   		{ "lat": 8.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 72.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Andaman and Nicobar Air Defense Exercise Zone",
-     "type": "Long-Range Maritime Air Defense Area",
-     "significance": "Training in extended range air defense for remote island chains",
-     "coordinates": [
-       { "lat": 6.0, "lon": 92.0 },
-       { "lat": 6.0, "lon": 94.0 },
-       { "lat": 14.0, "lon": 94.0 },
-       { "lat": 14.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman and Nicobar Air Defense Exercise Zone",
+   	"type": "Long-Range Maritime Air Defense Area",
+   	"significance": "Training in extended range air defense for remote island chains",
+   	"coordinates": [
+   		{ "lat": 6.0, "lon": 92.0 },
+   		{ "lat": 6.0, "lon": 94.0 },
+   		{ "lat": 14.0, "lon": 94.0 },
+   		{ "lat": 14.0, "lon": 92.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Gujarat Coast Air Defense Sector",
-     "type": "Coastal Air Defense Training Zone",
-     "significance": "Practice of defending strategic coastal installations from air threats",
-     "coordinates": [
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 72.0 },
-       { "lat": 23.0, "lon": 72.0 },
-       { "lat": 23.0, "lon": 68.0 }
-     ]
+   	"name": "Gujarat Coast Air Defense Sector",
+   	"type": "Coastal Air Defense Training Zone",
+   	"significance": "Practice of defending strategic coastal installations from air threats",
+   	"coordinates": [
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 72.0 },
+   		{ "lat": 23.0, "lon": 72.0 },
+   		{ "lat": 23.0, "lon": 68.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Bay of Bengal Fleet Air Defense Training Area",
-     "type": "Large-Scale Naval Air Defense Exercise Zone",
-     "significance": "Coordination of multiple ship and aircraft groups for air defense",
-     "coordinates": [
-       { "lat": 12.0, "lon": 85.0 },
-       { "lat": 12.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal Fleet Air Defense Training Area",
+   	"type": "Large-Scale Naval Air Defense Exercise Zone",
+   	"significance": "Coordination of multiple ship and aircraft groups for air defense",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 85.0 },
+   		{ "lat": 12.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 85.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Mumbai High Offshore Air Defense Zone",
-     "type": "Critical Infrastructure Air Defense Area",
-     "significance": "Training in air defense of offshore oil and gas installations",
-     "coordinates": [
-       { "lat": 19.0, "lon": 71.0 },
-       { "lat": 19.0, "lon": 72.5 },
-       { "lat": 20.5, "lon": 72.5 },
-       { "lat": 20.5, "lon": 71.0 }
-     ]
+   	"name": "Mumbai High Offshore Air Defense Zone",
+   	"type": "Critical Infrastructure Air Defense Area",
+   	"significance": "Training in air defense of offshore oil and gas installations",
+   	"coordinates": [
+   		{ "lat": 19.0, "lon": 71.0 },
+   		{ "lat": 19.0, "lon": 72.5 },
+   		{ "lat": 20.5, "lon": 72.5 },
+   		{ "lat": 20.5, "lon": 71.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Visakhapatnam Naval Base Air Defense Sector",
-     "type": "Strategic Asset Air Defense Training Zone",
-     "significance": "Practice of multi-layered air defense for key naval facilities",
-     "coordinates": [
-       { "lat": 17.0, "lon": 83.0 },
-       { "lat": 17.0, "lon": 84.0 },
-       { "lat": 18.0, "lon": 84.0 },
-       { "lat": 18.0, "lon": 83.0 }
-     ]
+   	"name": "Visakhapatnam Naval Base Air Defense Sector",
+   	"type": "Strategic Asset Air Defense Training Zone",
+   	"significance": "Practice of multi-layered air defense for key naval facilities",
+   	"coordinates": [
+   		{ "lat": 17.0, "lon": 83.0 },
+   		{ "lat": 17.0, "lon": 84.0 },
+   		{ "lat": 18.0, "lon": 84.0 },
+   		{ "lat": 18.0, "lon": 83.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Kochi Naval Air Station Defense Exercise Area",
-     "type": "Airfield Defense Training Zone",
-     "significance": "Simulations of defending naval air bases from aerial attacks",
-     "coordinates": [
-       { "lat": 9.5, "lon": 76.0 },
-       { "lat": 9.5, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.0 }
-     ]
+   	"name": "Kochi Naval Air Station Defense Exercise Area",
+   	"type": "Airfield Defense Training Zone",
+   	"significance": "Simulations of defending naval air bases from aerial attacks",
+   	"coordinates": [
+   		{ "lat": 9.5, "lon": 76.0 },
+   		{ "lat": 9.5, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Karwar Naval Base Air Defense Sector",
-      "type": "Advanced Naval Facility Air Defense Zone",
-      "significance": "Training in protecting modern naval infrastructure from air threats",
-      "coordinates": [
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.0 }
-      ]
+    	"name": "Karwar Naval Base Air Defense Sector",
+    	"type": "Advanced Naval Facility Air Defense Zone",
+    	"significance": "Training in protecting modern naval infrastructure from air threats",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Chilika Air Defense Training Sector",
-      "type": "Low-Altitude Air Defense Exercise Zone",
-      "significance": "Practice of countering low-flying aircraft and cruise missiles",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Air Defense Training Sector",
+    	"type": "Low-Altitude Air Defense Exercise Zone",
+    	"significance": "Practice of countering low-flying aircraft and cruise missiles",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Port Blair Air Defense Perimeter",
-      "type": "Island Capital Air Defense Training Area",
-      "significance": "Exercises in defending key administrative centers on strategic islands",
-      "coordinates": [
-        { "lat": 11.5, "lon": 92.5 },
-        { "lat": 11.5, "lon": 93.0 },
-        { "lat": 12.0, "lon": 93.0 },
-        { "lat": 12.0, "lon": 92.5 }
-      ]
+    	"name": "Port Blair Air Defense Perimeter",
+    	"type": "Island Capital Air Defense Training Area",
+    	"significance": "Exercises in defending key administrative centers on strategic islands",
+    	"coordinates": [
+    		{ "lat": 11.5, "lon": 92.5 },
+    		{ "lat": 11.5, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 92.5 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Kakinada Offshore Air Defense Zone",
-      "type": "Gas Field Air Defense Training Area",
-      "significance": "Practice of air defense for offshore energy infrastructure",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Offshore Air Defense Zone",
+    	"type": "Gas Field Air Defense Training Area",
+    	"significance": "Practice of air defense for offshore energy infrastructure",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Goa Naval Aviation Air Defense Sector",
-      "type": "Maritime Patrol Aircraft Base Defense Zone",
-      "significance": "Training in protecting naval air assets and facilities",
-      "coordinates": [
-        { "lat": 15.0, "lon": 73.5 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.5, "lon": 74.0 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Goa Naval Aviation Air Defense Sector",
+    	"type": "Maritime Patrol Aircraft Base Defense Zone",
+    	"significance": "Training in protecting naval air assets and facilities",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 73.5 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Dwarka Point Air Defense Exercise Area",
-      "type": "Coastal Radar Station Defense Zone",
-      "significance": "Practice of integrating coastal radar with air defense systems",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.5 },
-        { "lat": 22.0, "lon": 69.0 },
-        { "lat": 22.5, "lon": 69.0 },
-        { "lat": 22.5, "lon": 68.5 }
-      ]
+    	"name": "Dwarka Point Air Defense Exercise Area",
+    	"type": "Coastal Radar Station Defense Zone",
+    	"significance": "Practice of integrating coastal radar with air defense systems",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.5 },
+    		{ "lat": 22.0, "lon": 69.0 },
+    		{ "lat": 22.5, "lon": 69.0 },
+    		{ "lat": 22.5, "lon": 68.5 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Car Nicobar Air Base Defense Sector",
-      "type": "Forward Airfield Protection Training Zone",
-      "significance": "Exercises in defending remote, strategic air bases",
-      "coordinates": [
-        { "lat": 9.0, "lon": 92.5 },
-        { "lat": 9.0, "lon": 93.0 },
-        { "lat": 9.5, "lon": 93.0 },
-        { "lat": 9.5, "lon": 92.5 }
-      ]
+    	"name": "Car Nicobar Air Base Defense Sector",
+    	"type": "Forward Airfield Protection Training Zone",
+    	"significance": "Exercises in defending remote, strategic air bases",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 92.5 },
+    		{ "lat": 9.0, "lon": 93.0 },
+    		{ "lat": 9.5, "lon": 93.0 },
+    		{ "lat": 9.5, "lon": 92.5 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Kalpakkam Nuclear Facility Air Defense Zone",
-      "type": "Critical National Asset Air Defense Area",
-      "significance": "Training in air defense of nuclear installations near coast",
-      "coordinates": [
-        { "lat": 12.5, "lon": 80.0 },
-        { "lat": 12.5, "lon": 80.5 },
-        { "lat": 13.0, "lon": 80.5 },
-        { "lat": 13.0, "lon": 80.0 }
-      ]
+    	"name": "Kalpakkam Nuclear Facility Air Defense Zone",
+    	"type": "Critical National Asset Air Defense Area",
+    	"significance": "Training in air defense of nuclear installations near coast",
+    	"coordinates": [
+    		{ "lat": 12.5, "lon": 80.0 },
+    		{ "lat": 12.5, "lon": 80.5 },
+    		{ "lat": 13.0, "lon": 80.5 },
+    		{ "lat": 13.0, "lon": 80.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Porbandar Air Defense Exercise Sector",
-      "type": "Forward Operating Base Air Defense Zone",
-      "significance": "Practice of air defense for naval detachments and forward bases",
-      "coordinates": [
-        { "lat": 21.5, "lon": 69.5 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 69.5 }
-      ]
+    	"name": "Porbandar Air Defense Exercise Sector",
+    	"type": "Forward Operating Base Air Defense Zone",
+    	"significance": "Practice of air defense for naval detachments and forward bases",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 69.5 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 69.5 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Sundarbans Delta Air Defense Training Area",
-      "type": "Low-Level Air Intrusion Defense Zone",
-      "significance": "Training in detecting and countering low-altitude air threats in complex terrain",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Air Defense Training Area",
+    	"type": "Low-Level Air Intrusion Defense Zone",
+    	"significance": "Training in detecting and countering low-altitude air threats in complex terrain",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Minicoy Island Air Defense Sector",
-      "type": "Remote Island Air Defense Training Zone",
-      "significance": "Practice of air defense for isolated, strategic island outposts",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.5 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 72.5 }
-      ]
+    	"name": "Minicoy Island Air Defense Sector",
+    	"type": "Remote Island Air Defense Training Zone",
+    	"significance": "Practice of air defense for isolated, strategic island outposts",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.5 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 72.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Paradip Port Air Defense Exercise Area",
-      "type": "Major Port Facility Air Defense Zone",
-      "significance": "Training in air defense of critical maritime trade infrastructure",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.5 }
-      ]
+    	"name": "Paradip Port Air Defense Exercise Area",
+    	"type": "Major Port Facility Air Defense Zone",
+    	"significance": "Training in air defense of critical maritime trade infrastructure",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Lakshadweep Sea Extended Air Defense Zone",
-      "type": "Over-the-Horizon Air Defense Training Area",
-      "significance": "Practice of long-range air threat detection and engagement",
-      "coordinates": [
-        { "lat": 10.0, "lon": 70.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Extended Air Defense Zone",
+    	"type": "Over-the-Horizon Air Defense Training Area",
+    	"significance": "Practice of long-range air threat detection and engagement",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 70.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 70.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Andaman Sea Air-Sea Integration Zone",
-      "type": "Combined Air-Naval Defense Exercise Area",
-      "significance": "Training in coordinated air and naval defense operations",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Sea Air-Sea Integration Zone",
+    	"type": "Combined Air-Naval Defense Exercise Area",
+    	"significance": "Training in coordinated air and naval defense operations",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Kavatti Island Radar Picket Training Zone",
-      "type": "Early Warning Radar Defense Exercise Area",
-      "significance": "Practice of integrating forward radar pickets with air defense network",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.5 }
-      ]
+    	"name": "Kavatti Island Radar Picket Training Zone",
+    	"type": "Early Warning Radar Defense Exercise Area",
+    	"significance": "Practice of integrating forward radar pickets with air defense network",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Nicobar Islands Southern Air Defense Sector",
-      "type": "Strategic Chokepoint Air Defense Zone",
-      "significance": "Training in air defense of critical maritime passages",
-      "coordinates": [
-        { "lat": 6.5, "lon": 93.5 },
-        { "lat": 6.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 93.5 }
-      ]
+    	"name": "Nicobar Islands Southern Air Defense Sector",
+    	"type": "Strategic Chokepoint Air Defense Zone",
+    	"significance": "Training in air defense of critical maritime passages",
+    	"coordinates": [
+    		{ "lat": 6.5, "lon": 93.5 },
+    		{ "lat": 6.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 93.5 }
+    	]
     }
     ```
 
@@ -354,350 +354,350 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Western Sector Air Patrol",
-     "type": "Long-Range Maritime Reconnaissance Zone",
-     "significance": "Extended surveillance of western approaches to Indian waters",
-     "coordinates": [
-       { "lat": 15.0, "lon": 60.0 },
-       { "lat": 15.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 60.0 }
-     ]
+   	"name": "Arabian Sea Western Sector Air Patrol",
+   	"type": "Long-Range Maritime Reconnaissance Zone",
+   	"significance": "Extended surveillance of western approaches to Indian waters",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 60.0 },
+   		{ "lat": 15.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 60.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Bay of Bengal Eastern Sector Air Patrol",
-     "type": "Wide-Area Maritime Surveillance Zone",
-     "significance": "Monitoring of eastern seaboard and approaches",
-     "coordinates": [
-       { "lat": 10.0, "lon": 85.0 },
-       { "lat": 10.0, "lon": 90.0 },
-       { "lat": 18.0, "lon": 90.0 },
-       { "lat": 18.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal Eastern Sector Air Patrol",
+   	"type": "Wide-Area Maritime Surveillance Zone",
+   	"significance": "Monitoring of eastern seaboard and approaches",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 85.0 },
+   		{ "lat": 10.0, "lon": 90.0 },
+   		{ "lat": 18.0, "lon": 90.0 },
+   		{ "lat": 18.0, "lon": 85.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Lakshadweep Sea Air Surveillance Sector",
-     "type": "Island Territory and EEZ Patrol Zone",
-     "significance": "Aerial monitoring of Lakshadweep Islands and surrounding waters",
-     "coordinates": [
-       { "lat": 8.0, "lon": 71.0 },
-       { "lat": 8.0, "lon": 75.0 },
-       { "lat": 14.0, "lon": 75.0 },
-       { "lat": 14.0, "lon": 71.0 }
-     ]
+   	"name": "Lakshadweep Sea Air Surveillance Sector",
+   	"type": "Island Territory and EEZ Patrol Zone",
+   	"significance": "Aerial monitoring of Lakshadweep Islands and surrounding waters",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 71.0 },
+   		{ "lat": 8.0, "lon": 75.0 },
+   		{ "lat": 14.0, "lon": 75.0 },
+   		{ "lat": 14.0, "lon": 71.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Andaman Sea Air Reconnaissance Area",
-     "type": "Far Eastern Maritime Patrol Zone",
-     "significance": "Surveillance of Andaman Sea and western approaches to Malacca Strait",
-     "coordinates": [
-       { "lat": 6.0, "lon": 91.0 },
-       { "lat": 6.0, "lon": 96.0 },
-       { "lat": 14.0, "lon": 96.0 },
-       { "lat": 14.0, "lon": 91.0 }
-     ]
+   	"name": "Andaman Sea Air Reconnaissance Area",
+   	"type": "Far Eastern Maritime Patrol Zone",
+   	"significance": "Surveillance of Andaman Sea and western approaches to Malacca Strait",
+   	"coordinates": [
+   		{ "lat": 6.0, "lon": 91.0 },
+   		{ "lat": 6.0, "lon": 96.0 },
+   		{ "lat": 14.0, "lon": 96.0 },
+   		{ "lat": 14.0, "lon": 91.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Gujarat Coastal Air Patrol Sector",
-     "type": "Northwestern Maritime Border Surveillance Zone",
-     "significance": "Aerial monitoring of India-Pakistan maritime border and approaches",
-     "coordinates": [
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 72.0 },
-       { "lat": 24.0, "lon": 72.0 },
-       { "lat": 24.0, "lon": 68.0 }
-     ]
+   	"name": "Gujarat Coastal Air Patrol Sector",
+   	"type": "Northwestern Maritime Border Surveillance Zone",
+   	"significance": "Aerial monitoring of India-Pakistan maritime border and approaches",
+   	"coordinates": [
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 72.0 },
+   		{ "lat": 24.0, "lon": 72.0 },
+   		{ "lat": 24.0, "lon": 68.0 }
+   	]
    }
    ```
 6. ```json
    {
-     "name": "Southern Peninsula Coastal Air Surveillance Sector",
-     "type": "Multi-Coastal Zone Patrol Area",
-     "significance": "Aerial monitoring of Kerala, Tamil Nadu, and southern Andhra Pradesh coasts",
-     "coordinates": [
-       { "lat": 8.0, "lon": 76.0 },
-       { "lat": 8.0, "lon": 80.0 },
-       { "lat": 15.0, "lon": 80.0 },
-       { "lat": 15.0, "lon": 76.0 }
-     ]
+   	"name": "Southern Peninsula Coastal Air Surveillance Sector",
+   	"type": "Multi-Coastal Zone Patrol Area",
+   	"significance": "Aerial monitoring of Kerala, Tamil Nadu, and southern Andhra Pradesh coasts",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 76.0 },
+   		{ "lat": 8.0, "lon": 80.0 },
+   		{ "lat": 15.0, "lon": 80.0 },
+   		{ "lat": 15.0, "lon": 76.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Northern Bay of Bengal Air Reconnaissance Zone",
-     "type": "Tri-Nation Maritime Border Surveillance Area",
-     "significance": "Aerial patrols near India-Bangladesh-Myanmar maritime boundaries",
-     "coordinates": [
-       { "lat": 18.0, "lon": 87.0 },
-       { "lat": 18.0, "lon": 93.0 },
-       { "lat": 21.0, "lon": 93.0 },
-       { "lat": 21.0, "lon": 87.0 }
-     ]
+   	"name": "Northern Bay of Bengal Air Reconnaissance Zone",
+   	"type": "Tri-Nation Maritime Border Surveillance Area",
+   	"significance": "Aerial patrols near India-Bangladesh-Myanmar maritime boundaries",
+   	"coordinates": [
+   		{ "lat": 18.0, "lon": 87.0 },
+   		{ "lat": 18.0, "lon": 93.0 },
+   		{ "lat": 21.0, "lon": 93.0 },
+   		{ "lat": 21.0, "lon": 87.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Nicobar Islands Southern Approach Air Patrol",
-     "type": "Far South Eastern Maritime Surveillance Zone",
-     "significance": "Monitoring of southern approaches to Andaman and Nicobar Islands",
-     "coordinates": [
-       { "lat": 5.0, "lon": 91.0 },
-       { "lat": 5.0, "lon": 95.0 },
-       { "lat": 8.0, "lon": 95.0 },
-       { "lat": 8.0, "lon": 91.0 }
-     ]
+   	"name": "Nicobar Islands Southern Approach Air Patrol",
+   	"type": "Far South Eastern Maritime Surveillance Zone",
+   	"significance": "Monitoring of southern approaches to Andaman and Nicobar Islands",
+   	"coordinates": [
+   		{ "lat": 5.0, "lon": 91.0 },
+   		{ "lat": 5.0, "lon": 95.0 },
+   		{ "lat": 8.0, "lon": 95.0 },
+   		{ "lat": 8.0, "lon": 91.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Central Arabian Sea Extended Air Patrol",
-     "type": "Deep Sea Long-Range Reconnaissance Zone",
-     "significance": "Far-reaching patrols for maritime domain awareness in central Arabian Sea",
-     "coordinates": [
-       { "lat": 12.0, "lon": 60.0 },
-       { "lat": 12.0, "lon": 68.0 },
-       { "lat": 18.0, "lon": 68.0 },
-       { "lat": 18.0, "lon": 60.0 }
-     ]
+   	"name": "Central Arabian Sea Extended Air Patrol",
+   	"type": "Deep Sea Long-Range Reconnaissance Zone",
+   	"significance": "Far-reaching patrols for maritime domain awareness in central Arabian Sea",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 60.0 },
+   		{ "lat": 12.0, "lon": 68.0 },
+   		{ "lat": 18.0, "lon": 68.0 },
+   		{ "lat": 18.0, "lon": 60.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Odisha-West Bengal Coastal Air Surveillance Sector",
-      "type": "Eastern Seaboard Patrol Zone",
-      "significance": "Aerial monitoring of upper east coast and offshore areas",
-      "coordinates": [
-        { "lat": 18.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 88.0 },
-        { "lat": 22.0, "lon": 88.0 },
-        { "lat": 22.0, "lon": 84.0 }
-      ]
+    	"name": "Odisha-West Bengal Coastal Air Surveillance Sector",
+    	"type": "Eastern Seaboard Patrol Zone",
+    	"significance": "Aerial monitoring of upper east coast and offshore areas",
+    	"coordinates": [
+    		{ "lat": 18.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 88.0 },
+    		{ "lat": 22.0, "lon": 88.0 },
+    		{ "lat": 22.0, "lon": 84.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Strait of Malacca Approach Air Reconnaissance Zone",
-      "type": "Strategic Waterway Monitoring Area",
-      "significance": "Long-range patrols observing western entrance to Malacca Strait",
-      "coordinates": [
-        { "lat": 4.0, "lon": 92.0 },
-        { "lat": 4.0, "lon": 96.0 },
-        { "lat": 8.0, "lon": 96.0 },
-        { "lat": 8.0, "lon": 92.0 }
-      ]
+    	"name": "Strait of Malacca Approach Air Reconnaissance Zone",
+    	"type": "Strategic Waterway Monitoring Area",
+    	"significance": "Long-range patrols observing western entrance to Malacca Strait",
+    	"coordinates": [
+    		{ "lat": 4.0, "lon": 92.0 },
+    		{ "lat": 4.0, "lon": 96.0 },
+    		{ "lat": 8.0, "lon": 96.0 },
+    		{ "lat": 8.0, "lon": 92.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Gujarat-Maharashtra Coastal Transition Air Patrol",
-      "type": "Western Seaboard Surveillance Zone",
-      "significance": "Aerial monitoring of transition between northwestern and west-central coast",
-      "coordinates": [
-        { "lat": 18.0, "lon": 70.0 },
-        { "lat": 18.0, "lon": 73.0 },
-        { "lat": 22.0, "lon": 73.0 },
-        { "lat": 22.0, "lon": 70.0 }
-      ]
+    	"name": "Gujarat-Maharashtra Coastal Transition Air Patrol",
+    	"type": "Western Seaboard Surveillance Zone",
+    	"significance": "Aerial monitoring of transition between northwestern and west-central coast",
+    	"coordinates": [
+    		{ "lat": 18.0, "lon": 70.0 },
+    		{ "lat": 18.0, "lon": 73.0 },
+    		{ "lat": 22.0, "lon": 73.0 },
+    		{ "lat": 22.0, "lon": 70.0 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Palk Bay-Gulf of Mannar Air Surveillance Sector",
-      "type": "India-Sri Lanka Maritime Border Patrol Zone",
-      "significance": "Aerial monitoring of narrow waters between India and Sri Lanka",
-      "coordinates": [
-        { "lat": 8.0, "lon": 78.0 },
-        { "lat": 8.0, "lon": 80.0 },
-        { "lat": 10.0, "lon": 80.0 },
-        { "lat": 10.0, "lon": 78.0 }
-      ]
+    	"name": "Palk Bay-Gulf of Mannar Air Surveillance Sector",
+    	"type": "India-Sri Lanka Maritime Border Patrol Zone",
+    	"significance": "Aerial monitoring of narrow waters between India and Sri Lanka",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 78.0 },
+    		{ "lat": 8.0, "lon": 80.0 },
+    		{ "lat": 10.0, "lon": 80.0 },
+    		{ "lat": 10.0, "lon": 78.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Sundarbans-Bangladesh Border Air Reconnaissance Area",
-      "type": "Complex Delta Region Surveillance Zone",
-      "significance": "Aerial patrols over intricate waterways of Sundarbans and maritime border",
-      "coordinates": [
-        { "lat": 21.0, "lon": 88.0 },
-        { "lat": 21.0, "lon": 90.0 },
-        { "lat": 23.0, "lon": 90.0 },
-        { "lat": 23.0, "lon": 88.0 }
-      ]
+    	"name": "Sundarbans-Bangladesh Border Air Reconnaissance Area",
+    	"type": "Complex Delta Region Surveillance Zone",
+    	"significance": "Aerial patrols over intricate waterways of Sundarbans and maritime border",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 88.0 },
+    		{ "lat": 21.0, "lon": 90.0 },
+    		{ "lat": 23.0, "lon": 90.0 },
+    		{ "lat": 23.0, "lon": 88.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Lakshadweep-Malabar Coast Transition Air Patrol",
-      "type": "Island-Mainland Connection Surveillance Zone",
-      "significance": "Monitoring maritime traffic between Lakshadweep and Kerala coast",
-      "coordinates": [
-        { "lat": 8.0, "lon": 73.0 },
-        { "lat": 8.0, "lon": 76.0 },
-        { "lat": 12.0, "lon": 76.0 },
-        { "lat": 12.0, "lon": 73.0 }
-      ]
+    	"name": "Lakshadweep-Malabar Coast Transition Air Patrol",
+    	"type": "Island-Mainland Connection Surveillance Zone",
+    	"significance": "Monitoring maritime traffic between Lakshadweep and Kerala coast",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 73.0 },
+    		{ "lat": 8.0, "lon": 76.0 },
+    		{ "lat": 12.0, "lon": 76.0 },
+    		{ "lat": 12.0, "lon": 73.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Karwar-Goa Naval Air Patrol Sector",
-      "type": "Western Naval Command Southern Flank Surveillance",
-      "significance": "Aerial monitoring of important naval bases and surrounding waters",
-      "coordinates": [
-        { "lat": 14.0, "lon": 73.0 },
-        { "lat": 14.0, "lon": 74.5 },
-        { "lat": 16.0, "lon": 74.5 },
-        { "lat": 16.0, "lon": 73.0 }
-      ]
+    	"name": "Karwar-Goa Naval Air Patrol Sector",
+    	"type": "Western Naval Command Southern Flank Surveillance",
+    	"significance": "Aerial monitoring of important naval bases and surrounding waters",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 73.0 },
+    		{ "lat": 14.0, "lon": 74.5 },
+    		{ "lat": 16.0, "lon": 74.5 },
+    		{ "lat": 16.0, "lon": 73.0 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Vizag-Chilika Coastal Air Reconnaissance Zone",
-      "type": "Eastern Naval Command Core Area Patrol",
-      "significance": "Aerial surveillance of critical eastern naval facilities and approaches",
-      "coordinates": [
-        { "lat": 17.0, "lon": 83.0 },
-        { "lat": 17.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 83.0 }
-      ]
+    	"name": "Vizag-Chilika Coastal Air Reconnaissance Zone",
+    	"type": "Eastern Naval Command Core Area Patrol",
+    	"significance": "Aerial surveillance of critical eastern naval facilities and approaches",
+    	"coordinates": [
+    		{ "lat": 17.0, "lon": 83.0 },
+    		{ "lat": 17.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 83.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Kanyakumari-Gulf of Mannar Air Patrol Sector",
-      "type": "Southern Tip Maritime Surveillance Zone",
-      "significance": "Monitoring of maritime traffic rounding the southern tip of India",
-      "coordinates": [
-        { "lat": 7.5, "lon": 77.0 },
-        { "lat": 7.5, "lon": 79.0 },
-        { "lat": 9.5, "lon": 79.0 },
-        { "lat": 9.5, "lon": 77.0 }
-      ]
+    	"name": "Kanyakumari-Gulf of Mannar Air Patrol Sector",
+    	"type": "Southern Tip Maritime Surveillance Zone",
+    	"significance": "Monitoring of maritime traffic rounding the southern tip of India",
+    	"coordinates": [
+    		{ "lat": 7.5, "lon": 77.0 },
+    		{ "lat": 7.5, "lon": 79.0 },
+    		{ "lat": 9.5, "lon": 79.0 },
+    		{ "lat": 9.5, "lon": 77.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Little Andaman-Car Nicobar Channel Air Surveillance",
-      "type": "Inter-Group Island Passage Patrol Zone",
-      "significance": "Monitoring maritime activities between Andaman and Nicobar Island groups",
-      "coordinates": [
-        { "lat": 9.0, "lon": 92.0 },
-        { "lat": 9.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman-Car Nicobar Channel Air Surveillance",
+    	"type": "Inter-Group Island Passage Patrol Zone",
+    	"significance": "Monitoring maritime activities between Andaman and Nicobar Island groups",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 92.0 },
+    		{ "lat": 9.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Mumbai High Offshore Air Patrol Sector",
-      "type": "Critical Infrastructure Surveillance Zone",
-      "significance": "Aerial monitoring of vital offshore oil and gas installations",
-      "coordinates": [
-        { "lat": 19.0, "lon": 71.0 },
-        { "lat": 19.0, "lon": 72.5 },
-        { "lat": 20.5, "lon": 72.5 },
-        { "lat": 20.5, "lon": 71.0 }
-      ]
+    	"name": "Mumbai High Offshore Air Patrol Sector",
+    	"type": "Critical Infrastructure Surveillance Zone",
+    	"significance": "Aerial monitoring of vital offshore oil and gas installations",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 71.0 },
+    		{ "lat": 19.0, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 71.0 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Porbandar-Dwarka Coastal Air Surveillance Area",
-      "type": "Northwestern Coastal Defense Zone",
-      "significance": "Aerial patrols of sensitive northwestern coastline",
-      "coordinates": [
-        { "lat": 21.0, "lon": 68.5 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 68.5 }
-      ]
+    	"name": "Porbandar-Dwarka Coastal Air Surveillance Area",
+    	"type": "Northwestern Coastal Defense Zone",
+    	"significance": "Aerial patrols of sensitive northwestern coastline",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 68.5 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 68.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Paradip-Haldia Coastal Air Reconnaissance Sector",
-      "type": "Upper East Coast Port Approach Surveillance",
-      "significance": "Monitoring of major port approaches and offshore activities",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 86.5 }
-      ]
+    	"name": "Paradip-Haldia Coastal Air Reconnaissance Sector",
+    	"type": "Upper East Coast Port Approach Surveillance",
+    	"significance": "Monitoring of major port approaches and offshore activities",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 86.5 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Kochi-Mangalore Coastal Air Patrol Zone",
-      "type": "Malabar Coast Surveillance Sector",
-      "significance": "Aerial monitoring of Kerala and Karnataka coasts",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.0 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 13.0, "lon": 76.5 },
-        { "lat": 13.0, "lon": 75.0 }
-      ]
+    	"name": "Kochi-Mangalore Coastal Air Patrol Zone",
+    	"type": "Malabar Coast Surveillance Sector",
+    	"significance": "Aerial monitoring of Kerala and Karnataka coasts",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.0 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 13.0, "lon": 76.5 },
+    		{ "lat": 13.0, "lon": 75.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "North Andaman Extended Air Reconnaissance Zone",
-      "type": "Far North Eastern Maritime Patrol Area",
-      "significance": "Long-range patrols covering northern Andaman Sea",
-      "coordinates": [
-        { "lat": 12.0, "lon": 91.0 },
-        { "lat": 12.0, "lon": 95.0 },
-        { "lat": 15.0, "lon": 95.0 },
-        { "lat": 15.0, "lon": 91.0 }
-      ]
+    	"name": "North Andaman Extended Air Reconnaissance Zone",
+    	"type": "Far North Eastern Maritime Patrol Area",
+    	"significance": "Long-range patrols covering northern Andaman Sea",
+    	"coordinates": [
+    		{ "lat": 12.0, "lon": 91.0 },
+    		{ "lat": 12.0, "lon": 95.0 },
+    		{ "lat": 15.0, "lon": 95.0 },
+    		{ "lat": 15.0, "lon": 91.0 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Saurashtra Peninsula Coastal Air Surveillance",
-      "type": "Western Seaboard Midpoint Patrol Zone",
-      "significance": "Aerial monitoring of Gujarat's southern coastline and approaches",
-      "coordinates": [
-        { "lat": 20.0, "lon": 69.0 },
-        { "lat": 20.0, "lon": 72.0 },
-        { "lat": 22.5, "lon": 72.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Saurashtra Peninsula Coastal Air Surveillance",
+    	"type": "Western Seaboard Midpoint Patrol Zone",
+    	"significance": "Aerial monitoring of Gujarat's southern coastline and approaches",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 69.0 },
+    		{ "lat": 20.0, "lon": 72.0 },
+    		{ "lat": 22.5, "lon": 72.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
@@ -705,351 +705,351 @@
 
 1. ```json
    {
-     "name": "Andaman Islands Amphibious Landing Zone",
-     "type": "Island Assault Training Area",
-     "significance": "Practice of large-scale amphibious landings on varied beach types",
-     "coordinates": [
-       { "lat": 12.0, "lon": 92.5 },
-       { "lat": 12.0, "lon": 93.0 },
-       { "lat": 13.0, "lon": 93.0 },
-       { "lat": 13.0, "lon": 92.5 }
-     ]
+   	"name": "Andaman Islands Amphibious Landing Zone",
+   	"type": "Island Assault Training Area",
+   	"significance": "Practice of large-scale amphibious landings on varied beach types",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 92.5 },
+   		{ "lat": 12.0, "lon": 93.0 },
+   		{ "lat": 13.0, "lon": 93.0 },
+   		{ "lat": 13.0, "lon": 92.5 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Gujarat Coast Amphibious Exercise Area",
-     "type": "Shallow Water Landing Zone",
-     "significance": "Training in amphibious operations in areas with high tidal variations",
-     "coordinates": [
-       { "lat": 21.5, "lon": 69.5 },
-       { "lat": 21.5, "lon": 70.5 },
-       { "lat": 22.5, "lon": 70.5 },
-       { "lat": 22.5, "lon": 69.5 }
-     ]
+   	"name": "Gujarat Coast Amphibious Exercise Area",
+   	"type": "Shallow Water Landing Zone",
+   	"significance": "Training in amphibious operations in areas with high tidal variations",
+   	"coordinates": [
+   		{ "lat": 21.5, "lon": 69.5 },
+   		{ "lat": 21.5, "lon": 70.5 },
+   		{ "lat": 22.5, "lon": 70.5 },
+   		{ "lat": 22.5, "lon": 69.5 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Lakshadweep Islands Amphibious Assault Zone",
-     "type": "Coral Atoll Landing Exercise Area",
-     "significance": "Practice of amphibious operations on small, defended island territories",
-     "coordinates": [
-       { "lat": 10.5, "lon": 72.0 },
-       { "lat": 10.5, "lon": 73.0 },
-       { "lat": 11.5, "lon": 73.0 },
-       { "lat": 11.5, "lon": 72.0 }
-     ]
+   	"name": "Lakshadweep Islands Amphibious Assault Zone",
+   	"type": "Coral Atoll Landing Exercise Area",
+   	"significance": "Practice of amphibious operations on small, defended island territories",
+   	"coordinates": [
+   		{ "lat": 10.5, "lon": 72.0 },
+   		{ "lat": 10.5, "lon": 73.0 },
+   		{ "lat": 11.5, "lon": 73.0 },
+   		{ "lat": 11.5, "lon": 72.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Visakhapatnam Amphibious Training Sector",
-     "type": "Eastern Seaboard Landing Exercise Zone",
-     "significance": "Large-scale amphibious exercises involving Eastern Naval Command",
-     "coordinates": [
-       { "lat": 17.0, "lon": 82.5 },
-       { "lat": 17.0, "lon": 83.5 },
-       { "lat": 18.0, "lon": 83.5 },
-       { "lat": 18.0, "lon": 82.5 }
-     ]
+   	"name": "Visakhapatnam Amphibious Training Sector",
+   	"type": "Eastern Seaboard Landing Exercise Zone",
+   	"significance": "Large-scale amphibious exercises involving Eastern Naval Command",
+   	"coordinates": [
+   		{ "lat": 17.0, "lon": 82.5 },
+   		{ "lat": 17.0, "lon": 83.5 },
+   		{ "lat": 18.0, "lon": 83.5 },
+   		{ "lat": 18.0, "lon": 82.5 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Goa Beach Assault Training Area",
-     "type": "Western Coastal Amphibious Zone",
-     "significance": "Combined arms training in amphibious and beach landing operations",
-     "coordinates": [
-       { "lat": 15.0, "lon": 73.5 },
-       { "lat": 15.0, "lon": 74.0 },
-       { "lat": 15.5, "lon": 74.0 },
-       { "lat": 15.5, "lon": 73.5 }
-     ]
+   	"name": "Goa Beach Assault Training Area",
+   	"type": "Western Coastal Amphibious Zone",
+   	"significance": "Combined arms training in amphibious and beach landing operations",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 73.5 },
+   		{ "lat": 15.0, "lon": 74.0 },
+   		{ "lat": 15.5, "lon": 74.0 },
+   		{ "lat": 15.5, "lon": 73.5 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Car Nicobar Amphibious Defense Exercise Zone",
-     "type": "Remote Island Defense Training Area",
-     "significance": "Practice of defending and retaking small, strategic islands",
-     "coordinates": [
-       { "lat": 8.5, "lon": 92.5 },
-       { "lat": 8.5, "lon": 93.0 },
-       { "lat": 9.5, "lon": 93.0 },
-       { "lat": 9.5, "lon": 92.5 }
-     ]
+   	"name": "Car Nicobar Amphibious Defense Exercise Zone",
+   	"type": "Remote Island Defense Training Area",
+   	"significance": "Practice of defending and retaking small, strategic islands",
+   	"coordinates": [
+   		{ "lat": 8.5, "lon": 92.5 },
+   		{ "lat": 8.5, "lon": 93.0 },
+   		{ "lat": 9.5, "lon": 93.0 },
+   		{ "lat": 9.5, "lon": 92.5 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Chilika Lake Amphibious Operations Area",
-     "type": "Lagoon and Coastal Transition Landing Zone",
-     "significance": "Training in transitions from lagoon to coastal amphibious operations",
-     "coordinates": [
-       { "lat": 19.5, "lon": 85.0 },
-       { "lat": 19.5, "lon": 85.5 },
-       { "lat": 20.0, "lon": 85.5 },
-       { "lat": 20.0, "lon": 85.0 }
-     ]
+   	"name": "Chilika Lake Amphibious Operations Area",
+   	"type": "Lagoon and Coastal Transition Landing Zone",
+   	"significance": "Training in transitions from lagoon to coastal amphibious operations",
+   	"coordinates": [
+   		{ "lat": 19.5, "lon": 85.0 },
+   		{ "lat": 19.5, "lon": 85.5 },
+   		{ "lat": 20.0, "lon": 85.5 },
+   		{ "lat": 20.0, "lon": 85.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Kakinada Bay Amphibious Exercise Sector",
-     "type": "Mangrove and Delta Landing Zone",
-     "significance": "Practice of amphibious operations in complex coastal environments",
-     "coordinates": [
-       { "lat": 16.5, "lon": 82.0 },
-       { "lat": 16.5, "lon": 82.5 },
-       { "lat": 17.0, "lon": 82.5 },
-       { "lat": 17.0, "lon": 82.0 }
-     ]
+   	"name": "Kakinada Bay Amphibious Exercise Sector",
+   	"type": "Mangrove and Delta Landing Zone",
+   	"significance": "Practice of amphibious operations in complex coastal environments",
+   	"coordinates": [
+   		{ "lat": 16.5, "lon": 82.0 },
+   		{ "lat": 16.5, "lon": 82.5 },
+   		{ "lat": 17.0, "lon": 82.5 },
+   		{ "lat": 17.0, "lon": 82.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Karwar Naval Base Amphibious Training Area",
-     "type": "Advanced Amphibious Warfare Exercise Zone",
-     "significance": "Integration of naval special forces in amphibious operations",
-     "coordinates": [
-       { "lat": 14.5, "lon": 74.0 },
-       { "lat": 14.5, "lon": 74.5 },
-       { "lat": 15.0, "lon": 74.5 },
-       { "lat": 15.0, "lon": 74.0 }
-     ]
+   	"name": "Karwar Naval Base Amphibious Training Area",
+   	"type": "Advanced Amphibious Warfare Exercise Zone",
+   	"significance": "Integration of naval special forces in amphibious operations",
+   	"coordinates": [
+   		{ "lat": 14.5, "lon": 74.0 },
+   		{ "lat": 14.5, "lon": 74.5 },
+   		{ "lat": 15.0, "lon": 74.5 },
+   		{ "lat": 15.0, "lon": 74.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Sundarbans Delta Amphibious Patrol Zone",
-      "type": "Riverine-Coastal Transition Exercise Area",
-      "significance": "Training in amphibious operations in delta and mangrove environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Amphibious Patrol Zone",
+    	"type": "Riverine-Coastal Transition Exercise Area",
+    	"significance": "Training in amphibious operations in delta and mangrove environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Pamban Bridge Assault Training Zone",
-      "type": "Strategic Infrastructure Seizure Exercise Area",
-      "significance": "Practice of amphibious operations to secure critical coastal infrastructure",
-      "coordinates": [
-        { "lat": 9.0, "lon": 79.0 },
-        { "lat": 9.0, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.0 }
-      ]
+    	"name": "Pamban Bridge Assault Training Zone",
+    	"type": "Strategic Infrastructure Seizure Exercise Area",
+    	"significance": "Practice of amphibious operations to secure critical coastal infrastructure",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 79.0 },
+    		{ "lat": 9.0, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Kochi Backwaters Amphibious Maneuver Area",
-      "type": "Inland Waterway Assault Training Zone",
-      "significance": "Exercises in transitioning from sea to inland waterway operations",
-      "coordinates": [
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.0, "lon": 76.5 },
-        { "lat": 10.0, "lon": 76.0 }
-      ]
+    	"name": "Kochi Backwaters Amphibious Maneuver Area",
+    	"type": "Inland Waterway Assault Training Zone",
+    	"significance": "Exercises in transitioning from sea to inland waterway operations",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.0, "lon": 76.5 },
+    		{ "lat": 10.0, "lon": 76.0 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Sagar Island Amphibious Landing Zone",
-      "type": "River Mouth Assault Training Area",
-      "significance": "Practice of securing strategic river delta positions",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.0 },
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.0 }
-      ]
+    	"name": "Sagar Island Amphibious Landing Zone",
+    	"type": "River Mouth Assault Training Area",
+    	"significance": "Practice of securing strategic river delta positions",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.0 },
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Kavatti Island Commando Insertion Area",
-      "type": "Small Island Covert Landing Zone",
-      "significance": "Training for special forces in clandestine amphibious insertions",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.5 }
-      ]
+    	"name": "Kavatti Island Commando Insertion Area",
+    	"type": "Small Island Covert Landing Zone",
+    	"significance": "Training for special forces in clandestine amphibious insertions",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.5 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Paradip Port Amphibious Assault Zone",
-      "type": "Port Seizure Exercise Area",
-      "significance": "Training in amphibious operations to capture and secure port facilities",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.5 }
-      ]
+    	"name": "Paradip Port Amphibious Assault Zone",
+    	"type": "Port Seizure Exercise Area",
+    	"significance": "Training in amphibious operations to capture and secure port facilities",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.5 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Little Andaman Island Beachhead Establishment Zone",
-      "type": "Remote Beach Landing Exercise Area",
-      "significance": "Practice of establishing and expanding beachheads on remote islands",
-      "coordinates": [
-        { "lat": 10.5, "lon": 92.0 },
-        { "lat": 10.5, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman Island Beachhead Establishment Zone",
+    	"type": "Remote Beach Landing Exercise Area",
+    	"significance": "Practice of establishing and expanding beachheads on remote islands",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 92.0 },
+    		{ "lat": 10.5, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Mundra Port Amphibious Raid Exercise Area",
-      "type": "Commercial Port Defense Training Zone",
-      "significance": "Simulations of defending and recapturing major commercial ports",
-      "coordinates": [
-        { "lat": 22.5, "lon": 69.5 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 23.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 69.5 }
-      ]
+    	"name": "Mundra Port Amphibious Raid Exercise Area",
+    	"type": "Commercial Port Defense Training Zone",
+    	"significance": "Simulations of defending and recapturing major commercial ports",
+    	"coordinates": [
+    		{ "lat": 22.5, "lon": 69.5 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 69.5 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Mahanadi Delta Amphibious Maneuver Zone",
-      "type": "River Delta Assault Training Area",
-      "significance": "Exercises in navigating and securing complex river delta regions",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.0 }
-      ]
+    	"name": "Mahanadi Delta Amphibious Maneuver Zone",
+    	"type": "River Delta Assault Training Area",
+    	"significance": "Exercises in navigating and securing complex river delta regions",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Kavaratti Island Defense Exercise Zone",
-      "type": "Coral Island Fortification Training Area",
-      "significance": "Practice of defending and counter-attacking on small coral islands",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.0 },
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 11.0, "lon": 72.5 },
-        { "lat": 11.0, "lon": 72.0 }
-      ]
+    	"name": "Kavaratti Island Defense Exercise Zone",
+    	"type": "Coral Island Fortification Training Area",
+    	"significance": "Practice of defending and counter-attacking on small coral islands",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.0 },
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 11.0, "lon": 72.5 },
+    		{ "lat": 11.0, "lon": 72.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Daman and Diu Amphibious Assault Training Area",
-      "type": "Historical Fort Recapture Exercise Zone",
-      "significance": "Simulations of recapturing historical coastal fortifications",
-      "coordinates": [
-        { "lat": 20.3, "lon": 72.5 },
-        { "lat": 20.3, "lon": 73.0 },
-        { "lat": 20.8, "lon": 73.0 },
-        { "lat": 20.8, "lon": 72.5 }
-      ]
+    	"name": "Daman and Diu Amphibious Assault Training Area",
+    	"type": "Historical Fort Recapture Exercise Zone",
+    	"significance": "Simulations of recapturing historical coastal fortifications",
+    	"coordinates": [
+    		{ "lat": 20.3, "lon": 72.5 },
+    		{ "lat": 20.3, "lon": 73.0 },
+    		{ "lat": 20.8, "lon": 73.0 },
+    		{ "lat": 20.8, "lon": 72.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Netrani Island Vertical Assault Training Zone",
-      "type": "Helicopter-borne Amphibious Landing Area",
-      "significance": "Practice of combined helicopter and waterborne amphibious assaults",
-      "coordinates": [
-        { "lat": 14.0, "lon": 74.3 },
-        { "lat": 14.0, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.3 }
-      ]
+    	"name": "Netrani Island Vertical Assault Training Zone",
+    	"type": "Helicopter-borne Amphibious Landing Area",
+    	"significance": "Practice of combined helicopter and waterborne amphibious assaults",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 74.3 },
+    		{ "lat": 14.0, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.3 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Bhitarkanika Mangrove Amphibious Exercise Area",
-      "type": "Ecological Sensitive Zone Landing Practice",
-      "significance": "Training in minimal impact amphibious operations in protected areas",
-      "coordinates": [
-        { "lat": 20.5, "lon": 86.5 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 21.0, "lon": 87.0 },
-        { "lat": 21.0, "lon": 86.5 }
-      ]
+    	"name": "Bhitarkanika Mangrove Amphibious Exercise Area",
+    	"type": "Ecological Sensitive Zone Landing Practice",
+    	"significance": "Training in minimal impact amphibious operations in protected areas",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 86.5 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 86.5 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Minicoy Island Lagoon Assault Training Zone",
-      "type": "Atoll Lagoon Amphibious Exercise Area",
-      "significance": "Practice of breaching and securing atoll lagoon entrances",
-      "coordinates": [
-        { "lat": 8.0, "lon": 73.0 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.0 }
-      ]
+    	"name": "Minicoy Island Lagoon Assault Training Zone",
+    	"type": "Atoll Lagoon Amphibious Exercise Area",
+    	"significance": "Practice of breaching and securing atoll lagoon entrances",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 73.0 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Machilipatnam Coastal Swamp Landing Zone",
-      "type": "Marshland Amphibious Operation Area",
-      "significance": "Training in amphibious movements through coastal swamps and marshes",
-      "coordinates": [
-        { "lat": 15.5, "lon": 80.5 },
-        { "lat": 15.5, "lon": 81.0 },
-        { "lat": 16.0, "lon": 81.0 },
-        { "lat": 16.0, "lon": 80.5 }
-      ]
+    	"name": "Machilipatnam Coastal Swamp Landing Zone",
+    	"type": "Marshland Amphibious Operation Area",
+    	"significance": "Training in amphibious movements through coastal swamps and marshes",
+    	"coordinates": [
+    		{ "lat": 15.5, "lon": 80.5 },
+    		{ "lat": 15.5, "lon": 81.0 },
+    		{ "lat": 16.0, "lon": 81.0 },
+    		{ "lat": 16.0, "lon": 80.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Elephanta Island Historical Assault Training Area",
-      "type": "Urban-Coastal Interface Landing Zone",
-      "significance": "Practice of amphibious operations in historically significant coastal areas",
-      "coordinates": [
-        { "lat": 18.9, "lon": 72.9 },
-        { "lat": 18.9, "lon": 73.0 },
-        { "lat": 19.0, "lon": 73.0 },
-        { "lat": 19.0, "lon": 72.9 }
-      ]
+    	"name": "Elephanta Island Historical Assault Training Area",
+    	"type": "Urban-Coastal Interface Landing Zone",
+    	"significance": "Practice of amphibious operations in historically significant coastal areas",
+    	"coordinates": [
+    		{ "lat": 18.9, "lon": 72.9 },
+    		{ "lat": 18.9, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 72.9 }
+    	]
     }
     ```
 
@@ -1057,351 +1057,351 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Deep Water ASW Zone",
-     "type": "Deep Sea Submarine Detection Exercise Area",
-     "significance": "Training in long-range submarine detection and tracking",
-     "coordinates": [
-       { "lat": 15.0, "lon": 65.0 },
-       { "lat": 15.0, "lon": 70.0 },
-       { "lat": 20.0, "lon": 70.0 },
-       { "lat": 20.0, "lon": 65.0 }
-     ]
+   	"name": "Arabian Sea Deep Water ASW Zone",
+   	"type": "Deep Sea Submarine Detection Exercise Area",
+   	"significance": "Training in long-range submarine detection and tracking",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 65.0 },
+   		{ "lat": 15.0, "lon": 70.0 },
+   		{ "lat": 20.0, "lon": 70.0 },
+   		{ "lat": 20.0, "lon": 65.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Bay of Bengal ASW Training Sector",
-     "type": "Multi-Layer ASW Exercise Zone",
-     "significance": "Integrated air, surface, and subsurface ASW operations",
-     "coordinates": [
-       { "lat": 12.0, "lon": 85.0 },
-       { "lat": 12.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal ASW Training Sector",
+   	"type": "Multi-Layer ASW Exercise Zone",
+   	"significance": "Integrated air, surface, and subsurface ASW operations",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 85.0 },
+   		{ "lat": 12.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 85.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Lakshadweep Sea Shallow Water ASW Area",
-     "type": "Littoral ASW Training Zone",
-     "significance": "Exercises in detecting submarines in complex shallow water environments",
-     "coordinates": [
-       { "lat": 10.0, "lon": 72.0 },
-       { "lat": 10.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 72.0 }
-     ]
+   	"name": "Lakshadweep Sea Shallow Water ASW Area",
+   	"type": "Littoral ASW Training Zone",
+   	"significance": "Exercises in detecting submarines in complex shallow water environments",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 72.0 },
+   		{ "lat": 10.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 72.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Andaman Sea ASW Exercise Zone",
-     "type": "Strategic ASW Choke Point Training Area",
-     "significance": "Submarine detection exercises near critical maritime passages",
-     "coordinates": [
-       { "lat": 10.0, "lon": 92.0 },
-       { "lat": 10.0, "lon": 94.0 },
-       { "lat": 13.0, "lon": 94.0 },
-       { "lat": 13.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea ASW Exercise Zone",
+   	"type": "Strategic ASW Choke Point Training Area",
+   	"significance": "Submarine detection exercises near critical maritime passages",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 92.0 },
+   		{ "lat": 10.0, "lon": 94.0 },
+   		{ "lat": 13.0, "lon": 94.0 },
+   		{ "lat": 13.0, "lon": 92.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Gujarat Coast ASW Patrol Sector",
-     "type": "Coastal Submarine Defense Exercise Zone",
-     "significance": "Training in protecting coastal waters from submarine intrusion",
-     "coordinates": [
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 68.0 }
-     ]
+   	"name": "Gujarat Coast ASW Patrol Sector",
+   	"type": "Coastal Submarine Defense Exercise Zone",
+   	"significance": "Training in protecting coastal waters from submarine intrusion",
+   	"coordinates": [
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 68.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Eastern Seaboard Deep Water ASW Zone",
-     "type": "Advanced Submarine Hunting Exercise Area",
-     "significance": "Training with advanced sonar systems in varying depth conditions",
-     "coordinates": [
-       { "lat": 13.0, "lon": 82.0 },
-       { "lat": 13.0, "lon": 85.0 },
-       { "lat": 16.0, "lon": 85.0 },
-       { "lat": 16.0, "lon": 82.0 }
-     ]
+   	"name": "Eastern Seaboard Deep Water ASW Zone",
+   	"type": "Advanced Submarine Hunting Exercise Area",
+   	"significance": "Training with advanced sonar systems in varying depth conditions",
+   	"coordinates": [
+   		{ "lat": 13.0, "lon": 82.0 },
+   		{ "lat": 13.0, "lon": 85.0 },
+   		{ "lat": 16.0, "lon": 85.0 },
+   		{ "lat": 16.0, "lon": 82.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Southern Peninsula ASW Training Area",
-     "type": "Multi-Environment ASW Exercise Zone",
-     "significance": "Submarine detection training in diverse oceanographic conditions",
-     "coordinates": [
-       { "lat": 7.0, "lon": 76.0 },
-       { "lat": 7.0, "lon": 79.0 },
-       { "lat": 10.0, "lon": 79.0 },
-       { "lat": 10.0, "lon": 76.0 }
-     ]
+   	"name": "Southern Peninsula ASW Training Area",
+   	"type": "Multi-Environment ASW Exercise Zone",
+   	"significance": "Submarine detection training in diverse oceanographic conditions",
+   	"coordinates": [
+   		{ "lat": 7.0, "lon": 76.0 },
+   		{ "lat": 7.0, "lon": 79.0 },
+   		{ "lat": 10.0, "lon": 79.0 },
+   		{ "lat": 10.0, "lon": 76.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Nicobar Islands ASW Barrier Exercise Zone",
-     "type": "Island Chain ASW Defense Training Area",
-     "significance": "Exercises in creating ASW barriers between island groups",
-     "coordinates": [
-       { "lat": 6.0, "lon": 92.0 },
-       { "lat": 6.0, "lon": 94.0 },
-       { "lat": 9.0, "lon": 94.0 },
-       { "lat": 9.0, "lon": 92.0 }
-     ]
+   	"name": "Nicobar Islands ASW Barrier Exercise Zone",
+   	"type": "Island Chain ASW Defense Training Area",
+   	"significance": "Exercises in creating ASW barriers between island groups",
+   	"coordinates": [
+   		{ "lat": 6.0, "lon": 92.0 },
+   		{ "lat": 6.0, "lon": 94.0 },
+   		{ "lat": 9.0, "lon": 94.0 },
+   		{ "lat": 9.0, "lon": 92.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Mumbai-Goa Coastal ASW Sector",
-     "type": "Littoral Warfare Training Zone",
-     "significance": "Shallow water ASW exercises near major naval bases",
-     "coordinates": [
-       { "lat": 15.0, "lon": 72.0 },
-       { "lat": 15.0, "lon": 73.5 },
-       { "lat": 19.0, "lon": 73.5 },
-       { "lat": 19.0, "lon": 72.0 }
-     ]
+   	"name": "Mumbai-Goa Coastal ASW Sector",
+   	"type": "Littoral Warfare Training Zone",
+   	"significance": "Shallow water ASW exercises near major naval bases",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 72.0 },
+   		{ "lat": 15.0, "lon": 73.5 },
+   		{ "lat": 19.0, "lon": 73.5 },
+   		{ "lat": 19.0, "lon": 72.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Northern Bay of Bengal ASW Practice Area",
-      "type": "Riverine Outflow ASW Training Zone",
-      "significance": "ASW exercises in complex water conditions due to river deltas",
-      "coordinates": [
-        { "lat": 19.0, "lon": 87.0 },
-        { "lat": 19.0, "lon": 90.0 },
-        { "lat": 21.0, "lon": 90.0 },
-        { "lat": 21.0, "lon": 87.0 }
-      ]
+    	"name": "Northern Bay of Bengal ASW Practice Area",
+    	"type": "Riverine Outflow ASW Training Zone",
+    	"significance": "ASW exercises in complex water conditions due to river deltas",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 87.0 },
+    		{ "lat": 19.0, "lon": 90.0 },
+    		{ "lat": 21.0, "lon": 90.0 },
+    		{ "lat": 21.0, "lon": 87.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Central Arabian Sea ASW Zone",
-      "type": "Blue Water ASW Exercise Area",
-      "significance": "Long-range submarine detection and engagement training",
-      "coordinates": [
-        { "lat": 16.0, "lon": 62.0 },
-        { "lat": 16.0, "lon": 66.0 },
-        { "lat": 20.0, "lon": 66.0 },
-        { "lat": 20.0, "lon": 62.0 }
-      ]
+    	"name": "Central Arabian Sea ASW Zone",
+    	"type": "Blue Water ASW Exercise Area",
+    	"significance": "Long-range submarine detection and engagement training",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 62.0 },
+    		{ "lat": 16.0, "lon": 66.0 },
+    		{ "lat": 20.0, "lon": 66.0 },
+    		{ "lat": 20.0, "lon": 62.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Kanyakumari ASW Convergence Zone",
-      "type": "Multi-Directional Approach ASW Training Area",
-      "significance": "Exercises in monitoring submarine activities at oceanic junctions",
-      "coordinates": [
-        { "lat": 6.0, "lon": 77.0 },
-        { "lat": 6.0, "lon": 79.0 },
-        { "lat": 8.0, "lon": 79.0 },
-        { "lat": 8.0, "lon": 77.0 }
-      ]
+    	"name": "Kanyakumari ASW Convergence Zone",
+    	"type": "Multi-Directional Approach ASW Training Area",
+    	"significance": "Exercises in monitoring submarine activities at oceanic junctions",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 77.0 },
+    		{ "lat": 6.0, "lon": 79.0 },
+    		{ "lat": 8.0, "lon": 79.0 },
+    		{ "lat": 8.0, "lon": 77.0 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Malacca Strait Approach ASW Zone",
-      "type": "Strategic Waterway ASW Exercise Area",
-      "significance": "Training in submarine detection near critical international sea lanes",
-      "coordinates": [
-        { "lat": 5.0, "lon": 94.0 },
-        { "lat": 5.0, "lon": 96.0 },
-        { "lat": 7.0, "lon": 96.0 },
-        { "lat": 7.0, "lon": 94.0 }
-      ]
+    	"name": "Malacca Strait Approach ASW Zone",
+    	"type": "Strategic Waterway ASW Exercise Area",
+    	"significance": "Training in submarine detection near critical international sea lanes",
+    	"coordinates": [
+    		{ "lat": 5.0, "lon": 94.0 },
+    		{ "lat": 5.0, "lon": 96.0 },
+    		{ "lat": 7.0, "lon": 96.0 },
+    		{ "lat": 7.0, "lon": 94.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Vizag Forward ASW Training Sector",
-      "type": "Eastern Naval Command ASW Exercise Zone",
-      "significance": "Advanced ASW training near major submarine base",
-      "coordinates": [
-        { "lat": 16.0, "lon": 82.0 },
-        { "lat": 16.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 82.0 }
-      ]
+    	"name": "Vizag Forward ASW Training Sector",
+    	"type": "Eastern Naval Command ASW Exercise Zone",
+    	"significance": "Advanced ASW training near major submarine base",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 82.0 },
+    		{ "lat": 16.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 82.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Nine Degree Channel ASW Patrol Zone",
-      "type": "Island Territory Defense ASW Area",
-      "significance": "ASW exercises to protect sea lanes around Lakshadweep",
-      "coordinates": [
-        { "lat": 9.0, "lon": 72.0 },
-        { "lat": 9.0, "lon": 74.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 10.0, "lon": 72.0 }
-      ]
+    	"name": "Nine Degree Channel ASW Patrol Zone",
+    	"type": "Island Territory Defense ASW Area",
+    	"significance": "ASW exercises to protect sea lanes around Lakshadweep",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 72.0 },
+    		{ "lat": 9.0, "lon": 74.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 10.0, "lon": 72.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Andaman Sea Deep Trench ASW Zone",
-      "type": "Extreme Depth ASW Training Area",
-      "significance": "Exercises in detecting deep-diving submarines in varying bathymetry",
-      "coordinates": [
-        { "lat": 9.0, "lon": 91.0 },
-        { "lat": 9.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Deep Trench ASW Zone",
+    	"type": "Extreme Depth ASW Training Area",
+    	"significance": "Exercises in detecting deep-diving submarines in varying bathymetry",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 91.0 },
+    		{ "lat": 9.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 91.0 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Karwar Advanced ASW Training Range",
-      "type": "Next-Generation ASW Technology Testing Zone",
-      "significance": "Trials of new ASW sensors and weapons systems",
-      "coordinates": [
-        { "lat": 14.0, "lon": 73.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 73.0 }
-      ]
+    	"name": "Karwar Advanced ASW Training Range",
+    	"type": "Next-Generation ASW Technology Testing Zone",
+    	"significance": "Trials of new ASW sensors and weapons systems",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 73.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 73.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Sunda Strait Approach ASW Monitoring Zone",
-      "type": "Alternative Strait ASW Exercise Area",
-      "significance": "Training in monitoring submarine activities near secondary straits",
-      "coordinates": [
-        { "lat": 6.0, "lon": 103.0 },
-        { "lat": 6.0, "lon": 105.0 },
-        { "lat": 8.0, "lon": 105.0 },
-        { "lat": 8.0, "lon": 103.0 }
-      ]
+    	"name": "Sunda Strait Approach ASW Monitoring Zone",
+    	"type": "Alternative Strait ASW Exercise Area",
+    	"significance": "Training in monitoring submarine activities near secondary straits",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 103.0 },
+    		{ "lat": 6.0, "lon": 105.0 },
+    		{ "lat": 8.0, "lon": 105.0 },
+    		{ "lat": 8.0, "lon": 103.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Laccadive Sea ASW Exercise Sector",
-      "type": "Comprehensive ASW Training Zone",
-      "significance": "Multi-platform coordinated ASW exercises",
-      "coordinates": [
-        { "lat": 8.0, "lon": 73.0 },
-        { "lat": 8.0, "lon": 76.0 },
-        { "lat": 11.0, "lon": 76.0 },
-        { "lat": 11.0, "lon": 73.0 }
-      ]
+    	"name": "Laccadive Sea ASW Exercise Sector",
+    	"type": "Comprehensive ASW Training Zone",
+    	"significance": "Multi-platform coordinated ASW exercises",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 73.0 },
+    		{ "lat": 8.0, "lon": 76.0 },
+    		{ "lat": 11.0, "lon": 76.0 },
+    		{ "lat": 11.0, "lon": 73.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Dondra Head ASW Patrol Area",
-      "type": "Southern Sri Lanka ASW Exercise Zone",
-      "significance": "ASW training in high-traffic international shipping lane",
-      "coordinates": [
-        { "lat": 5.5, "lon": 80.0 },
-        { "lat": 5.5, "lon": 82.0 },
-        { "lat": 7.0, "lon": 82.0 },
-        { "lat": 7.0, "lon": 80.0 }
-      ]
+    	"name": "Dondra Head ASW Patrol Area",
+    	"type": "Southern Sri Lanka ASW Exercise Zone",
+    	"significance": "ASW training in high-traffic international shipping lane",
+    	"coordinates": [
+    		{ "lat": 5.5, "lon": 80.0 },
+    		{ "lat": 5.5, "lon": 82.0 },
+    		{ "lat": 7.0, "lon": 82.0 },
+    		{ "lat": 7.0, "lon": 80.0 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Porbandar ASW Training Sector",
-      "type": "Northwestern Coastal ASW Zone",
-      "significance": "Shallow water ASW exercises in strategic coastal area",
-      "coordinates": [
-        { "lat": 21.0, "lon": 68.0 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 68.0 }
-      ]
+    	"name": "Porbandar ASW Training Sector",
+    	"type": "Northwestern Coastal ASW Zone",
+    	"significance": "Shallow water ASW exercises in strategic coastal area",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 68.0 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 68.0 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Paradip-Haldia ASW Exercise Area",
-      "type": "Bay of Bengal Western Rim ASW Zone",
-      "significance": "ASW training near major ports and offshore installations",
-      "coordinates": [
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.0, "lon": 89.0 },
-        { "lat": 22.0, "lon": 89.0 },
-        { "lat": 22.0, "lon": 87.0 }
-      ]
+    	"name": "Paradip-Haldia ASW Exercise Area",
+    	"type": "Bay of Bengal Western Rim ASW Zone",
+    	"significance": "ASW training near major ports and offshore installations",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.0, "lon": 89.0 },
+    		{ "lat": 22.0, "lon": 89.0 },
+    		{ "lat": 22.0, "lon": 87.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Gulf of Mannar ASW Practice Zone",
-      "type": "Shallow Strait ASW Exercise Area",
-      "significance": "Training in ASW operations in narrow, shallow waters",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar ASW Practice Zone",
+    	"type": "Shallow Strait ASW Exercise Area",
+    	"significance": "Training in ASW operations in narrow, shallow waters",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Indira Point ASW Frontier Zone",
-      "type": "Southernmost ASW Exercise Area",
-      "significance": "Long-range ASW patrols and exercises from southernmost base",
-      "coordinates": [
-        { "lat": 6.0, "lon": 93.0 },
-        { "lat": 6.0, "lon": 94.5 },
-        { "lat": 7.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 93.0 }
-      ]
+    	"name": "Indira Point ASW Frontier Zone",
+    	"type": "Southernmost ASW Exercise Area",
+    	"significance": "Long-range ASW patrols and exercises from southernmost base",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 93.0 },
+    		{ "lat": 6.0, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 93.0 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Sundarbans ASW Patrol Sector",
-      "type": "Complex Delta ASW Training Zone",
-      "significance": "ASW exercises in challenging coastal and riverine environments",
-      "coordinates": [
-        { "lat": 21.0, "lon": 88.0 },
-        { "lat": 21.0, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.0 }
-      ]
+    	"name": "Sundarbans ASW Patrol Sector",
+    	"type": "Complex Delta ASW Training Zone",
+    	"significance": "ASW exercises in challenging coastal and riverine environments",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 88.0 },
+    		{ "lat": 21.0, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.0 }
+    	]
     }
     ```
 
@@ -1409,351 +1409,351 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Western MIO Training Zone",
-     "type": "Deep Sea Interdiction Exercise Area",
-     "significance": "Practice of long-range interdiction operations in open waters",
-     "coordinates": [
-       { "lat": 15.0, "lon": 65.0 },
-       { "lat": 15.0, "lon": 68.0 },
-       { "lat": 18.0, "lon": 68.0 },
-       { "lat": 18.0, "lon": 65.0 }
-     ]
+   	"name": "Arabian Sea Western MIO Training Zone",
+   	"type": "Deep Sea Interdiction Exercise Area",
+   	"significance": "Practice of long-range interdiction operations in open waters",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 65.0 },
+   		{ "lat": 15.0, "lon": 68.0 },
+   		{ "lat": 18.0, "lon": 68.0 },
+   		{ "lat": 18.0, "lon": 65.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Lakshadweep Sea MIO Practice Sector",
-     "type": "Island Territory Interdiction Zone",
-     "significance": "Training in interdiction operations around island chains",
-     "coordinates": [
-       { "lat": 10.0, "lon": 72.0 },
-       { "lat": 10.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 72.0 }
-     ]
+   	"name": "Lakshadweep Sea MIO Practice Sector",
+   	"type": "Island Territory Interdiction Zone",
+   	"significance": "Training in interdiction operations around island chains",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 72.0 },
+   		{ "lat": 10.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 72.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Bay of Bengal Eastern MIO Exercise Area",
-     "type": "Large-Scale Maritime Interdiction Zone",
-     "significance": "Coordinated multi-ship interdiction exercises",
-     "coordinates": [
-       { "lat": 13.0, "lon": 85.0 },
-       { "lat": 13.0, "lon": 88.0 },
-       { "lat": 16.0, "lon": 88.0 },
-       { "lat": 16.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal Eastern MIO Exercise Area",
+   	"type": "Large-Scale Maritime Interdiction Zone",
+   	"significance": "Coordinated multi-ship interdiction exercises",
+   	"coordinates": [
+   		{ "lat": 13.0, "lon": 85.0 },
+   		{ "lat": 13.0, "lon": 88.0 },
+   		{ "lat": 16.0, "lon": 88.0 },
+   		{ "lat": 16.0, "lon": 85.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Palk Strait Coastal MIO Training Sector",
-     "type": "Narrow Waters Interdiction Zone",
-     "significance": "Practice of interdiction in confined, shallow waters",
-     "coordinates": [
-       { "lat": 9.0, "lon": 79.5 },
-       { "lat": 9.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 79.5 }
-     ]
+   	"name": "Palk Strait Coastal MIO Training Sector",
+   	"type": "Narrow Waters Interdiction Zone",
+   	"significance": "Practice of interdiction in confined, shallow waters",
+   	"coordinates": [
+   		{ "lat": 9.0, "lon": 79.5 },
+   		{ "lat": 9.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 79.5 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Andaman Sea MIO Exercise Zone",
-     "type": "Remote Territory Interdiction Area",
-     "significance": "Training in long-range MIO to protect distant territories",
-     "coordinates": [
-       { "lat": 10.0, "lon": 92.0 },
-       { "lat": 10.0, "lon": 94.0 },
-       { "lat": 13.0, "lon": 94.0 },
-       { "lat": 13.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea MIO Exercise Zone",
+   	"type": "Remote Territory Interdiction Area",
+   	"significance": "Training in long-range MIO to protect distant territories",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 92.0 },
+   		{ "lat": 10.0, "lon": 94.0 },
+   		{ "lat": 13.0, "lon": 94.0 },
+   		{ "lat": 13.0, "lon": 92.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Gujarat Coast MIO Practice Area",
-     "type": "Coastal Waters Interdiction Zone",
-     "significance": "Exercises in intercepting suspicious vessels near coastline",
-     "coordinates": [
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 68.0 }
-     ]
+   	"name": "Gujarat Coast MIO Practice Area",
+   	"type": "Coastal Waters Interdiction Zone",
+   	"significance": "Exercises in intercepting suspicious vessels near coastline",
+   	"coordinates": [
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 68.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Sundarbans Delta MIO Training Sector",
-     "type": "Complex Coastal Interdiction Zone",
-     "significance": "Practice of MIO in intricate coastal and riverine environments",
-     "coordinates": [
-       { "lat": 21.0, "lon": 88.5 },
-       { "lat": 21.0, "lon": 89.5 },
-       { "lat": 22.0, "lon": 89.5 },
-       { "lat": 22.0, "lon": 88.5 }
-     ]
+   	"name": "Sundarbans Delta MIO Training Sector",
+   	"type": "Complex Coastal Interdiction Zone",
+   	"significance": "Practice of MIO in intricate coastal and riverine environments",
+   	"coordinates": [
+   		{ "lat": 21.0, "lon": 88.5 },
+   		{ "lat": 21.0, "lon": 89.5 },
+   		{ "lat": 22.0, "lon": 89.5 },
+   		{ "lat": 22.0, "lon": 88.5 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Malacca Strait Approach MIO Exercise Area",
-     "type": "Strategic Waterway Interdiction Zone",
-     "significance": "Training in MIO near critical international shipping lanes",
-     "coordinates": [
-       { "lat": 5.0, "lon": 94.0 },
-       { "lat": 5.0, "lon": 96.0 },
-       { "lat": 7.0, "lon": 96.0 },
-       { "lat": 7.0, "lon": 94.0 }
-     ]
+   	"name": "Malacca Strait Approach MIO Exercise Area",
+   	"type": "Strategic Waterway Interdiction Zone",
+   	"significance": "Training in MIO near critical international shipping lanes",
+   	"coordinates": [
+   		{ "lat": 5.0, "lon": 94.0 },
+   		{ "lat": 5.0, "lon": 96.0 },
+   		{ "lat": 7.0, "lon": 96.0 },
+   		{ "lat": 7.0, "lon": 94.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Kanyakumari MIO Practice Zone",
-     "type": "Multi-Sea Convergence Interdiction Area",
-     "significance": "Exercises in MIO at the junction of multiple sea areas",
-     "coordinates": [
-       { "lat": 7.0, "lon": 77.0 },
-       { "lat": 7.0, "lon": 78.5 },
-       { "lat": 8.5, "lon": 78.5 },
-       { "lat": 8.5, "lon": 77.0 }
-     ]
+   	"name": "Kanyakumari MIO Practice Zone",
+   	"type": "Multi-Sea Convergence Interdiction Area",
+   	"significance": "Exercises in MIO at the junction of multiple sea areas",
+   	"coordinates": [
+   		{ "lat": 7.0, "lon": 77.0 },
+   		{ "lat": 7.0, "lon": 78.5 },
+   		{ "lat": 8.5, "lon": 78.5 },
+   		{ "lat": 8.5, "lon": 77.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Mumbai High Offshore MIO Training Sector",
-      "type": "Critical Infrastructure Protection Zone",
-      "significance": "Practice of MIO to safeguard offshore oil and gas installations",
-      "coordinates": [
-        { "lat": 19.0, "lon": 71.0 },
-        { "lat": 19.0, "lon": 72.5 },
-        { "lat": 20.5, "lon": 72.5 },
-        { "lat": 20.5, "lon": 71.0 }
-      ]
+    	"name": "Mumbai High Offshore MIO Training Sector",
+    	"type": "Critical Infrastructure Protection Zone",
+    	"significance": "Practice of MIO to safeguard offshore oil and gas installations",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 71.0 },
+    		{ "lat": 19.0, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 71.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Karwar Naval Base MIO Exercise Area",
-      "type": "Naval Facility Protection Zone",
-      "significance": "Training in MIO to secure approaches to major naval bases",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Karwar Naval Base MIO Exercise Area",
+    	"type": "Naval Facility Protection Zone",
+    	"significance": "Training in MIO to secure approaches to major naval bases",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Kochi High-Speed Interception Training Zone",
-      "type": "Fast-Boat MIO Exercise Area",
-      "significance": "Practice of high-speed interception and boarding operations",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 75.5 }
-      ]
+    	"name": "Kochi High-Speed Interception Training Zone",
+    	"type": "Fast-Boat MIO Exercise Area",
+    	"significance": "Practice of high-speed interception and boarding operations",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 75.5 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Kakinada Offshore MIO Practice Sector",
-      "type": "Energy Infrastructure Defense Zone",
-      "significance": "MIO exercises focused on protecting offshore energy assets",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Offshore MIO Practice Sector",
+    	"type": "Energy Infrastructure Defense Zone",
+    	"significance": "MIO exercises focused on protecting offshore energy assets",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Nicobar Islands Southern Approach MIO Zone",
-      "type": "Remote Territory Access Control Area",
-      "significance": "Training in controlling maritime access to remote island groups",
-      "coordinates": [
-        { "lat": 6.0, "lon": 92.5 },
-        { "lat": 6.0, "lon": 94.0 },
-        { "lat": 8.0, "lon": 94.0 },
-        { "lat": 8.0, "lon": 92.5 }
-      ]
+    	"name": "Nicobar Islands Southern Approach MIO Zone",
+    	"type": "Remote Territory Access Control Area",
+    	"significance": "Training in controlling maritime access to remote island groups",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 92.5 },
+    		{ "lat": 6.0, "lon": 94.0 },
+    		{ "lat": 8.0, "lon": 94.0 },
+    		{ "lat": 8.0, "lon": 92.5 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Porbandar Fast Interception Exercise Area",
-      "type": "Coastal Security Rapid Response Zone",
-      "significance": "Practice of quick reaction MIO in response to coastal security threats",
-      "coordinates": [
-        { "lat": 21.0, "lon": 69.0 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 69.0 }
-      ]
+    	"name": "Porbandar Fast Interception Exercise Area",
+    	"type": "Coastal Security Rapid Response Zone",
+    	"significance": "Practice of quick reaction MIO in response to coastal security threats",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 69.0 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 69.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Visakhapatnam Fleet MIO Training Sector",
-      "type": "Large-Scale Naval Interdiction Zone",
-      "significance": "Coordinated fleet-level MIO exercises involving multiple ship types",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.5 },
-        { "lat": 18.0, "lon": 83.5 },
-        { "lat": 18.0, "lon": 82.0 }
-      ]
+    	"name": "Visakhapatnam Fleet MIO Training Sector",
+    	"type": "Large-Scale Naval Interdiction Zone",
+    	"significance": "Coordinated fleet-level MIO exercises involving multiple ship types",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 82.0 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Gulf of Mannar Smuggling Interdiction Practice Area",
-      "type": "Anti-Smuggling Operations Zone",
-      "significance": "Specialized MIO training focused on combating maritime smuggling",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Smuggling Interdiction Practice Area",
+    	"type": "Anti-Smuggling Operations Zone",
+    	"significance": "Specialized MIO training focused on combating maritime smuggling",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Paradip Port Approach MIO Exercise Sector",
-      "type": "Port Security Interdiction Zone",
-      "significance": "Practice of MIO to secure approaches to major commercial ports",
-      "coordinates": [
-        { "lat": 19.5, "lon": 86.0 },
-        { "lat": 19.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.0 }
-      ]
+    	"name": "Paradip Port Approach MIO Exercise Sector",
+    	"type": "Port Security Interdiction Zone",
+    	"significance": "Practice of MIO to secure approaches to major commercial ports",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 86.0 },
+    		{ "lat": 19.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Lakshadweep Sea Counter-Terrorism MIO Area",
-      "type": "Anti-Terror Maritime Interdiction Zone",
-      "significance": "Specialized training in interdicting vessels suspected of terrorism",
-      "coordinates": [
-        { "lat": 11.0, "lon": 71.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 13.0, "lon": 73.0 },
-        { "lat": 13.0, "lon": 71.0 }
-      ]
+    	"name": "Lakshadweep Sea Counter-Terrorism MIO Area",
+    	"type": "Anti-Terror Maritime Interdiction Zone",
+    	"significance": "Specialized training in interdicting vessels suspected of terrorism",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 71.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 13.0, "lon": 73.0 },
+    		{ "lat": 13.0, "lon": 71.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Car Nicobar Island MIO Training Sector",
-      "type": "Forward Base Interdiction Exercise Zone",
-      "significance": "MIO practice from remote forward operating bases",
-      "coordinates": [
-        { "lat": 8.5, "lon": 92.5 },
-        { "lat": 8.5, "lon": 93.5 },
-        { "lat": 9.5, "lon": 93.5 },
-        { "lat": 9.5, "lon": 92.5 }
-      ]
+    	"name": "Car Nicobar Island MIO Training Sector",
+    	"type": "Forward Base Interdiction Exercise Zone",
+    	"significance": "MIO practice from remote forward operating bases",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 92.5 },
+    		{ "lat": 8.5, "lon": 93.5 },
+    		{ "lat": 9.5, "lon": 93.5 },
+    		{ "lat": 9.5, "lon": 92.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Diu Coast Night-time MIO Practice Area",
-      "type": "Low-Visibility Interdiction Training Zone",
-      "significance": "Exercises in conducting MIO operations under night conditions",
-      "coordinates": [
-        { "lat": 20.5, "lon": 70.5 },
-        { "lat": 20.5, "lon": 71.5 },
-        { "lat": 21.5, "lon": 71.5 },
-        { "lat": 21.5, "lon": 70.5 }
-      ]
+    	"name": "Diu Coast Night-time MIO Practice Area",
+    	"type": "Low-Visibility Interdiction Training Zone",
+    	"significance": "Exercises in conducting MIO operations under night conditions",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 70.5 },
+    		{ "lat": 20.5, "lon": 71.5 },
+    		{ "lat": 21.5, "lon": 71.5 },
+    		{ "lat": 21.5, "lon": 70.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Chilika Lake Special Boat MIO Zone",
-      "type": "Shallow Water Interdiction Training Area",
-      "significance": "Practice of MIO using special boats in shallow, coastal waters",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Special Boat MIO Zone",
+    	"type": "Shallow Water Interdiction Training Area",
+    	"significance": "Practice of MIO using special boats in shallow, coastal waters",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Little Andaman Island MIO Exercise Sector",
-      "type": "Remote EEZ Protection Zone",
-      "significance": "Training in long-range MIO to protect distant EEZ areas",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.5 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 11.5, "lon": 93.0 },
-        { "lat": 11.5, "lon": 91.5 }
-      ]
+    	"name": "Little Andaman Island MIO Exercise Sector",
+    	"type": "Remote EEZ Protection Zone",
+    	"significance": "Training in long-range MIO to protect distant EEZ areas",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.5 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 11.5, "lon": 93.0 },
+    		{ "lat": 11.5, "lon": 91.5 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Goa Naval Aviation MIO Support Training Area",
-      "type": "Air-Sea Coordinated Interdiction Zone",
-      "significance": "Practice of MIO with naval aviation support and coordination",
-      "coordinates": [
-        { "lat": 15.0, "lon": 73.0 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 73.0 }
-      ]
+    	"name": "Goa Naval Aviation MIO Support Training Area",
+    	"type": "Air-Sea Coordinated Interdiction Zone",
+    	"significance": "Practice of MIO with naval aviation support and coordination",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 73.0 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 73.0 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Sagar Island Riverine-Maritime MIO Transition Zone",
-      "type": "River-Sea Interface Interdiction Area",
-      "significance": "Training in MIO at the transition between riverine and maritime environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.0 },
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.0 }
-      ]
+    	"name": "Sagar Island Riverine-Maritime MIO Transition Zone",
+    	"type": "River-Sea Interface Interdiction Area",
+    	"significance": "Training in MIO at the transition between riverine and maritime environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.0 },
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.0 }
+    	]
     }
     ```
 
@@ -1761,351 +1761,351 @@
 
 1. ```json
    {
-     "name": "Gulf of Khambhat Mine Warfare Training Zone",
-     "type": "Shallow Water Mine Operations Area",
-     "significance": "Practice of mine-laying and sweeping in high tidal variation environments",
-     "coordinates": [
-       { "lat": 21.0, "lon": 72.0 },
-       { "lat": 21.0, "lon": 72.5 },
-       { "lat": 22.0, "lon": 72.5 },
-       { "lat": 22.0, "lon": 72.0 }
-     ]
+   	"name": "Gulf of Khambhat Mine Warfare Training Zone",
+   	"type": "Shallow Water Mine Operations Area",
+   	"significance": "Practice of mine-laying and sweeping in high tidal variation environments",
+   	"coordinates": [
+   		{ "lat": 21.0, "lon": 72.0 },
+   		{ "lat": 21.0, "lon": 72.5 },
+   		{ "lat": 22.0, "lon": 72.5 },
+   		{ "lat": 22.0, "lon": 72.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Palk Strait Mine Countermeasures Exercise Area",
-     "type": "Narrow Channel Mine Clearing Zone",
-     "significance": "Training in mine detection and neutralization in confined waters",
-     "coordinates": [
-       { "lat": 9.0, "lon": 79.5 },
-       { "lat": 9.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 79.5 }
-     ]
+   	"name": "Palk Strait Mine Countermeasures Exercise Area",
+   	"type": "Narrow Channel Mine Clearing Zone",
+   	"significance": "Training in mine detection and neutralization in confined waters",
+   	"coordinates": [
+   		{ "lat": 9.0, "lon": 79.5 },
+   		{ "lat": 9.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 79.5 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Lakshadweep Sea Deep Water Mining Range",
-     "type": "Deep Sea Mine Warfare Training Area",
-     "significance": "Exercises in deep-water mine-laying and detection techniques",
-     "coordinates": [
-       { "lat": 10.0, "lon": 71.0 },
-       { "lat": 10.0, "lon": 73.0 },
-       { "lat": 12.0, "lon": 73.0 },
-       { "lat": 12.0, "lon": 71.0 }
-     ]
+   	"name": "Lakshadweep Sea Deep Water Mining Range",
+   	"type": "Deep Sea Mine Warfare Training Area",
+   	"significance": "Exercises in deep-water mine-laying and detection techniques",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 71.0 },
+   		{ "lat": 10.0, "lon": 73.0 },
+   		{ "lat": 12.0, "lon": 73.0 },
+   		{ "lat": 12.0, "lon": 71.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Visakhapatnam Approach Mine Defense Zone",
-     "type": "Port Approach Mine Clearing Area",
-     "significance": "Practice of keeping strategic port approaches free of mines",
-     "coordinates": [
-       { "lat": 17.5, "lon": 83.0 },
-       { "lat": 17.5, "lon": 83.5 },
-       { "lat": 18.0, "lon": 83.5 },
-       { "lat": 18.0, "lon": 83.0 }
-     ]
+   	"name": "Visakhapatnam Approach Mine Defense Zone",
+   	"type": "Port Approach Mine Clearing Area",
+   	"significance": "Practice of keeping strategic port approaches free of mines",
+   	"coordinates": [
+   		{ "lat": 17.5, "lon": 83.0 },
+   		{ "lat": 17.5, "lon": 83.5 },
+   		{ "lat": 18.0, "lon": 83.5 },
+   		{ "lat": 18.0, "lon": 83.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Kori Creek Minefield Training Area",
-     "type": "Defensive Minefield Deployment Zone",
-     "significance": "Training in the use of minefields for coastal defense",
-     "coordinates": [
-       { "lat": 23.0, "lon": 68.5 },
-       { "lat": 23.0, "lon": 69.0 },
-       { "lat": 23.5, "lon": 69.0 },
-       { "lat": 23.5, "lon": 68.5 }
-     ]
+   	"name": "Kori Creek Minefield Training Area",
+   	"type": "Defensive Minefield Deployment Zone",
+   	"significance": "Training in the use of minefields for coastal defense",
+   	"coordinates": [
+   		{ "lat": 23.0, "lon": 68.5 },
+   		{ "lat": 23.0, "lon": 69.0 },
+   		{ "lat": 23.5, "lon": 69.0 },
+   		{ "lat": 23.5, "lon": 68.5 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Andaman Sea Mine Warfare Exercise Zone",
-     "type": "Archipelagic Waters Mine Operations Area",
-     "significance": "Practice of mine warfare in complex island chain environments",
-     "coordinates": [
-       { "lat": 11.0, "lon": 92.0 },
-       { "lat": 11.0, "lon": 93.0 },
-       { "lat": 12.0, "lon": 93.0 },
-       { "lat": 12.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea Mine Warfare Exercise Zone",
+   	"type": "Archipelagic Waters Mine Operations Area",
+   	"significance": "Practice of mine warfare in complex island chain environments",
+   	"coordinates": [
+   		{ "lat": 11.0, "lon": 92.0 },
+   		{ "lat": 11.0, "lon": 93.0 },
+   		{ "lat": 12.0, "lon": 93.0 },
+   		{ "lat": 12.0, "lon": 92.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Kochi Naval Base Mine Defense Sector",
-     "type": "Strategic Asset Protection Mine Warfare Zone",
-     "significance": "Training in protecting key naval facilities from mine threats",
-     "coordinates": [
-       { "lat": 9.5, "lon": 76.0 },
-       { "lat": 9.5, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.0 }
-     ]
+   	"name": "Kochi Naval Base Mine Defense Sector",
+   	"type": "Strategic Asset Protection Mine Warfare Zone",
+   	"significance": "Training in protecting key naval facilities from mine threats",
+   	"coordinates": [
+   		{ "lat": 9.5, "lon": 76.0 },
+   		{ "lat": 9.5, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Kakinada Bay Mine Countermeasures Area",
-     "type": "Coastal Mine Clearing Exercise Zone",
-     "significance": "Practice of mine detection in shallow, turbid waters",
-     "coordinates": [
-       { "lat": 16.5, "lon": 82.0 },
-       { "lat": 16.5, "lon": 82.5 },
-       { "lat": 17.0, "lon": 82.5 },
-       { "lat": 17.0, "lon": 82.0 }
-     ]
+   	"name": "Kakinada Bay Mine Countermeasures Area",
+   	"type": "Coastal Mine Clearing Exercise Zone",
+   	"significance": "Practice of mine detection in shallow, turbid waters",
+   	"coordinates": [
+   		{ "lat": 16.5, "lon": 82.0 },
+   		{ "lat": 16.5, "lon": 82.5 },
+   		{ "lat": 17.0, "lon": 82.5 },
+   		{ "lat": 17.0, "lon": 82.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Karwar Deep Water Mine Warfare Range",
-     "type": "Advanced Mine Technology Testing Area",
-     "significance": "Evaluation of new mine warfare technologies and tactics",
-     "coordinates": [
-       { "lat": 14.5, "lon": 73.5 },
-       { "lat": 14.5, "lon": 74.0 },
-       { "lat": 15.0, "lon": 74.0 },
-       { "lat": 15.0, "lon": 73.5 }
-     ]
+   	"name": "Karwar Deep Water Mine Warfare Range",
+   	"type": "Advanced Mine Technology Testing Area",
+   	"significance": "Evaluation of new mine warfare technologies and tactics",
+   	"coordinates": [
+   		{ "lat": 14.5, "lon": 73.5 },
+   		{ "lat": 14.5, "lon": 74.0 },
+   		{ "lat": 15.0, "lon": 74.0 },
+   		{ "lat": 15.0, "lon": 73.5 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Gulf of Mannar Mine Hunting Exercise Zone",
-      "type": "Coral Reef Mine Detection Area",
-      "significance": "Training in mine detection in sensitive marine environments",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.0 },
-        { "lat": 9.5, "lon": 79.0 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Mine Hunting Exercise Zone",
+    	"type": "Coral Reef Mine Detection Area",
+    	"significance": "Training in mine detection in sensitive marine environments",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.0 },
+    		{ "lat": 9.5, "lon": 79.0 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Sundarbans Delta Mine Warfare Training Sector",
-      "type": "Riverine-Coastal Mine Operations Zone",
-      "significance": "Practice of mine warfare in complex delta environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Mine Warfare Training Sector",
+    	"type": "Riverine-Coastal Mine Operations Zone",
+    	"significance": "Practice of mine warfare in complex delta environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Mumbai Harbor Approach Mine Defense Area",
-      "type": "Major Port Mine Countermeasures Zone",
-      "significance": "Training in keeping vital commercial ports free from mine threats",
-      "coordinates": [
-        { "lat": 18.5, "lon": 72.5 },
-        { "lat": 18.5, "lon": 73.0 },
-        { "lat": 19.0, "lon": 73.0 },
-        { "lat": 19.0, "lon": 72.5 }
-      ]
+    	"name": "Mumbai Harbor Approach Mine Defense Area",
+    	"type": "Major Port Mine Countermeasures Zone",
+    	"significance": "Training in keeping vital commercial ports free from mine threats",
+    	"coordinates": [
+    		{ "lat": 18.5, "lon": 72.5 },
+    		{ "lat": 18.5, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 72.5 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Chilika Lake Mine Warfare Exercise Area",
-      "type": "Coastal Lagoon Mine Operations Zone",
-      "significance": "Practice of mine warfare in shallow, enclosed water bodies",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Mine Warfare Exercise Area",
+    	"type": "Coastal Lagoon Mine Operations Zone",
+    	"significance": "Practice of mine warfare in shallow, enclosed water bodies",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Ten Degree Channel Mine Barrier Exercise Zone",
-      "type": "Strategic Waterway Mine Defense Area",
-      "significance": "Training in the use of mines to control key maritime passages",
-      "coordinates": [
-        { "lat": 9.0, "lon": 92.0 },
-        { "lat": 9.0, "lon": 93.0 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 10.0, "lon": 92.0 }
-      ]
+    	"name": "Ten Degree Channel Mine Barrier Exercise Zone",
+    	"type": "Strategic Waterway Mine Defense Area",
+    	"significance": "Training in the use of mines to control key maritime passages",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 92.0 },
+    		{ "lat": 9.0, "lon": 93.0 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 10.0, "lon": 92.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Porbandar Coastal Mine Warfare Training Area",
-      "type": "Shallow Water Mine Detection Zone",
-      "significance": "Practice of mine countermeasures in sandy, shallow coastal waters",
-      "coordinates": [
-        { "lat": 21.5, "lon": 69.5 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 69.5 }
-      ]
+    	"name": "Porbandar Coastal Mine Warfare Training Area",
+    	"type": "Shallow Water Mine Detection Zone",
+    	"significance": "Practice of mine countermeasures in sandy, shallow coastal waters",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 69.5 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 69.5 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Paradip Port Mine Defense Exercise Zone",
-      "type": "Commercial Harbor Mine Clearing Area",
-      "significance": "Training in mine countermeasures for busy commercial ports",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.5 }
-      ]
+    	"name": "Paradip Port Mine Defense Exercise Zone",
+    	"type": "Commercial Harbor Mine Clearing Area",
+    	"significance": "Training in mine countermeasures for busy commercial ports",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.5 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Lakshadweep Islands Mine Warfare Training Sector",
-      "type": "Coral Atoll Mine Operations Zone",
-      "significance": "Practice of mine warfare in and around coral island formations",
-      "coordinates": [
-        { "lat": 10.0, "lon": 72.0 },
-        { "lat": 10.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.0 }
-      ]
+    	"name": "Lakshadweep Islands Mine Warfare Training Sector",
+    	"type": "Coral Atoll Mine Operations Zone",
+    	"significance": "Practice of mine warfare in and around coral island formations",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 72.0 },
+    		{ "lat": 10.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Goa Naval Area Mine Defense Training Zone",
-      "type": "Coastal Naval Base Mine Protection Area",
-      "significance": "Exercises in defending naval facilities from sea-laid mines",
-      "coordinates": [
-        { "lat": 15.0, "lon": 73.5 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.5, "lon": 74.0 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Goa Naval Area Mine Defense Training Zone",
+    	"type": "Coastal Naval Base Mine Protection Area",
+    	"significance": "Exercises in defending naval facilities from sea-laid mines",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 73.5 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Little Andaman Island Mine Warfare Exercise Area",
-      "type": "Remote Island Mine Defense Zone",
-      "significance": "Training in mine warfare for protecting distant island territories",
-      "coordinates": [
-        { "lat": 10.5, "lon": 92.0 },
-        { "lat": 10.5, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman Island Mine Warfare Exercise Area",
+    	"type": "Remote Island Mine Defense Zone",
+    	"significance": "Training in mine warfare for protecting distant island territories",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 92.0 },
+    		{ "lat": 10.5, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Dhamra Port Approach Mine Countermeasures Zone",
-      "type": "Emerging Port Mine Defense Area",
-      "significance": "Practice of mine clearing operations for newly developed ports",
-      "coordinates": [
-        { "lat": 20.5, "lon": 86.5 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 21.0, "lon": 87.0 },
-        { "lat": 21.0, "lon": 86.5 }
-      ]
+    	"name": "Dhamra Port Approach Mine Countermeasures Zone",
+    	"type": "Emerging Port Mine Defense Area",
+    	"significance": "Practice of mine clearing operations for newly developed ports",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 86.5 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 86.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Hooghly River Estuary Mine Warfare Training Area",
-      "type": "Riverine Mine Operations Zone",
-      "significance": "Training in mine warfare in river mouths and estuaries",
-      "coordinates": [
-        { "lat": 21.5, "lon": 87.5 },
-        { "lat": 21.5, "lon": 88.0 },
-        { "lat": 22.0, "lon": 88.0 },
-        { "lat": 22.0, "lon": 87.5 }
-      ]
+    	"name": "Hooghly River Estuary Mine Warfare Training Area",
+    	"type": "Riverine Mine Operations Zone",
+    	"significance": "Training in mine warfare in river mouths and estuaries",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 87.5 },
+    		{ "lat": 21.5, "lon": 88.0 },
+    		{ "lat": 22.0, "lon": 88.0 },
+    		{ "lat": 22.0, "lon": 87.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Minicoy Island Mine Defense Exercise Zone",
-      "type": "Remote Strategic Island Mine Protection Area",
-      "significance": "Practice of defending isolated, strategic islands from mine threats",
-      "coordinates": [
-        { "lat": 8.0, "lon": 73.0 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.0 }
-      ]
+    	"name": "Minicoy Island Mine Defense Exercise Zone",
+    	"type": "Remote Strategic Island Mine Protection Area",
+    	"significance": "Practice of defending isolated, strategic islands from mine threats",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 73.0 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Kavatti Island Minefield Training Sector",
-      "type": "Small Island Mine Barrier Exercise Area",
-      "significance": "Training in using minefields to protect small, strategic islands",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.5 }
-      ]
+    	"name": "Kavatti Island Minefield Training Sector",
+    	"type": "Small Island Mine Barrier Exercise Area",
+    	"significance": "Training in using minefields to protect small, strategic islands",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.5 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Car Nicobar Mine Warfare Exercise Zone",
-      "type": "Forward Base Mine Defense Area",
-      "significance": "Practice of mine warfare to protect forward naval and air bases",
-      "coordinates": [
-        { "lat": 9.0, "lon": 92.5 },
-        { "lat": 9.0, "lon": 93.0 },
-        { "lat": 9.5, "lon": 93.0 },
-        { "lat": 9.5, "lon": 92.5 }
-      ]
+    	"name": "Car Nicobar Mine Warfare Exercise Zone",
+    	"type": "Forward Base Mine Defense Area",
+    	"significance": "Practice of mine warfare to protect forward naval and air bases",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 92.5 },
+    		{ "lat": 9.0, "lon": 93.0 },
+    		{ "lat": 9.5, "lon": 93.0 },
+    		{ "lat": 9.5, "lon": 92.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Kandla Port Mine Countermeasures Training Area",
-      "type": "High-Traffic Port Mine Clearing Zone",
-      "significance": "Training in mine detection and clearing in busy port approaches",
-      "coordinates": [
-        { "lat": 22.5, "lon": 69.5 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 23.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 69.5 }
-      ]
+    	"name": "Kandla Port Mine Countermeasures Training Area",
+    	"type": "High-Traffic Port Mine Clearing Zone",
+    	"significance": "Training in mine detection and clearing in busy port approaches",
+    	"coordinates": [
+    		{ "lat": 22.5, "lon": 69.5 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 69.5 }
+    	]
     }
     ```
 
@@ -2113,1400 +2113,1400 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Western Fleet Exercise Area",
-     "type": "Naval Exercise Zone",
-     "significance": "Large-scale fleet maneuvers and war games",
-     "coordinates": [
-       { "lat": 15.0, "lon": 66.0 },
-       { "lat": 15.0, "lon": 70.0 },
-       { "lat": 19.0, "lon": 70.0 },
-       { "lat": 19.0, "lon": 66.0 }
-     ]
+   	"name": "Arabian Sea Western Fleet Exercise Area",
+   	"type": "Naval Exercise Zone",
+   	"significance": "Large-scale fleet maneuvers and war games",
+   	"coordinates": [
+   		{ "lat": 15.0, "lon": 66.0 },
+   		{ "lat": 15.0, "lon": 70.0 },
+   		{ "lat": 19.0, "lon": 70.0 },
+   		{ "lat": 19.0, "lon": 66.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Lakshadweep Anti-Submarine Warfare Zone",
-     "type": "ASW Operations Area",
-     "significance": "Submarine detection and tracking exercises",
-     "coordinates": [
-       { "lat": 10.0, "lon": 71.0 },
-       { "lat": 10.0, "lon": 74.0 },
-       { "lat": 13.0, "lon": 74.0 },
-       { "lat": 13.0, "lon": 71.0 }
-     ]
+   	"name": "Lakshadweep Anti-Submarine Warfare Zone",
+   	"type": "ASW Operations Area",
+   	"significance": "Submarine detection and tracking exercises",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 71.0 },
+   		{ "lat": 10.0, "lon": 74.0 },
+   		{ "lat": 13.0, "lon": 74.0 },
+   		{ "lat": 13.0, "lon": 71.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Strait of Hormuz Approach Surveillance Sector",
-     "type": "Strategic Chokepoint Monitoring Zone",
-     "significance": "Intelligence gathering on oil tanker movements and naval activities",
-     "coordinates": [
-       { "lat": 24.0, "lon": 57.0 },
-       { "lat": 24.0, "lon": 60.0 },
-       { "lat": 26.0, "lon": 60.0 },
-       { "lat": 26.0, "lon": 57.0 }
-     ]
+   	"name": "Strait of Hormuz Approach Surveillance Sector",
+   	"type": "Strategic Chokepoint Monitoring Zone",
+   	"significance": "Intelligence gathering on oil tanker movements and naval activities",
+   	"coordinates": [
+   		{ "lat": 24.0, "lon": 57.0 },
+   		{ "lat": 24.0, "lon": 60.0 },
+   		{ "lat": 26.0, "lon": 60.0 },
+   		{ "lat": 26.0, "lon": 57.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Bay of Bengal Carrier Battle Group Operations Area",
-     "type": "Carrier Strike Group Exercise Zone",
-     "significance": "Aircraft carrier operations and multi-ship exercises",
-     "coordinates": [
-       { "lat": 12.0, "lon": 85.0 },
-       { "lat": 12.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal Carrier Battle Group Operations Area",
+   	"type": "Carrier Strike Group Exercise Zone",
+   	"significance": "Aircraft carrier operations and multi-ship exercises",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 85.0 },
+   		{ "lat": 12.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 85.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Andaman Sea Maritime Interdiction Zone",
-     "type": "Naval Blockade Training Area",
-     "significance": "Exercises for intercepting and boarding suspect vessels",
-     "coordinates": [
-       { "lat": 10.0, "lon": 92.0 },
-       { "lat": 10.0, "lon": 95.0 },
-       { "lat": 14.0, "lon": 95.0 },
-       { "lat": 14.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea Maritime Interdiction Zone",
+   	"type": "Naval Blockade Training Area",
+   	"significance": "Exercises for intercepting and boarding suspect vessels",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 92.0 },
+   		{ "lat": 10.0, "lon": 95.0 },
+   		{ "lat": 14.0, "lon": 95.0 },
+   		{ "lat": 14.0, "lon": 92.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Gujarat Coast Fast Attack Craft Patrol Sector",
-     "type": "Littoral Combat Zone",
-     "significance": "Rapid response and coastal defense operations",
-     "coordinates": [
-       { "lat": 20.0, "lon": 68.0 },
-       { "lat": 20.0, "lon": 72.0 },
-       { "lat": 23.0, "lon": 72.0 },
-       { "lat": 23.0, "lon": 68.0 }
-     ]
+   	"name": "Gujarat Coast Fast Attack Craft Patrol Sector",
+   	"type": "Littoral Combat Zone",
+   	"significance": "Rapid response and coastal defense operations",
+   	"coordinates": [
+   		{ "lat": 20.0, "lon": 68.0 },
+   		{ "lat": 20.0, "lon": 72.0 },
+   		{ "lat": 23.0, "lon": 72.0 },
+   		{ "lat": 23.0, "lon": 68.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Malacca Strait Approach Surveillance Area",
-     "type": "Long-Range Maritime Patrol Zone",
-     "significance": "Monitoring of critical shipping lane and naval movements",
-     "coordinates": [
-       { "lat": 4.0, "lon": 92.0 },
-       { "lat": 4.0, "lon": 96.0 },
-       { "lat": 8.0, "lon": 96.0 },
-       { "lat": 8.0, "lon": 92.0 }
-     ]
+   	"name": "Malacca Strait Approach Surveillance Area",
+   	"type": "Long-Range Maritime Patrol Zone",
+   	"significance": "Monitoring of critical shipping lane and naval movements",
+   	"coordinates": [
+   		{ "lat": 4.0, "lon": 92.0 },
+   		{ "lat": 4.0, "lon": 96.0 },
+   		{ "lat": 8.0, "lon": 96.0 },
+   		{ "lat": 8.0, "lon": 92.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Eastern Seaboard Submarine Patrol Area",
-     "type": "Submarine Operations Zone",
-     "significance": "Covert surveillance and deterrence patrols",
-     "coordinates": [
-       { "lat": 13.0, "lon": 80.0 },
-       { "lat": 13.0, "lon": 85.0 },
-       { "lat": 18.0, "lon": 85.0 },
-       { "lat": 18.0, "lon": 80.0 }
-     ]
+   	"name": "Eastern Seaboard Submarine Patrol Area",
+   	"type": "Submarine Operations Zone",
+   	"significance": "Covert surveillance and deterrence patrols",
+   	"coordinates": [
+   		{ "lat": 13.0, "lon": 80.0 },
+   		{ "lat": 13.0, "lon": 85.0 },
+   		{ "lat": 18.0, "lon": 85.0 },
+   		{ "lat": 18.0, "lon": 80.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Nicobar Islands Maritime Strike Exercise Zone",
-     "type": "Air-Sea Integration Training Area",
-     "significance": "Joint naval aviation and surface fleet strike exercises",
-     "coordinates": [
-       { "lat": 6.0, "lon": 92.0 },
-       { "lat": 6.0, "lon": 95.0 },
-       { "lat": 9.0, "lon": 95.0 },
-       { "lat": 9.0, "lon": 92.0 }
-     ]
+   	"name": "Nicobar Islands Maritime Strike Exercise Zone",
+   	"type": "Air-Sea Integration Training Area",
+   	"significance": "Joint naval aviation and surface fleet strike exercises",
+   	"coordinates": [
+   		{ "lat": 6.0, "lon": 92.0 },
+   		{ "lat": 6.0, "lon": 95.0 },
+   		{ "lat": 9.0, "lon": 95.0 },
+   		{ "lat": 9.0, "lon": 92.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Mumbai High Offshore Asset Protection Zone",
-      "type": "Critical Infrastructure Defense Area",
-      "significance": "Security exercises for oil platforms and underwater pipelines",
-      "coordinates": [
-        { "lat": 19.0, "lon": 71.0 },
-        { "lat": 19.0, "lon": 72.5 },
-        { "lat": 20.5, "lon": 72.5 },
-        { "lat": 20.5, "lon": 71.0 }
-      ]
+    	"name": "Mumbai High Offshore Asset Protection Zone",
+    	"type": "Critical Infrastructure Defense Area",
+    	"significance": "Security exercises for oil platforms and underwater pipelines",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 71.0 },
+    		{ "lat": 19.0, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 71.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Kochi Naval Base Amphibious Landing Exercise Area",
-      "type": "Amphibious Warfare Training Zone",
-      "significance": "Practice for ship-to-shore troop movements and beach assaults",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 75.5 }
-      ]
+    	"name": "Kochi Naval Base Amphibious Landing Exercise Area",
+    	"type": "Amphibious Warfare Training Zone",
+    	"significance": "Practice for ship-to-shore troop movements and beach assaults",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 75.5 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Karwar Advanced Technology Vessel Testing Range",
-      "type": "Naval Nuclear Propulsion Test Area",
-      "significance": "Sea trials for nuclear submarines and related technologies",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Karwar Advanced Technology Vessel Testing Range",
+    	"type": "Naval Nuclear Propulsion Test Area",
+    	"significance": "Sea trials for nuclear submarines and related technologies",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
-      "type": "Maritime Sovereignty Enforcement Zone",
-      "significance": "Long-range patrols to assert EEZ rights and deter incursions",
-      "coordinates": [
-        { "lat": 8.0, "lon": 91.0 },
-        { "lat": 8.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
+    	"type": "Maritime Sovereignty Enforcement Zone",
+    	"significance": "Long-range patrols to assert EEZ rights and deter incursions",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 91.0 },
+    		{ "lat": 8.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 91.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Visakhapatnam Fleet Air Defense Exercise Zone",
-      "type": "Anti-Air Warfare Training Area",
-      "significance": "Integrated air defense exercises with ships and aircraft",
-      "coordinates": [
-        { "lat": 16.0, "lon": 82.0 },
-        { "lat": 16.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 82.0 }
-      ]
+    	"name": "Visakhapatnam Fleet Air Defense Exercise Zone",
+    	"type": "Anti-Air Warfare Training Area",
+    	"significance": "Integrated air defense exercises with ships and aircraft",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 82.0 },
+    		{ "lat": 16.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 82.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Lakshadweep Sea Anti-Piracy Patrol Zone",
-      "type": "Counter-Piracy Operations Area",
-      "significance": "Patrols and exercises to combat piracy and armed robbery at sea",
-      "coordinates": [
-        { "lat": 8.0, "lon": 70.0 },
-        { "lat": 8.0, "lon": 75.0 },
-        { "lat": 12.0, "lon": 75.0 },
-        { "lat": 12.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Anti-Piracy Patrol Zone",
+    	"type": "Counter-Piracy Operations Area",
+    	"significance": "Patrols and exercises to combat piracy and armed robbery at sea",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 70.0 },
+    		{ "lat": 8.0, "lon": 75.0 },
+    		{ "lat": 12.0, "lon": 75.0 },
+    		{ "lat": 12.0, "lon": 70.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Sundarbans Delta Maritime Infiltration Prevention Zone",
-      "type": "Coastal Security Operations Area",
-      "significance": "Counter-terrorism and anti-smuggling patrols in complex terrain",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Maritime Infiltration Prevention Zone",
+    	"type": "Coastal Security Operations Area",
+    	"significance": "Counter-terrorism and anti-smuggling patrols in complex terrain",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Goa Naval Aviation Training Sector",
-      "type": "Maritime Patrol Aircraft Exercise Zone",
-      "significance": "Long-range maritime surveillance and ASW aircraft training",
-      "coordinates": [
-        { "lat": 14.0, "lon": 72.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 72.0 }
-      ]
+    	"name": "Goa Naval Aviation Training Sector",
+    	"type": "Maritime Patrol Aircraft Exercise Zone",
+    	"significance": "Long-range maritime surveillance and ASW aircraft training",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 72.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 72.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Port Blair Forward Operating Base Extension",
-      "type": "Expeditionary Logistics Exercise Area",
-      "significance": "Practice for extended naval operations and logistics support",
-      "coordinates": [
-        { "lat": 11.5, "lon": 92.0 },
-        { "lat": 11.5, "lon": 93.5 },
-        { "lat": 13.0, "lon": 93.5 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Port Blair Forward Operating Base Extension",
+    	"type": "Expeditionary Logistics Exercise Area",
+    	"significance": "Practice for extended naval operations and logistics support",
+    	"coordinates": [
+    		{ "lat": 11.5, "lon": 92.0 },
+    		{ "lat": 11.5, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Kakinada Offshore Security Zone",
-      "type": "Energy Infrastructure Defense Sector",
-      "significance": "Protection exercises for offshore gas fields and pipelines",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Offshore Security Zone",
+    	"type": "Energy Infrastructure Defense Sector",
+    	"significance": "Protection exercises for offshore gas fields and pipelines",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Kanyakumari Peninsula Naval Blockade Exercise Area",
-      "type": "Maritime Interdiction Operations Zone",
-      "significance": "Choke point control and sea denial exercises",
-      "coordinates": [
-        { "lat": 7.5, "lon": 77.0 },
-        { "lat": 7.5, "lon": 78.5 },
-        { "lat": 9.0, "lon": 78.5 },
-        { "lat": 9.0, "lon": 77.0 }
-      ]
+    	"name": "Kanyakumari Peninsula Naval Blockade Exercise Area",
+    	"type": "Maritime Interdiction Operations Zone",
+    	"significance": "Choke point control and sea denial exercises",
+    	"coordinates": [
+    		{ "lat": 7.5, "lon": 77.0 },
+    		{ "lat": 7.5, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 77.0 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Lakshadweep Islands Rapid Deployment Exercise Zone",
-      "type": "Island Territory Defense Area",
-      "significance": "Quick reaction force deployment and island defense drills",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 12.5, "lon": 74.0 },
-        { "lat": 12.5, "lon": 71.5 }
-      ]
+    	"name": "Lakshadweep Islands Rapid Deployment Exercise Zone",
+    	"type": "Island Territory Defense Area",
+    	"significance": "Quick reaction force deployment and island defense drills",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 71.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Andaman Sea Underwater Surveillance Network",
-      "type": "Submarine Detection Array",
-      "significance": "Testing and calibration of fixed underwater sensor systems",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.5 },
-        { "lat": 10.0, "lon": 93.5 },
-        { "lat": 13.0, "lon": 93.5 },
-        { "lat": 13.0, "lon": 91.5 }
-      ]
+    	"name": "Andaman Sea Underwater Surveillance Network",
+    	"type": "Submarine Detection Array",
+    	"significance": "Testing and calibration of fixed underwater sensor systems",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.5 },
+    		{ "lat": 10.0, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 91.5 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Gulf of Kutch Maritime Strike Testing Range",
-      "type": "Anti-Ship Missile Exercise Area",
-      "significance": "Live-fire testing of ship and air-launched anti-ship missiles",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 23.5, "lon": 70.0 },
-        { "lat": 23.5, "lon": 68.0 }
-      ]
+    	"name": "Gulf of Kutch Maritime Strike Testing Range",
+    	"type": "Anti-Ship Missile Exercise Area",
+    	"significance": "Live-fire testing of ship and air-launched anti-ship missiles",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 68.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Vizhinjam Deep Water Port Naval Facility",
-      "type": "Forward Naval Base Development Zone",
-      "significance": "Integration exercises for new deep-water port capabilities",
-      "coordinates": [
-        { "lat": 8.0, "lon": 76.5 },
-        { "lat": 8.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 76.5 }
-      ]
+    	"name": "Vizhinjam Deep Water Port Naval Facility",
+    	"type": "Forward Naval Base Development Zone",
+    	"significance": "Integration exercises for new deep-water port capabilities",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 76.5 },
+    		{ "lat": 8.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 76.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Chilika Lake Naval Air Station Operations Area",
-      "type": "Amphibious Aircraft Training Zone",
-      "significance": "Exercises for seaplane and amphibious aircraft operations",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Naval Air Station Operations Area",
+    	"type": "Amphibious Aircraft Training Zone",
+    	"significance": "Exercises for seaplane and amphibious aircraft operations",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 26. ```json
     {
-      "name": "Karwar Nuclear Submarine Base Security Zone",
-      "type": "Strategic Asset Protection Area",
-      "significance": "Multi-layered defense exercises for critical naval infrastructure",
-      "coordinates": [
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.0 }
-      ]
+    	"name": "Karwar Nuclear Submarine Base Security Zone",
+    	"type": "Strategic Asset Protection Area",
+    	"significance": "Multi-layered defense exercises for critical naval infrastructure",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.0 }
+    	]
     }
     ```
 
 27. ```json
     {
-      "name": "Porbandar-Okha Coastal Defense Battery Range",
-      "type": "Shore-Based Anti-Ship Missile Test Area",
-      "significance": "Testing and training with land-based anti-ship missile systems",
-      "coordinates": [
-        { "lat": 21.5, "lon": 69.0 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Porbandar-Okha Coastal Defense Battery Range",
+    	"type": "Shore-Based Anti-Ship Missile Test Area",
+    	"significance": "Testing and training with land-based anti-ship missile systems",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 69.0 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
 28. ```json
     {
-      "name": "Andaman and Nicobar Joint Amphibious Warfare Zone",
-      "type": "Tri-Service Amphibious Operations Area",
-      "significance": "Large-scale joint exercises for amphibious assault operations",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 93.5 },
-        { "lat": 13.5, "lon": 93.5 },
-        { "lat": 13.5, "lon": 92.0 }
-      ]
+    	"name": "Andaman and Nicobar Joint Amphibious Warfare Zone",
+    	"type": "Tri-Service Amphibious Operations Area",
+    	"significance": "Large-scale joint exercises for amphibious assault operations",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 93.5 },
+    		{ "lat": 13.5, "lon": 93.5 },
+    		{ "lat": 13.5, "lon": 92.0 }
+    	]
     }
     ```
 
 29. ```json
     {
-      "name": "Kochi Naval Base Underwater Demolition Range",
-      "type": "Special Operations Training Area",
-      "significance": "Training for naval special forces in underwater demolitions",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 10.0, "lon": 76.0 },
-        { "lat": 10.0, "lon": 75.5 }
-      ]
+    	"name": "Kochi Naval Base Underwater Demolition Range",
+    	"type": "Special Operations Training Area",
+    	"significance": "Training for naval special forces in underwater demolitions",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 10.0, "lon": 76.0 },
+    		{ "lat": 10.0, "lon": 75.5 }
+    	]
     }
     ```
 
 30. ```json
     {
-      "name": "Paradip-Dhamra Integrated Fleet Air Defense Sector",
-      "type": "Multi-Layer Air Defense Exercise Zone",
-      "significance": "Coordinated ship-based and land-based air defense drills",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 86.0 }
-      ]
+    	"name": "Paradip-Dhamra Integrated Fleet Air Defense Sector",
+    	"type": "Multi-Layer Air Defense Exercise Zone",
+    	"significance": "Coordinated ship-based and land-based air defense drills",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 86.0 }
+    	]
     }
     ```
 31. ```json
     {
-      "name": "Sunda Strait Approach Surveillance Zone",
-      "type": "Long-Range Maritime Patrol Area",
-      "significance": "Monitoring naval movements between Indian and Pacific Oceans",
-      "coordinates": [
-        { "lat": -7.0, "lon": 104.0 },
-        { "lat": -7.0, "lon": 106.0 },
-        { "lat": -5.0, "lon": 106.0 },
-        { "lat": -5.0, "lon": 104.0 }
-      ]
+    	"name": "Sunda Strait Approach Surveillance Zone",
+    	"type": "Long-Range Maritime Patrol Area",
+    	"significance": "Monitoring naval movements between Indian and Pacific Oceans",
+    	"coordinates": [
+    		{ "lat": -7.0, "lon": 104.0 },
+    		{ "lat": -7.0, "lon": 106.0 },
+    		{ "lat": -5.0, "lon": 106.0 },
+    		{ "lat": -5.0, "lon": 104.0 }
+    	]
     }
     ```
 
 32. ```json
     {
-      "name": "Lakshadweep Sea Carrier Strike Group Exercise Area",
-      "type": "Carrier Battle Group Operations Zone",
-      "significance": "Large-scale carrier-based air operations and fleet maneuvers",
-      "coordinates": [
-        { "lat": 10.0, "lon": 70.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Carrier Strike Group Exercise Area",
+    	"type": "Carrier Battle Group Operations Zone",
+    	"significance": "Large-scale carrier-based air operations and fleet maneuvers",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 70.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 70.0 }
+    	]
     }
     ```
 
 33. ```json
     {
-      "name": "Andaman Sea Submarine Command and Control Exercise Zone",
-      "type": "Submarine Communications Testing Area",
-      "significance": "Testing secure communications with submerged submarines",
-      "coordinates": [
-        { "lat": 9.0, "lon": 92.0 },
-        { "lat": 9.0, "lon": 94.0 },
-        { "lat": 12.0, "lon": 94.0 },
-        { "lat": 12.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Sea Submarine Command and Control Exercise Zone",
+    	"type": "Submarine Communications Testing Area",
+    	"significance": "Testing secure communications with submerged submarines",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 92.0 },
+    		{ "lat": 9.0, "lon": 94.0 },
+    		{ "lat": 12.0, "lon": 94.0 },
+    		{ "lat": 12.0, "lon": 92.0 }
+    	]
     }
     ```
 
 34. ```json
     {
-      "name": "Gujarat Coast Fast Intercept Craft Training Area",
-      "type": "Coastal Defense Rapid Response Zone",
-      "significance": "High-speed interception and boarding operation drills",
-      "coordinates": [
-        { "lat": 21.0, "lon": 69.0 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Gujarat Coast Fast Intercept Craft Training Area",
+    	"type": "Coastal Defense Rapid Response Zone",
+    	"significance": "High-speed interception and boarding operation drills",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 69.0 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
 35. ```json
     {
-      "name": "Bay of Bengal Anti-Submarine Warfare Exercise Zone",
-      "type": "ASW Training Area",
-      "significance": "Multi-national ASW exercises and submarine hunt drills",
-      "coordinates": [
-        { "lat": 13.0, "lon": 85.0 },
-        { "lat": 13.0, "lon": 88.0 },
-        { "lat": 16.0, "lon": 88.0 },
-        { "lat": 16.0, "lon": 85.0 }
-      ]
+    	"name": "Bay of Bengal Anti-Submarine Warfare Exercise Zone",
+    	"type": "ASW Training Area",
+    	"significance": "Multi-national ASW exercises and submarine hunt drills",
+    	"coordinates": [
+    		{ "lat": 13.0, "lon": 85.0 },
+    		{ "lat": 13.0, "lon": 88.0 },
+    		{ "lat": 16.0, "lon": 88.0 },
+    		{ "lat": 16.0, "lon": 85.0 }
+    	]
     }
     ```
 
 36. ```json
     {
-      "name": "Nicobar Islands Maritime Interdiction Operations Zone",
-      "type": "Naval Blockade Exercise Area",
-      "significance": "Practice of sea denial and maritime interdiction operations",
-      "coordinates": [
-        { "lat": 6.5, "lon": 92.5 },
-        { "lat": 6.5, "lon": 94.5 },
-        { "lat": 9.0, "lon": 94.5 },
-        { "lat": 9.0, "lon": 92.5 }
-      ]
+    	"name": "Nicobar Islands Maritime Interdiction Operations Zone",
+    	"type": "Naval Blockade Exercise Area",
+    	"significance": "Practice of sea denial and maritime interdiction operations",
+    	"coordinates": [
+    		{ "lat": 6.5, "lon": 92.5 },
+    		{ "lat": 6.5, "lon": 94.5 },
+    		{ "lat": 9.0, "lon": 94.5 },
+    		{ "lat": 9.0, "lon": 92.5 }
+    	]
     }
     ```
 
 37. ```json
     {
-      "name": "Vizag Fleet Underway Replenishment Exercise Area",
-      "type": "Logistics and Sustainment Operations Zone",
-      "significance": "Practice of at-sea refueling and resupply operations",
-      "coordinates": [
-        { "lat": 16.0, "lon": 83.0 },
-        { "lat": 16.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 83.0 }
-      ]
+    	"name": "Vizag Fleet Underway Replenishment Exercise Area",
+    	"type": "Logistics and Sustainment Operations Zone",
+    	"significance": "Practice of at-sea refueling and resupply operations",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 83.0 },
+    		{ "lat": 16.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 83.0 }
+    	]
     }
     ```
 
 38. ```json
     {
-      "name": "Kochi Naval Base Mine Warfare Training Zone",
-      "type": "Mine Laying and Sweeping Exercise Area",
-      "significance": "Training in mine deployment, detection, and neutralization",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.0 },
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 10.5, "lon": 76.0 },
-        { "lat": 10.5, "lon": 75.0 }
-      ]
+    	"name": "Kochi Naval Base Mine Warfare Training Zone",
+    	"type": "Mine Laying and Sweeping Exercise Area",
+    	"significance": "Training in mine deployment, detection, and neutralization",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.0 },
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 10.5, "lon": 76.0 },
+    		{ "lat": 10.5, "lon": 75.0 }
+    	]
     }
     ```
 
 39. ```json
     {
-      "name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
-      "type": "Maritime Sovereignty Enforcement Zone",
-      "significance": "Long-range patrols to assert EEZ rights and deter incursions",
-      "coordinates": [
-        { "lat": 8.0, "lon": 91.0 },
-        { "lat": 8.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
+    	"type": "Maritime Sovereignty Enforcement Zone",
+    	"significance": "Long-range patrols to assert EEZ rights and deter incursions",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 91.0 },
+    		{ "lat": 8.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 91.0 }
+    	]
     }
     ```
 
 40. ```json
     {
-      "name": "Arabian Sea Theater Anti-Submarine Warfare Zone",
-      "type": "Large-Scale ASW Exercise Area",
-      "significance": "Coordinated submarine hunting operations with allied navies",
-      "coordinates": [
-        { "lat": 15.0, "lon": 65.0 },
-        { "lat": 15.0, "lon": 70.0 },
-        { "lat": 20.0, "lon": 70.0 },
-        { "lat": 20.0, "lon": 65.0 }
-      ]
+    	"name": "Arabian Sea Theater Anti-Submarine Warfare Zone",
+    	"type": "Large-Scale ASW Exercise Area",
+    	"significance": "Coordinated submarine hunting operations with allied navies",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 65.0 },
+    		{ "lat": 15.0, "lon": 70.0 },
+    		{ "lat": 20.0, "lon": 70.0 },
+    		{ "lat": 20.0, "lon": 65.0 }
+    	]
     }
     ```
 
 41. ```json
     {
-      "name": "Karwar Advanced Submarine Training Range",
-      "type": "Submarine Tactics Development Zone",
-      "significance": "Testing of new submarine tactics and stealth technologies",
-      "coordinates": [
-        { "lat": 14.0, "lon": 73.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 73.0 }
-      ]
+    	"name": "Karwar Advanced Submarine Training Range",
+    	"type": "Submarine Tactics Development Zone",
+    	"significance": "Testing of new submarine tactics and stealth technologies",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 73.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 73.0 }
+    	]
     }
     ```
 
 42. ```json
     {
-      "name": "Lakshadweep Islands Rapid Reaction Force Deployment Zone",
-      "type": "Quick Response Exercise Area",
-      "significance": "Practice of rapid military response to island territory threats",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 12.5, "lon": 74.0 },
-        { "lat": 12.5, "lon": 71.5 }
-      ]
+    	"name": "Lakshadweep Islands Rapid Reaction Force Deployment Zone",
+    	"type": "Quick Response Exercise Area",
+    	"significance": "Practice of rapid military response to island territory threats",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 71.5 }
+    	]
     }
     ```
 
 43. ```json
     {
-      "name": "Chennai Offshore Security and Interdiction Zone",
-      "type": "Maritime Security Operations Area",
-      "significance": "Drills for protecting offshore assets and intercepting threats",
-      "coordinates": [
-        { "lat": 12.5, "lon": 80.0 },
-        { "lat": 12.5, "lon": 81.5 },
-        { "lat": 14.0, "lon": 81.5 },
-        { "lat": 14.0, "lon": 80.0 }
-      ]
+    	"name": "Chennai Offshore Security and Interdiction Zone",
+    	"type": "Maritime Security Operations Area",
+    	"significance": "Drills for protecting offshore assets and intercepting threats",
+    	"coordinates": [
+    		{ "lat": 12.5, "lon": 80.0 },
+    		{ "lat": 12.5, "lon": 81.5 },
+    		{ "lat": 14.0, "lon": 81.5 },
+    		{ "lat": 14.0, "lon": 80.0 }
+    	]
     }
     ```
 
 44. ```json
     {
-      "name": "Goa Naval Aviation Night Operations Training Sector",
-      "type": "Nocturnal Maritime Patrol Exercise Zone",
-      "significance": "Night-time aerial surveillance and ASW aircraft training",
-      "coordinates": [
-        { "lat": 14.5, "lon": 72.5 },
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 16.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 72.5 }
-      ]
+    	"name": "Goa Naval Aviation Night Operations Training Sector",
+    	"type": "Nocturnal Maritime Patrol Exercise Zone",
+    	"significance": "Night-time aerial surveillance and ASW aircraft training",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 72.5 },
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 72.5 }
+    	]
     }
     ```
 
 45. ```json
     {
-      "name": "Sundarbans Delta Special Operations Training Area",
-      "type": "Riverine and Coastal Warfare Exercise Zone",
-      "significance": "Training for special forces in complex coastal environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Special Operations Training Area",
+    	"type": "Riverine and Coastal Warfare Exercise Zone",
+    	"significance": "Training for special forces in complex coastal environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 46. ```json
     {
-      "name": "Andaman Sea Amphibious Assault Training Zone",
-      "type": "Joint Amphibious Warfare Exercise Area",
-      "significance": "Large-scale beach landing and island capture simulations",
-      "coordinates": [
-        { "lat": 11.5, "lon": 92.5 },
-        { "lat": 11.5, "lon": 93.5 },
-        { "lat": 13.0, "lon": 93.5 },
-        { "lat": 13.0, "lon": 92.5 }
-      ]
+    	"name": "Andaman Sea Amphibious Assault Training Zone",
+    	"type": "Joint Amphibious Warfare Exercise Area",
+    	"significance": "Large-scale beach landing and island capture simulations",
+    	"coordinates": [
+    		{ "lat": 11.5, "lon": 92.5 },
+    		{ "lat": 11.5, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 93.5 },
+    		{ "lat": 13.0, "lon": 92.5 }
+    	]
     }
     ```
 
 47. ```json
     {
-      "name": "Kanyakumari Peninsula Naval Air Defense Zone",
-      "type": "Integrated Air Defense Exercise Area",
-      "significance": "Coordinated ship-based and land-based air defense drills",
-      "coordinates": [
-        { "lat": 7.5, "lon": 77.0 },
-        { "lat": 7.5, "lon": 78.5 },
-        { "lat": 9.0, "lon": 78.5 },
-        { "lat": 9.0, "lon": 77.0 }
-      ]
+    	"name": "Kanyakumari Peninsula Naval Air Defense Zone",
+    	"type": "Integrated Air Defense Exercise Area",
+    	"significance": "Coordinated ship-based and land-based air defense drills",
+    	"coordinates": [
+    		{ "lat": 7.5, "lon": 77.0 },
+    		{ "lat": 7.5, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 77.0 }
+    	]
     }
     ```
 
 48. ```json
     {
-      "name": "Mumbai High Offshore Asset Defense Sector",
-      "type": "Critical Infrastructure Protection Zone",
-      "significance": "Drills for defending offshore oil and gas installations",
-      "coordinates": [
-        { "lat": 19.0, "lon": 71.0 },
-        { "lat": 19.0, "lon": 72.5 },
-        { "lat": 20.5, "lon": 72.5 },
-        { "lat": 20.5, "lon": 71.0 }
-      ]
+    	"name": "Mumbai High Offshore Asset Defense Sector",
+    	"type": "Critical Infrastructure Protection Zone",
+    	"significance": "Drills for defending offshore oil and gas installations",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 71.0 },
+    		{ "lat": 19.0, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 72.5 },
+    		{ "lat": 20.5, "lon": 71.0 }
+    	]
     }
     ```
 
 49. ```json
     {
-      "name": "Lakshadweep Sea Anti-Ship Missile Test Range",
-      "type": "Naval Weapon Systems Evaluation Area",
-      "significance": "Live-fire testing of ship-launched anti-ship missiles",
-      "coordinates": [
-        { "lat": 10.0, "lon": 70.0 },
-        { "lat": 10.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Anti-Ship Missile Test Range",
+    	"type": "Naval Weapon Systems Evaluation Area",
+    	"significance": "Live-fire testing of ship-launched anti-ship missiles",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 70.0 },
+    		{ "lat": 10.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 70.0 }
+    	]
     }
     ```
 
 50. ```json
     {
-      "name": "Visakhapatnam Submarine Launched Ballistic Missile Test Zone",
-      "type": "Strategic Weapons Test Area",
-      "significance": "Testing and evaluation of submarine-launched ballistic missiles",
-      "coordinates": [
-        { "lat": 16.0, "lon": 82.0 },
-        { "lat": 16.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 85.0 },
-        { "lat": 18.0, "lon": 82.0 }
-      ]
+    	"name": "Visakhapatnam Submarine Launched Ballistic Missile Test Zone",
+    	"type": "Strategic Weapons Test Area",
+    	"significance": "Testing and evaluation of submarine-launched ballistic missiles",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 82.0 },
+    		{ "lat": 16.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 85.0 },
+    		{ "lat": 18.0, "lon": 82.0 }
+    	]
     }
     ```
 
 51. ```json
     {
-      "name": "Gulf of Mannar Maritime Border Patrol Sector",
-      "type": "Coastal Security Operations Area",
-      "significance": "Joint patrols and exercises with Sri Lankan Navy",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Maritime Border Patrol Sector",
+    	"type": "Coastal Security Operations Area",
+    	"significance": "Joint patrols and exercises with Sri Lankan Navy",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 52. ```json
     {
-      "name": "Andaman Sea Underwater Sensor Array Testing Zone",
-      "type": "ASW Technology Evaluation Area",
-      "significance": "Development and testing of fixed underwater detection systems",
-      "coordinates": [
-        { "lat": 10.0, "lon": 92.0 },
-        { "lat": 10.0, "lon": 93.5 },
-        { "lat": 12.0, "lon": 93.5 },
-        { "lat": 12.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Sea Underwater Sensor Array Testing Zone",
+    	"type": "ASW Technology Evaluation Area",
+    	"significance": "Development and testing of fixed underwater detection systems",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 92.0 },
+    		{ "lat": 10.0, "lon": 93.5 },
+    		{ "lat": 12.0, "lon": 93.5 },
+    		{ "lat": 12.0, "lon": 92.0 }
+    	]
     }
     ```
 
 53. ```json
     {
-      "name": "Kakinada Deep Water Port Naval Exercise Area",
-      "type": "Multi-Mission Naval Training Zone",
-      "significance": "Diverse naval exercises utilizing deep water port facilities",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Deep Water Port Naval Exercise Area",
+    	"type": "Multi-Mission Naval Training Zone",
+    	"significance": "Diverse naval exercises utilizing deep water port facilities",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 54. ```json
     {
-      "name": "Karwar Nuclear Submarine Base Security Zone",
-      "type": "Strategic Asset Protection Area",
-      "significance": "Multi-layered defense exercises for critical naval infrastructure",
-      "coordinates": [
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.0 }
-      ]
+    	"name": "Karwar Nuclear Submarine Base Security Zone",
+    	"type": "Strategic Asset Protection Area",
+    	"significance": "Multi-layered defense exercises for critical naval infrastructure",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.0 }
+    	]
     }
     ```
 
 55. ```json
     {
-      "name": "Chilika Lake Naval Air Station Operations Area",
-      "type": "Maritime Patrol Aircraft Training Zone",
-      "significance": "Anti-submarine warfare and maritime surveillance flight training",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Naval Air Station Operations Area",
+    	"type": "Maritime Patrol Aircraft Training Zone",
+    	"significance": "Anti-submarine warfare and maritime surveillance flight training",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 56. ```json
     {
-      "name": "Kochi Naval Base Underwater Demolition Range",
-      "type": "Special Operations Training Area",
-      "significance": "Training for naval special forces in underwater demolitions",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 10.0, "lon": 76.0 },
-        { "lat": 10.0, "lon": 75.5 }
-      ]
+    	"name": "Kochi Naval Base Underwater Demolition Range",
+    	"type": "Special Operations Training Area",
+    	"significance": "Training for naval special forces in underwater demolitions",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 10.0, "lon": 76.0 },
+    		{ "lat": 10.0, "lon": 75.5 }
+    	]
     }
     ```
 
 57. ```json
     {
-      "name": "Porbandar-Okha Coastal Defense Battery Range",
-      "type": "Shore-Based Anti-Ship Missile Test Area",
-      "significance": "Testing and training with land-based anti-ship missile systems",
-      "coordinates": [
-        { "lat": 21.5, "lon": 69.0 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Porbandar-Okha Coastal Defense Battery Range",
+    	"type": "Shore-Based Anti-Ship Missile Test Area",
+    	"significance": "Testing and training with land-based anti-ship missile systems",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 69.0 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
 58. ```json
     {
-      "name": "Andaman and Nicobar Joint Amphibious Warfare Zone",
-      "type": "Tri-Service Amphibious Operations Area",
-      "significance": "Large-scale joint exercises for amphibious assault operations",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 93.5 },
-        { "lat": 13.5, "lon": 93.5 },
-        { "lat": 13.5, "lon": 92.0 }
-      ]
+    	"name": "Andaman and Nicobar Joint Amphibious Warfare Zone",
+    	"type": "Tri-Service Amphibious Operations Area",
+    	"significance": "Large-scale joint exercises for amphibious assault operations",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 93.5 },
+    		{ "lat": 13.5, "lon": 93.5 },
+    		{ "lat": 13.5, "lon": 92.0 }
+    	]
     }
     ```
 
 59. ```json
     {
-      "name": "Lakshadweep Sea Extended Anti-Piracy Patrol Zone",
-      "type": "Far Sea Counter-Piracy Area",
-      "significance": "Long-range patrols to combat piracy in western Arabian Sea",
-      "coordinates": [
-        { "lat": 8.0, "lon": 68.0 },
-        { "lat": 8.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 68.0 }
-      ]
+    	"name": "Lakshadweep Sea Extended Anti-Piracy Patrol Zone",
+    	"type": "Far Sea Counter-Piracy Area",
+    	"significance": "Long-range patrols to combat piracy in western Arabian Sea",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 68.0 },
+    		{ "lat": 8.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 68.0 }
+    	]
     }
     ```
 
 60. ```json
     {
-      "name": "Bay of Bengal Ballistic Missile Defense Test Range",
-      "type": "Strategic Defense Systems Evaluation Zone",
-      "significance": "Testing of ship-based and land-based BMD systems",
-      "coordinates": [
-        { "lat": 15.0, "lon": 85.0 },
-        { "lat": 15.0, "lon": 88.0 },
-        { "lat": 18.0, "lon": 88.0 },
-        { "lat": 18.0, "lon": 85.0 }
-      ]
+    	"name": "Bay of Bengal Ballistic Missile Defense Test Range",
+    	"type": "Strategic Defense Systems Evaluation Zone",
+    	"significance": "Testing of ship-based and land-based BMD systems",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 85.0 },
+    		{ "lat": 15.0, "lon": 88.0 },
+    		{ "lat": 18.0, "lon": 88.0 },
+    		{ "lat": 18.0, "lon": 85.0 }
+    	]
     }
     ```
 
 61. ```json
     {
-      "name": "Goa Naval Aviation Night Operations Training Sector",
-      "type": "Nocturnal Maritime Patrol Exercise Zone",
-      "significance": "Night-time aerial surveillance and ASW aircraft training",
-      "coordinates": [
-        { "lat": 14.5, "lon": 72.5 },
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 16.0, "lon": 74.0 },
-        { "lat": 16.0, "lon": 72.5 }
-      ]
+    	"name": "Goa Naval Aviation Night Operations Training Sector",
+    	"type": "Nocturnal Maritime Patrol Exercise Zone",
+    	"significance": "Night-time aerial surveillance and ASW aircraft training",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 72.5 },
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 74.0 },
+    		{ "lat": 16.0, "lon": 72.5 }
+    	]
     }
     ```
 
 62. ```json
     {
-      "name": "Paradip-Dhamra Integrated Fleet Air Defense Sector",
-      "type": "Multi-Layer Air Defense Exercise Zone",
-      "significance": "Coordinated ship-based and land-based air defense drills",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 86.0 }
-      ]
+    	"name": "Paradip-Dhamra Integrated Fleet Air Defense Sector",
+    	"type": "Multi-Layer Air Defense Exercise Zone",
+    	"significance": "Coordinated ship-based and land-based air defense drills",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 86.0 }
+    	]
     }
     ```
 
 63. ```json
     {
-      "name": "Kalpakkam Nuclear Facility Maritime Security Zone",
-      "type": "Critical Infrastructure Protection Area",
-      "significance": "Naval security exercises for coastal nuclear installations",
-      "coordinates": [
-        { "lat": 12.3, "lon": 80.0 },
-        { "lat": 12.3, "lon": 80.3 },
-        { "lat": 12.6, "lon": 80.3 },
-        { "lat": 12.6, "lon": 80.0 }
-      ]
+    	"name": "Kalpakkam Nuclear Facility Maritime Security Zone",
+    	"type": "Critical Infrastructure Protection Area",
+    	"significance": "Naval security exercises for coastal nuclear installations",
+    	"coordinates": [
+    		{ "lat": 12.3, "lon": 80.0 },
+    		{ "lat": 12.3, "lon": 80.3 },
+    		{ "lat": 12.6, "lon": 80.3 },
+    		{ "lat": 12.6, "lon": 80.0 }
+    	]
     }
     ```
 
 64. ```json
     {
-      "name": "Andaman Sea Extended Maritime Patrol Zone",
-      "type": "Long-Range Surveillance Area",
-      "significance": "Extended endurance patrols for maritime domain awareness",
-      "coordinates": [
-        { "lat": 6.0, "lon": 91.0 },
-        { "lat": 6.0, "lon": 95.0 },
-        { "lat": 10.0, "lon": 95.0 },
-        { "lat": 10.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Extended Maritime Patrol Zone",
+    	"type": "Long-Range Surveillance Area",
+    	"significance": "Extended endurance patrols for maritime domain awareness",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 91.0 },
+    		{ "lat": 6.0, "lon": 95.0 },
+    		{ "lat": 10.0, "lon": 95.0 },
+    		{ "lat": 10.0, "lon": 91.0 }
+    	]
     }
     ```
 
 65. ```json
     {
-      "name": "Gujarat Coast Fast Attack Craft Training Area",
-      "type": "Littoral Combat Exercise Zone",
-      "significance": "High-speed intercept and close-quarters combat drills",
-      "coordinates": [
-        { "lat": 21.0, "lon": 69.0 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Gujarat Coast Fast Attack Craft Training Area",
+    	"type": "Littoral Combat Exercise Zone",
+    	"significance": "High-speed intercept and close-quarters combat drills",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 69.0 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
 66. ```json
     {
-      "name": "Trincomalee Approach Monitoring Zone",
-      "type": "Strategic Observation Area",
-      "significance": "Surveillance of naval activities near Sri Lankan waters",
-      "coordinates": [
-        { "lat": 8.0, "lon": 81.0 },
-        { "lat": 8.0, "lon": 82.5 },
-        { "lat": 9.5, "lon": 82.5 },
-        { "lat": 9.5, "lon": 81.0 }
-      ]
+    	"name": "Trincomalee Approach Monitoring Zone",
+    	"type": "Strategic Observation Area",
+    	"significance": "Surveillance of naval activities near Sri Lankan waters",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 81.0 },
+    		{ "lat": 8.0, "lon": 82.5 },
+    		{ "lat": 9.5, "lon": 82.5 },
+    		{ "lat": 9.5, "lon": 81.0 }
+    	]
     }
     ```
 
 67. ```json
     {
-      "name": "Visakhapatnam Submarine Rescue Exercise Area",
-      "type": "Deep Submergence Rescue Vehicle (DSRV) Operations Zone",
-      "significance": "Training and readiness drills for submarine rescue scenarios",
-      "coordinates": [
-        { "lat": 17.0, "lon": 83.0 },
-        { "lat": 17.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 83.0 }
-      ]
+    	"name": "Visakhapatnam Submarine Rescue Exercise Area",
+    	"type": "Deep Submergence Rescue Vehicle (DSRV) Operations Zone",
+    	"significance": "Training and readiness drills for submarine rescue scenarios",
+    	"coordinates": [
+    		{ "lat": 17.0, "lon": 83.0 },
+    		{ "lat": 17.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 83.0 }
+    	]
     }
     ```
 
 68. ```json
     {
-      "name": "Lakshadweep Islands Maritime Interdiction Zone",
-      "type": "Naval Blockade Simulation Area",
-      "significance": "Exercises in enforcing maritime exclusion zones",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 12.5, "lon": 74.0 },
-        { "lat": 12.5, "lon": 71.5 }
-      ]
+    	"name": "Lakshadweep Islands Maritime Interdiction Zone",
+    	"type": "Naval Blockade Simulation Area",
+    	"significance": "Exercises in enforcing maritime exclusion zones",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 71.5 }
+    	]
     }
     ```
 
 69. ```json
     {
-      "name": "Sundarbans Delta Riverine Warfare Training Area",
-      "type": "Shallow Water Combat Zone",
-      "significance": "Specialized training for operations in complex delta environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Riverine Warfare Training Area",
+    	"type": "Shallow Water Combat Zone",
+    	"significance": "Specialized training for operations in complex delta environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 70. ```json
     {
-      "name": "Karwar Advanced Technology Vessel (ATV) Testing Range",
-      "type": "Nuclear Submarine Trial Area",
-      "significance": "Sea trials and testing of indigenous nuclear submarines",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Karwar Advanced Technology Vessel (ATV) Testing Range",
+    	"type": "Nuclear Submarine Trial Area",
+    	"significance": "Sea trials and testing of indigenous nuclear submarines",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 71. ```json
     {
-      "name": "Kochi Naval Base Mine Countermeasures Exercise Area",
-      "type": "Mine Warfare Training Zone",
-      "significance": "Training in detection, sweeping, and neutralization of naval mines",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 75.5 }
-      ]
+    	"name": "Kochi Naval Base Mine Countermeasures Exercise Area",
+    	"type": "Mine Warfare Training Zone",
+    	"significance": "Training in detection, sweeping, and neutralization of naval mines",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 75.5 }
+    	]
     }
     ```
 
 72. ```json
     {
-      "name": "Car Nicobar Air Base Maritime Strike Exercise Zone",
-      "type": "Air-to-Surface Attack Training Area",
-      "significance": "Practice of air-launched anti-ship missile strikes",
-      "coordinates": [
-        { "lat": 8.0, "lon": 92.0 },
-        { "lat": 8.0, "lon": 94.0 },
-        { "lat": 10.0, "lon": 94.0 },
-        { "lat": 10.0, "lon": 92.0 }
-      ]
+    	"name": "Car Nicobar Air Base Maritime Strike Exercise Zone",
+    	"type": "Air-to-Surface Attack Training Area",
+    	"significance": "Practice of air-launched anti-ship missile strikes",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 92.0 },
+    		{ "lat": 8.0, "lon": 94.0 },
+    		{ "lat": 10.0, "lon": 94.0 },
+    		{ "lat": 10.0, "lon": 92.0 }
+    	]
     }
     ```
 
 73. ```json
     {
-      "name": "Kakinada Offshore Security Zone",
-      "type": "Energy Infrastructure Defense Sector",
-      "significance": "Protection exercises for offshore gas fields and pipelines",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Offshore Security Zone",
+    	"type": "Energy Infrastructure Defense Sector",
+    	"significance": "Protection exercises for offshore gas fields and pipelines",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 74. ```json
     {
-      "name": "Mumbai Harbor Underwater Defense System Testing Area",
-      "type": "Port Security Technology Evaluation Zone",
-      "significance": "Trials of advanced underwater surveillance and defense systems",
-      "coordinates": [
-        { "lat": 18.8, "lon": 72.8 },
-        { "lat": 18.8, "lon": 73.0 },
-        { "lat": 19.0, "lon": 73.0 },
-        { "lat": 19.0, "lon": 72.8 }
-      ]
+    	"name": "Mumbai Harbor Underwater Defense System Testing Area",
+    	"type": "Port Security Technology Evaluation Zone",
+    	"significance": "Trials of advanced underwater surveillance and defense systems",
+    	"coordinates": [
+    		{ "lat": 18.8, "lon": 72.8 },
+    		{ "lat": 18.8, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 72.8 }
+    	]
     }
     ```
 
 75. ```json
     {
-      "name": "Andaman Sea Exclusive Economic Zone Enforcement Area",
-      "type": "Maritime Law Enforcement Training Zone",
-      "significance": "Exercises in asserting sovereignty and enforcing maritime law",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.0 },
-        { "lat": 10.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Exclusive Economic Zone Enforcement Area",
+    	"type": "Maritime Law Enforcement Training Zone",
+    	"significance": "Exercises in asserting sovereignty and enforcing maritime law",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.0 },
+    		{ "lat": 10.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 91.0 }
+    	]
     }
     ```
 
 76. ```json
     {
-      "name": "Porbandar Forward Operating Base Extension",
-      "type": "Rapid Deployment Exercise Area",
-      "significance": "Drills for quick response to Arabian Sea contingencies",
-      "coordinates": [
-        { "lat": 21.5, "lon": 69.0 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 22.5, "lon": 69.0 }
-      ]
+    	"name": "Porbandar Forward Operating Base Extension",
+    	"type": "Rapid Deployment Exercise Area",
+    	"significance": "Drills for quick response to Arabian Sea contingencies",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 69.0 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 22.5, "lon": 69.0 }
+    	]
     }
     ```
 
 77. ```json
     {
-      "name": "Lakshadweep Sea Carrier Strike Group Maneuver Zone",
-      "type": "Large-Scale Naval Formation Exercise Area",
-      "significance": "Complex battle group tactics and coordination drills",
-      "coordinates": [
-        { "lat": 10.0, "lon": 70.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Carrier Strike Group Maneuver Zone",
+    	"type": "Large-Scale Naval Formation Exercise Area",
+    	"significance": "Complex battle group tactics and coordination drills",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 70.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 70.0 }
+    	]
     }
     ```
 
 78. ```json
     {
-      "name": "Visakhapatnam Advanced Submarine Warfare Training Area",
-      "type": "Submarine Tactics Development Zone",
-      "significance": "Testing of cutting-edge submarine combat strategies",
-      "coordinates": [
-        { "lat": 16.0, "lon": 82.0 },
-        { "lat": 16.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 82.0 }
-      ]
+    	"name": "Visakhapatnam Advanced Submarine Warfare Training Area",
+    	"type": "Submarine Tactics Development Zone",
+    	"significance": "Testing of cutting-edge submarine combat strategies",
+    	"coordinates": [
+    		{ "lat": 16.0, "lon": 82.0 },
+    		{ "lat": 16.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 82.0 }
+    	]
     }
     ```
 
 79. ```json
     {
-      "name": "Gulf of Khambhat Maritime Choke Point Defense Zone",
-      "type": "Strategic Waterway Control Exercise Area",
-      "significance": "Drills for controlling and defending narrow sea passages",
-      "coordinates": [
-        { "lat": 21.0, "lon": 72.0 },
-        { "lat": 21.0, "lon": 72.5 },
-        { "lat": 22.0, "lon": 72.5 },
-        { "lat": 22.0, "lon": 72.0 }
-      ]
+    	"name": "Gulf of Khambhat Maritime Choke Point Defense Zone",
+    	"type": "Strategic Waterway Control Exercise Area",
+    	"significance": "Drills for controlling and defending narrow sea passages",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 72.0 },
+    		{ "lat": 21.0, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 72.0 }
+    	]
     }
     ```
 
 80. ```json
     {
-      "name": "Andaman Sea Underwater Surveillance Network",
-      "type": "ASW Sensor Array Testing Zone",
-      "significance": "Evaluation of fixed and mobile underwater detection systems",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Sea Underwater Surveillance Network",
+    	"type": "ASW Sensor Array Testing Zone",
+    	"significance": "Evaluation of fixed and mobile underwater detection systems",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 81. ```json
     {
-      "name": "Chennai Offshore Security and Interdiction Zone",
-      "type": "Maritime Security Operations Area",
-      "significance": "Drills for protecting offshore assets and intercepting threats",
-      "coordinates": [
-        { "lat": 12.5, "lon": 80.0 },
-        { "lat": 12.5, "lon": 81.5 },
-        { "lat": 14.0, "lon": 81.5 },
-        { "lat": 14.0, "lon": 80.0 }
-      ]
+    	"name": "Chennai Offshore Security and Interdiction Zone",
+    	"type": "Maritime Security Operations Area",
+    	"significance": "Drills for protecting offshore assets and intercepting threats",
+    	"coordinates": [
+    		{ "lat": 12.5, "lon": 80.0 },
+    		{ "lat": 12.5, "lon": 81.5 },
+    		{ "lat": 14.0, "lon": 81.5 },
+    		{ "lat": 14.0, "lon": 80.0 }
+    	]
     }
     ```
 
 82. ```json
     {
-      "name": "Karwar Nuclear Submarine Base Deep Water Training Area",
-      "type": "Submarine Deep Dive Exercise Zone",
-      "significance": "Extreme depth operations and emergency procedure drills",
-      "coordinates": [
-        { "lat": 14.0, "lon": 73.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 73.0 }
-      ]
+    	"name": "Karwar Nuclear Submarine Base Deep Water Training Area",
+    	"type": "Submarine Deep Dive Exercise Zone",
+    	"significance": "Extreme depth operations and emergency procedure drills",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 73.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 73.0 }
+    	]
     }
     ```
 
 83. ```json
     {
-      "name": "Kochi Naval Air Station Anti-Submarine Warfare Zone",
-      "type": "Maritime Patrol Aircraft ASW Training Area",
-      "significance": "Coordination exercises between aircraft and surface ships for ASW",
-      "coordinates": [
-        { "lat": 9.0, "lon": 75.0 },
-        { "lat": 9.0, "lon": 76.5 },
-        { "lat": 10.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 75.0 }
-      ]
+    	"name": "Kochi Naval Air Station Anti-Submarine Warfare Zone",
+    	"type": "Maritime Patrol Aircraft ASW Training Area",
+    	"significance": "Coordination exercises between aircraft and surface ships for ASW",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 75.0 },
+    		{ "lat": 9.0, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 75.0 }
+    	]
     }
     ```
 
 84. ```json
     {
-      "name": "Kavaratti Island Maritime Domain Awareness Center",
-      "type": "Long-Range Surveillance Hub",
-      "significance": "Integrated sensor data analysis and threat assessment exercises",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 71.5 }
-      ]
+    	"name": "Kavaratti Island Maritime Domain Awareness Center",
+    	"type": "Long-Range Surveillance Hub",
+    	"significance": "Integrated sensor data analysis and threat assessment exercises",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 71.5 }
+    	]
     }
     ```
 
 85. ```json
     {
-      "name": "Gulf of Mannar Special Operations Training Zone",
-      "type": "Clandestine Warfare Exercise Area",
-      "significance": "Naval special forces infiltration and exfiltration drills",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Special Operations Training Zone",
+    	"type": "Clandestine Warfare Exercise Area",
+    	"significance": "Naval special forces infiltration and exfiltration drills",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 86. ```json
     {
-      "name": "Paradip Port Approach Defense Sector",
-      "type": "Harbor Protection Exercise Zone",
-      "significance": "Multi-layer defense drills for critical port infrastructure",
-      "coordinates": [
-        { "lat": 19.5, "lon": 86.0 },
-        { "lat": 19.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.0 }
-      ]
+    	"name": "Paradip Port Approach Defense Sector",
+    	"type": "Harbor Protection Exercise Zone",
+    	"significance": "Multi-layer defense drills for critical port infrastructure",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 86.0 },
+    		{ "lat": 19.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.0 }
+    	]
     }
     ```
 
 87. ```json
     {
-      "name": "Little Andaman Island Forward Operating Base",
-      "type": "Remote Island Defense Exercise Area",
-      "significance": "Long-range patrol and island territory protection drills",
-      "coordinates": [
-        { "lat": 10.0, "lon": 92.0 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman Island Forward Operating Base",
+    	"type": "Remote Island Defense Exercise Area",
+    	"significance": "Long-range patrol and island territory protection drills",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 92.0 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 88. ```json
     {
-      "name": "Dwarka-Okha Coastal Artillery Range",
-      "type": "Shore-Based Naval Gun Exercise Area",
-      "significance": "Live-fire training for coastal defense artillery systems",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.5 },
-        { "lat": 22.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 68.5 }
-      ]
+    	"name": "Dwarka-Okha Coastal Artillery Range",
+    	"type": "Shore-Based Naval Gun Exercise Area",
+    	"significance": "Live-fire training for coastal defense artillery systems",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.5 },
+    		{ "lat": 22.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 68.5 }
+    	]
     }
     ```
 
 89. ```json
     {
-      "name": "Hooghly River Estuary Naval Patrol Sector",
-      "type": "Riverine and Coastal Security Zone",
-      "significance": "Joint navy-coast guard patrols and anti-infiltration exercises",
-      "coordinates": [
-        { "lat": 21.5, "lon": 87.5 },
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 22.5, "lon": 88.5 },
-        { "lat": 22.5, "lon": 87.5 }
-      ]
+    	"name": "Hooghly River Estuary Naval Patrol Sector",
+    	"type": "Riverine and Coastal Security Zone",
+    	"significance": "Joint navy-coast guard patrols and anti-infiltration exercises",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 87.5 },
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 22.5, "lon": 88.5 },
+    		{ "lat": 22.5, "lon": 87.5 }
+    	]
     }
     ```
 
 90. ```json
     {
-      "name": "Minicoy Island Maritime Surveillance Outpost",
-      "type": "Remote Sensing and Early Warning Station",
-      "significance": "Long-range radar and ELINT training exercises",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.5 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 72.5 }
-      ]
+    	"name": "Minicoy Island Maritime Surveillance Outpost",
+    	"type": "Remote Sensing and Early Warning Station",
+    	"significance": "Long-range radar and ELINT training exercises",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.5 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 72.5 }
+    	]
     }
     ```
 
 91. ```json
     {
-      "name": "Kalpeni-Androth Islands Maritime Patrol Corridor",
-      "type": "Inter-Island Security Zone",
-      "significance": "Fast patrol vessel operations and island hopping exercises",
-      "coordinates": [
-        { "lat": 10.0, "lon": 73.5 },
-        { "lat": 10.0, "lon": 74.5 },
-        { "lat": 11.0, "lon": 74.5 },
-        { "lat": 11.0, "lon": 73.5 }
-      ]
+    	"name": "Kalpeni-Androth Islands Maritime Patrol Corridor",
+    	"type": "Inter-Island Security Zone",
+    	"significance": "Fast patrol vessel operations and island hopping exercises",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 73.5 },
+    		{ "lat": 10.0, "lon": 74.5 },
+    		{ "lat": 11.0, "lon": 74.5 },
+    		{ "lat": 11.0, "lon": 73.5 }
+    	]
     }
     ```
 
 92. ```json
     {
-      "name": "Karwar Underwater Stealth Technology Testing Range",
-      "type": "Acoustic Signature Reduction Zone",
-      "significance": "Evaluation of submarine and surface ship noise reduction technologies",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Karwar Underwater Stealth Technology Testing Range",
+    	"type": "Acoustic Signature Reduction Zone",
+    	"significance": "Evaluation of submarine and surface ship noise reduction technologies",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 93. ```json
     {
-      "name": "Chilika Lake Amphibious Aircraft Operations Area",
-      "type": "Seaplane and Flying Boat Exercise Zone",
-      "significance": "Training for maritime patrol and search-and-rescue seaplanes",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Amphibious Aircraft Operations Area",
+    	"type": "Seaplane and Flying Boat Exercise Zone",
+    	"significance": "Training for maritime patrol and search-and-rescue seaplanes",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 94. ```json
     {
-      "name": "Kachchh Peninsula Coastal Radar Network",
-      "type": "Integrated Coastal Surveillance System",
-      "significance": "Exercises in coordinating multiple radar stations for maritime awareness",
-      "coordinates": [
-        { "lat": 22.5, "lon": 68.5 },
-        { "lat": 22.5, "lon": 70.5 },
-        { "lat": 24.0, "lon": 70.5 },
-        { "lat": 24.0, "lon": 68.5 }
-      ]
+    	"name": "Kachchh Peninsula Coastal Radar Network",
+    	"type": "Integrated Coastal Surveillance System",
+    	"significance": "Exercises in coordinating multiple radar stations for maritime awareness",
+    	"coordinates": [
+    		{ "lat": 22.5, "lon": 68.5 },
+    		{ "lat": 22.5, "lon": 70.5 },
+    		{ "lat": 24.0, "lon": 70.5 },
+    		{ "lat": 24.0, "lon": 68.5 }
+    	]
     }
     ```
 
 95. ```json
     {
-      "name": "Vizhinjam Deep Water Port Naval Facility",
-      "type": "Advanced Naval Base Exercise Area",
-      "significance": "Integration drills for new deep-water port capabilities",
-      "coordinates": [
-        { "lat": 8.0, "lon": 76.5 },
-        { "lat": 8.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 76.5 }
-      ]
+    	"name": "Vizhinjam Deep Water Port Naval Facility",
+    	"type": "Advanced Naval Base Exercise Area",
+    	"significance": "Integration drills for new deep-water port capabilities",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 76.5 },
+    		{ "lat": 8.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 76.5 }
+    	]
     }
     ```
 
 96. ```json
     {
-      "name": "Sunderban Delta Riverine Warfare School",
-      "type": "Shallow Water Combat Training Zone",
-      "significance": "Specialized training for naval commandos in mangrove environments",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sunderban Delta Riverine Warfare School",
+    	"type": "Shallow Water Combat Training Zone",
+    	"significance": "Specialized training for naval commandos in mangrove environments",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 97. ```json
     {
-      "name": "Port Blair Joint Operations Command Center",
-      "type": "Tri-Service Coordination Exercise Zone",
-      "significance": "Integrated exercises for navy, air force, and army in Andaman & Nicobar",
-      "coordinates": [
-        { "lat": 11.5, "lon": 92.5 },
-        { "lat": 11.5, "lon": 93.0 },
-        { "lat": 12.0, "lon": 93.0 },
-        { "lat": 12.0, "lon": 92.5 }
-      ]
+    	"name": "Port Blair Joint Operations Command Center",
+    	"type": "Tri-Service Coordination Exercise Zone",
+    	"significance": "Integrated exercises for navy, air force, and army in Andaman & Nicobar",
+    	"coordinates": [
+    		{ "lat": 11.5, "lon": 92.5 },
+    		{ "lat": 11.5, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 92.5 }
+    	]
     }
     ```
 
 98. ```json
     {
-      "name": "Lakshadweep Sea Anti-Satellite Weapon Test Range",
-      "type": "Strategic Weapons Evaluation Area",
-      "significance": "Testing of ship-based anti-satellite missile systems",
-      "coordinates": [
-        { "lat": 10.0, "lon": 70.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 70.0 }
-      ]
+    	"name": "Lakshadweep Sea Anti-Satellite Weapon Test Range",
+    	"type": "Strategic Weapons Evaluation Area",
+    	"significance": "Testing of ship-based anti-satellite missile systems",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 70.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 70.0 }
+    	]
     }
     ```
 
 99. ```json
     {
-      "name": "Andaman Sea Underwater Cave Operations Zone",
-      "type": "Special Forces Covert Training Area",
-      "significance": "Exercises for naval commandos in underwater cave systems",
-      "coordinates": [
-        { "lat": 12.0, "lon": 93.0 },
-        { "lat": 12.0, "lon": 93.5 },
-        { "lat": 12.5, "lon": 93.5 },
-        { "lat": 12.5, "lon": 93.0 }
-      ]
+    	"name": "Andaman Sea Underwater Cave Operations Zone",
+    	"type": "Special Forces Covert Training Area",
+    	"significance": "Exercises for naval commandos in underwater cave systems",
+    	"coordinates": [
+    		{ "lat": 12.0, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 93.5 },
+    		{ "lat": 12.5, "lon": 93.5 },
+    		{ "lat": 12.5, "lon": 93.0 }
+    	]
     }
     ```
 
 100. ```json
      {
-       "name": "INS Kadamba Extended Maritime Security Zone",
-       "type": "Strategic Naval Base Defense Sector",
-       "significance": "Multi-layer defense exercises for India's largest naval base",
-       "coordinates": [
-         { "lat": 14.5, "lon": 74.0 },
-         { "lat": 14.5, "lon": 74.5 },
-         { "lat": 15.0, "lon": 74.5 },
-         { "lat": 15.0, "lon": 74.0 }
-       ]
+     	"name": "INS Kadamba Extended Maritime Security Zone",
+     	"type": "Strategic Naval Base Defense Sector",
+     	"significance": "Multi-layer defense exercises for India's largest naval base",
+     	"coordinates": [
+     		{ "lat": 14.5, "lon": 74.0 },
+     		{ "lat": 14.5, "lon": 74.5 },
+     		{ "lat": 15.0, "lon": 74.5 },
+     		{ "lat": 15.0, "lon": 74.0 }
+     	]
      }
      ```
 
@@ -3514,351 +3514,351 @@
 
 1. ```json
    {
-     "name": "Andaman Islands Covert Insertion Training Zone",
-     "type": "Island Infiltration Exercise Area",
-     "significance": "Practice of clandestine insertion techniques in tropical island environments",
-     "coordinates": [
-       { "lat": 12.0, "lon": 92.5 },
-       { "lat": 12.0, "lon": 93.0 },
-       { "lat": 13.0, "lon": 93.0 },
-       { "lat": 13.0, "lon": 92.5 }
-     ]
+   	"name": "Andaman Islands Covert Insertion Training Zone",
+   	"type": "Island Infiltration Exercise Area",
+   	"significance": "Practice of clandestine insertion techniques in tropical island environments",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 92.5 },
+   		{ "lat": 12.0, "lon": 93.0 },
+   		{ "lat": 13.0, "lon": 93.0 },
+   		{ "lat": 13.0, "lon": 92.5 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Lakshadweep Sea Special Reconnaissance Sector",
-     "type": "Maritime Intelligence Gathering Exercise Zone",
-     "significance": "Training in covert observation and data collection in archipelagic waters",
-     "coordinates": [
-       { "lat": 10.0, "lon": 72.0 },
-       { "lat": 10.0, "lon": 73.0 },
-       { "lat": 11.0, "lon": 73.0 },
-       { "lat": 11.0, "lon": 72.0 }
-     ]
+   	"name": "Lakshadweep Sea Special Reconnaissance Sector",
+   	"type": "Maritime Intelligence Gathering Exercise Zone",
+   	"significance": "Training in covert observation and data collection in archipelagic waters",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 72.0 },
+   		{ "lat": 10.0, "lon": 73.0 },
+   		{ "lat": 11.0, "lon": 73.0 },
+   		{ "lat": 11.0, "lon": 72.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Gujarat Coast Underwater Demolition Range",
-     "type": "Subsurface Special Operations Training Area",
-     "significance": "Exercises in underwater demolitions and covert maritime sabotage",
-     "coordinates": [
-       { "lat": 21.0, "lon": 69.0 },
-       { "lat": 21.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 70.0 },
-       { "lat": 22.0, "lon": 69.0 }
-     ]
+   	"name": "Gujarat Coast Underwater Demolition Range",
+   	"type": "Subsurface Special Operations Training Area",
+   	"significance": "Exercises in underwater demolitions and covert maritime sabotage",
+   	"coordinates": [
+   		{ "lat": 21.0, "lon": 69.0 },
+   		{ "lat": 21.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 70.0 },
+   		{ "lat": 22.0, "lon": 69.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Visakhapatnam Advanced SEAL Training Facility",
-     "type": "Multi-Environment Special Ops Exercise Zone",
-     "significance": "Comprehensive training for naval special forces in various maritime scenarios",
-     "coordinates": [
-       { "lat": 17.0, "lon": 83.0 },
-       { "lat": 17.0, "lon": 83.5 },
-       { "lat": 17.5, "lon": 83.5 },
-       { "lat": 17.5, "lon": 83.0 }
-     ]
+   	"name": "Visakhapatnam Advanced SEAL Training Facility",
+   	"type": "Multi-Environment Special Ops Exercise Zone",
+   	"significance": "Comprehensive training for naval special forces in various maritime scenarios",
+   	"coordinates": [
+   		{ "lat": 17.0, "lon": 83.0 },
+   		{ "lat": 17.0, "lon": 83.5 },
+   		{ "lat": 17.5, "lon": 83.5 },
+   		{ "lat": 17.5, "lon": 83.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Sundarbans Delta Riverine Operations Area",
-     "type": "Complex Waterway Infiltration Zone",
-     "significance": "Training in special operations within intricate river and mangrove systems",
-     "coordinates": [
-       { "lat": 21.5, "lon": 88.5 },
-       { "lat": 21.5, "lon": 89.0 },
-       { "lat": 22.0, "lon": 89.0 },
-       { "lat": 22.0, "lon": 88.5 }
-     ]
+   	"name": "Sundarbans Delta Riverine Operations Area",
+   	"type": "Complex Waterway Infiltration Zone",
+   	"significance": "Training in special operations within intricate river and mangrove systems",
+   	"coordinates": [
+   		{ "lat": 21.5, "lon": 88.5 },
+   		{ "lat": 21.5, "lon": 89.0 },
+   		{ "lat": 22.0, "lon": 89.0 },
+   		{ "lat": 22.0, "lon": 88.5 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Karwar Underwater Special Operations Complex",
-     "type": "Advanced Subsurface Training Facility",
-     "significance": "Specialized training in submarine-based special operations and lock-out techniques",
-     "coordinates": [
-       { "lat": 14.5, "lon": 74.0 },
-       { "lat": 14.5, "lon": 74.5 },
-       { "lat": 15.0, "lon": 74.5 },
-       { "lat": 15.0, "lon": 74.0 }
-     ]
+   	"name": "Karwar Underwater Special Operations Complex",
+   	"type": "Advanced Subsurface Training Facility",
+   	"significance": "Specialized training in submarine-based special operations and lock-out techniques",
+   	"coordinates": [
+   		{ "lat": 14.5, "lon": 74.0 },
+   		{ "lat": 14.5, "lon": 74.5 },
+   		{ "lat": 15.0, "lon": 74.5 },
+   		{ "lat": 15.0, "lon": 74.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Port Blair Maritime Counter-Terrorism Center",
-     "type": "Anti-Piracy and Counter-Terror Training Zone",
-     "significance": "Exercises in vessel boarding, hostage rescue, and maritime counter-terrorism",
-     "coordinates": [
-       { "lat": 11.5, "lon": 92.5 },
-       { "lat": 11.5, "lon": 93.0 },
-       { "lat": 12.0, "lon": 93.0 },
-       { "lat": 12.0, "lon": 92.5 }
-     ]
+   	"name": "Port Blair Maritime Counter-Terrorism Center",
+   	"type": "Anti-Piracy and Counter-Terror Training Zone",
+   	"significance": "Exercises in vessel boarding, hostage rescue, and maritime counter-terrorism",
+   	"coordinates": [
+   		{ "lat": 11.5, "lon": 92.5 },
+   		{ "lat": 11.5, "lon": 93.0 },
+   		{ "lat": 12.0, "lon": 93.0 },
+   		{ "lat": 12.0, "lon": 92.5 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Kochi Special Boat Unit Training Area",
-     "type": "High-Speed Tactical Boat Operations Zone",
-     "significance": "Training in rapid deployment and extraction using specialized watercraft",
-     "coordinates": [
-       { "lat": 9.5, "lon": 76.0 },
-       { "lat": 9.5, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.5 },
-       { "lat": 10.0, "lon": 76.0 }
-     ]
+   	"name": "Kochi Special Boat Unit Training Area",
+   	"type": "High-Speed Tactical Boat Operations Zone",
+   	"significance": "Training in rapid deployment and extraction using specialized watercraft",
+   	"coordinates": [
+   		{ "lat": 9.5, "lon": 76.0 },
+   		{ "lat": 9.5, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.5 },
+   		{ "lat": 10.0, "lon": 76.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Car Nicobar Island Airborne Insertion Zone",
-     "type": "Parachute and HALO Jump Training Area",
-     "significance": "Practice of airborne insertion techniques for maritime special operations",
-     "coordinates": [
-       { "lat": 9.0, "lon": 92.5 },
-       { "lat": 9.0, "lon": 93.0 },
-       { "lat": 9.5, "lon": 93.0 },
-       { "lat": 9.5, "lon": 92.5 }
-     ]
+   	"name": "Car Nicobar Island Airborne Insertion Zone",
+   	"type": "Parachute and HALO Jump Training Area",
+   	"significance": "Practice of airborne insertion techniques for maritime special operations",
+   	"coordinates": [
+   		{ "lat": 9.0, "lon": 92.5 },
+   		{ "lat": 9.0, "lon": 93.0 },
+   		{ "lat": 9.5, "lon": 93.0 },
+   		{ "lat": 9.5, "lon": 92.5 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Chilika Lake Amphibious Recon Training Sector",
-      "type": "Coastal Wetland Special Ops Exercise Area",
-      "significance": "Training in amphibious reconnaissance in diverse coastal environments",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Amphibious Recon Training Sector",
+    	"type": "Coastal Wetland Special Ops Exercise Area",
+    	"significance": "Training in amphibious reconnaissance in diverse coastal environments",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Minicoy Island Maritime Asset Recovery Zone",
-      "type": "Underwater Salvage Operations Training Area",
-      "significance": "Exercises in covert recovery of sensitive equipment from the seabed",
-      "coordinates": [
-        { "lat": 8.0, "lon": 73.0 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.5 },
-        { "lat": 8.5, "lon": 73.0 }
-      ]
+    	"name": "Minicoy Island Maritime Asset Recovery Zone",
+    	"type": "Underwater Salvage Operations Training Area",
+    	"significance": "Exercises in covert recovery of sensitive equipment from the seabed",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 73.0 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.5 },
+    		{ "lat": 8.5, "lon": 73.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Kakinada Offshore Platform Security Training Area",
-      "type": "Critical Infrastructure Defense Exercise Zone",
-      "significance": "Special ops training for protection and recapture of offshore installations",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.5 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.0, "lon": 83.0 },
-        { "lat": 17.0, "lon": 82.5 }
-      ]
+    	"name": "Kakinada Offshore Platform Security Training Area",
+    	"type": "Critical Infrastructure Defense Exercise Zone",
+    	"significance": "Special ops training for protection and recapture of offshore installations",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.5 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.0, "lon": 83.0 },
+    		{ "lat": 17.0, "lon": 82.5 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Lakshadweep Sea Submarine Special Ops Zone",
-      "type": "Submerged Launch and Recovery Exercise Area",
-      "significance": "Training in special operations launched from submarines",
-      "coordinates": [
-        { "lat": 11.0, "lon": 71.0 },
-        { "lat": 11.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 71.0 }
-      ]
+    	"name": "Lakshadweep Sea Submarine Special Ops Zone",
+    	"type": "Submerged Launch and Recovery Exercise Area",
+    	"significance": "Training in special operations launched from submarines",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 71.0 },
+    		{ "lat": 11.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 71.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Gulf of Kutch Maritime Sabotage Training Range",
-      "type": "Covert Maritime Interdiction Exercise Area",
-      "significance": "Practice of clandestine ship disabling and boarding techniques",
-      "coordinates": [
-        { "lat": 22.5, "lon": 69.0 },
-        { "lat": 22.5, "lon": 70.0 },
-        { "lat": 23.5, "lon": 70.0 },
-        { "lat": 23.5, "lon": 69.0 }
-      ]
+    	"name": "Gulf of Kutch Maritime Sabotage Training Range",
+    	"type": "Covert Maritime Interdiction Exercise Area",
+    	"significance": "Practice of clandestine ship disabling and boarding techniques",
+    	"coordinates": [
+    		{ "lat": 22.5, "lon": 69.0 },
+    		{ "lat": 22.5, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 69.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Little Andaman Island Jungle Warfare Training Zone",
-      "type": "Tropical Forest Special Ops Exercise Area",
-      "significance": "Training in special operations combining maritime and jungle warfare",
-      "coordinates": [
-        { "lat": 10.5, "lon": 92.0 },
-        { "lat": 10.5, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.5 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman Island Jungle Warfare Training Zone",
+    	"type": "Tropical Forest Special Ops Exercise Area",
+    	"significance": "Training in special operations combining maritime and jungle warfare",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 92.0 },
+    		{ "lat": 10.5, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.5 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Goa Advanced Combat Diver Training Facility",
-      "type": "Underwater Combat Skills Development Zone",
-      "significance": "Specialized training in advanced diving and underwater combat techniques",
-      "coordinates": [
-        { "lat": 15.0, "lon": 73.5 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.5, "lon": 74.0 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Goa Advanced Combat Diver Training Facility",
+    	"type": "Underwater Combat Skills Development Zone",
+    	"significance": "Specialized training in advanced diving and underwater combat techniques",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 73.5 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Paradip Port Underwater Obstacle Course",
-      "type": "Maritime Special Forces Endurance Training Area",
-      "significance": "Advanced physical and skill training for naval special operations personnel",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.5 }
-      ]
+    	"name": "Paradip Port Underwater Obstacle Course",
+    	"type": "Maritime Special Forces Endurance Training Area",
+    	"significance": "Advanced physical and skill training for naval special operations personnel",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.5 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Andaman Sea Deep Water Insertion Training Zone",
-      "type": "Extreme Depth Special Operations Exercise Area",
-      "significance": "Training in ultra-deep water insertion and extraction techniques",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.0 },
-        { "lat": 10.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Deep Water Insertion Training Zone",
+    	"type": "Extreme Depth Special Operations Exercise Area",
+    	"significance": "Training in ultra-deep water insertion and extraction techniques",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.0 },
+    		{ "lat": 10.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 91.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Dwarka Coast Night Operations Training Sector",
-      "type": "Low-Light Maritime Special Ops Exercise Zone",
-      "significance": "Practice of special operations under extreme low-light conditions",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.5 },
-        { "lat": 22.0, "lon": 69.0 },
-        { "lat": 22.5, "lon": 69.0 },
-        { "lat": 22.5, "lon": 68.5 }
-      ]
+    	"name": "Dwarka Coast Night Operations Training Sector",
+    	"type": "Low-Light Maritime Special Ops Exercise Zone",
+    	"significance": "Practice of special operations under extreme low-light conditions",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.5 },
+    		{ "lat": 22.0, "lon": 69.0 },
+    		{ "lat": 22.5, "lon": 69.0 },
+    		{ "lat": 22.5, "lon": 68.5 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Kavatti Island Covert Communication Hub",
-      "type": "Special Ops Signal Intelligence Training Area",
-      "significance": "Exercises in establishing and operating covert communication networks",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.5 }
-      ]
+    	"name": "Kavatti Island Covert Communication Hub",
+    	"type": "Special Ops Signal Intelligence Training Area",
+    	"significance": "Exercises in establishing and operating covert communication networks",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Mumbai Harbor Underwater Infiltration Course",
-      "type": "Port Security Breach Simulation Zone",
-      "significance": "Training in covert underwater entry into heavily guarded port facilities",
-      "coordinates": [
-        { "lat": 18.8, "lon": 72.8 },
-        { "lat": 18.8, "lon": 73.0 },
-        { "lat": 19.0, "lon": 73.0 },
-        { "lat": 19.0, "lon": 72.8 }
-      ]
+    	"name": "Mumbai Harbor Underwater Infiltration Course",
+    	"type": "Port Security Breach Simulation Zone",
+    	"significance": "Training in covert underwater entry into heavily guarded port facilities",
+    	"coordinates": [
+    		{ "lat": 18.8, "lon": 72.8 },
+    		{ "lat": 18.8, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 73.0 },
+    		{ "lat": 19.0, "lon": 72.8 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Nicobar Islands Maritime Survival Training Area",
-      "type": "Extreme Environment Endurance Exercise Zone",
-      "significance": "Special ops survival training in remote maritime and jungle environments",
-      "coordinates": [
-        { "lat": 7.0, "lon": 93.5 },
-        { "lat": 7.0, "lon": 94.0 },
-        { "lat": 7.5, "lon": 94.0 },
-        { "lat": 7.5, "lon": 93.5 }
-      ]
+    	"name": "Nicobar Islands Maritime Survival Training Area",
+    	"type": "Extreme Environment Endurance Exercise Zone",
+    	"significance": "Special ops survival training in remote maritime and jungle environments",
+    	"coordinates": [
+    		{ "lat": 7.0, "lon": 93.5 },
+    		{ "lat": 7.0, "lon": 94.0 },
+    		{ "lat": 7.5, "lon": 94.0 },
+    		{ "lat": 7.5, "lon": 93.5 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Bhitarkanika Mangrove Infiltration Course",
-      "type": "Coastal Wetland Covert Movement Training Zone",
-      "significance": "Practice of stealthy navigation and operation in mangrove ecosystems",
-      "coordinates": [
-        { "lat": 20.5, "lon": 86.5 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 21.0, "lon": 87.0 },
-        { "lat": 21.0, "lon": 86.5 }
-      ]
+    	"name": "Bhitarkanika Mangrove Infiltration Course",
+    	"type": "Coastal Wetland Covert Movement Training Zone",
+    	"significance": "Practice of stealthy navigation and operation in mangrove ecosystems",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 86.5 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 87.0 },
+    		{ "lat": 21.0, "lon": 86.5 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Lakshadweep Sea VBSS Training Area",
-      "type": "Visit, Board, Search and Seizure Exercise Zone",
-      "significance": "Advanced training in maritime interdiction and vessel takeover operations",
-      "coordinates": [
-        { "lat": 10.0, "lon": 73.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 11.0, "lon": 74.0 },
-        { "lat": 11.0, "lon": 73.0 }
-      ]
+    	"name": "Lakshadweep Sea VBSS Training Area",
+    	"type": "Visit, Board, Search and Seizure Exercise Zone",
+    	"significance": "Advanced training in maritime interdiction and vessel takeover operations",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 73.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 11.0, "lon": 74.0 },
+    		{ "lat": 11.0, "lon": 73.0 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Rann of Kutch Amphibious Special Ops Zone",
-      "type": "Salt Marsh Covert Operations Training Area",
-      "significance": "Specialized training for operations in unique salt marsh environments",
-      "coordinates": [
-        { "lat": 23.5, "lon": 69.5 },
-        { "lat": 23.5, "lon": 70.5 },
-        { "lat": 24.5, "lon": 70.5 },
-        { "lat": 24.5, "lon": 69.5 }
-      ]
+    	"name": "Rann of Kutch Amphibious Special Ops Zone",
+    	"type": "Salt Marsh Covert Operations Training Area",
+    	"significance": "Specialized training for operations in unique salt marsh environments",
+    	"coordinates": [
+    		{ "lat": 23.5, "lon": 69.5 },
+    		{ "lat": 23.5, "lon": 70.5 },
+    		{ "lat": 24.5, "lon": 70.5 },
+    		{ "lat": 24.5, "lon": 69.5 }
+    	]
     }
     ```
 
@@ -3866,350 +3866,350 @@
 
 1. ```json
    {
-     "name": "Strait of Hormuz Surveillance Zone",
-     "type": "Critical Oil Transit Chokepoint",
-     "significance": "Monitoring of oil tanker traffic and regional tensions",
-     "coordinates": [
-       { "lat": 26.5, "lon": 56.0 },
-       { "lat": 26.5, "lon": 57.0 },
-       { "lat": 27.5, "lon": 57.0 },
-       { "lat": 27.5, "lon": 56.0 }
-     ]
+   	"name": "Strait of Hormuz Surveillance Zone",
+   	"type": "Critical Oil Transit Chokepoint",
+   	"significance": "Monitoring of oil tanker traffic and regional tensions",
+   	"coordinates": [
+   		{ "lat": 26.5, "lon": 56.0 },
+   		{ "lat": 26.5, "lon": 57.0 },
+   		{ "lat": 27.5, "lon": 57.0 },
+   		{ "lat": 27.5, "lon": 56.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Bab-el-Mandeb Strait Monitoring Area",
-     "type": "Strategic Waterway Observation Point",
-     "significance": "Surveillance of maritime traffic between Red Sea and Gulf of Aden",
-     "coordinates": [
-       { "lat": 12.5, "lon": 43.0 },
-       { "lat": 12.5, "lon": 44.0 },
-       { "lat": 13.5, "lon": 44.0 },
-       { "lat": 13.5, "lon": 43.0 }
-     ]
+   	"name": "Bab-el-Mandeb Strait Monitoring Area",
+   	"type": "Strategic Waterway Observation Point",
+   	"significance": "Surveillance of maritime traffic between Red Sea and Gulf of Aden",
+   	"coordinates": [
+   		{ "lat": 12.5, "lon": 43.0 },
+   		{ "lat": 12.5, "lon": 44.0 },
+   		{ "lat": 13.5, "lon": 44.0 },
+   		{ "lat": 13.5, "lon": 43.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Malacca Strait Approach Surveillance Sector",
-     "type": "Major Trade Route Monitoring Zone",
-     "significance": "Observation of vessel movements in critical Southeast Asian waterway",
-     "coordinates": [
-       { "lat": 4.0, "lon": 96.0 },
-       { "lat": 4.0, "lon": 100.0 },
-       { "lat": 6.0, "lon": 100.0 },
-       { "lat": 6.0, "lon": 96.0 }
-     ]
+   	"name": "Malacca Strait Approach Surveillance Sector",
+   	"type": "Major Trade Route Monitoring Zone",
+   	"significance": "Observation of vessel movements in critical Southeast Asian waterway",
+   	"coordinates": [
+   		{ "lat": 4.0, "lon": 96.0 },
+   		{ "lat": 4.0, "lon": 100.0 },
+   		{ "lat": 6.0, "lon": 100.0 },
+   		{ "lat": 6.0, "lon": 96.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Nine Degree Channel Patrol Area",
-     "type": "Lakshadweep Sea Lane Security Zone",
-     "significance": "Monitoring of maritime traffic passing through Lakshadweep Islands",
-     "coordinates": [
-       { "lat": 8.0, "lon": 72.0 },
-       { "lat": 8.0, "lon": 76.0 },
-       { "lat": 10.0, "lon": 76.0 },
-       { "lat": 10.0, "lon": 72.0 }
-     ]
+   	"name": "Nine Degree Channel Patrol Area",
+   	"type": "Lakshadweep Sea Lane Security Zone",
+   	"significance": "Monitoring of maritime traffic passing through Lakshadweep Islands",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 72.0 },
+   		{ "lat": 8.0, "lon": 76.0 },
+   		{ "lat": 10.0, "lon": 76.0 },
+   		{ "lat": 10.0, "lon": 72.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Palk Strait Surveillance Sector",
-     "type": "India-Sri Lanka Maritime Border Zone",
-     "significance": "Monitoring of fishing activities and prevention of smuggling",
-     "coordinates": [
-       { "lat": 9.0, "lon": 79.0 },
-       { "lat": 9.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 80.0 },
-       { "lat": 10.0, "lon": 79.0 }
-     ]
+   	"name": "Palk Strait Surveillance Sector",
+   	"type": "India-Sri Lanka Maritime Border Zone",
+   	"significance": "Monitoring of fishing activities and prevention of smuggling",
+   	"coordinates": [
+   		{ "lat": 9.0, "lon": 79.0 },
+   		{ "lat": 9.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 80.0 },
+   		{ "lat": 10.0, "lon": 79.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Sunda Strait Approach Monitoring Zone",
-     "type": "Alternative Malacca Strait Route Observation Area",
-     "significance": "Surveillance of vessels using alternative route to South China Sea",
-     "coordinates": [
-       { "lat": -7.0, "lon": 104.0 },
-       { "lat": -7.0, "lon": 106.0 },
-       { "lat": -5.0, "lon": 106.0 },
-       { "lat": -5.0, "lon": 104.0 }
-     ]
+   	"name": "Sunda Strait Approach Monitoring Zone",
+   	"type": "Alternative Malacca Strait Route Observation Area",
+   	"significance": "Surveillance of vessels using alternative route to South China Sea",
+   	"coordinates": [
+   		{ "lat": -7.0, "lon": 104.0 },
+   		{ "lat": -7.0, "lon": 106.0 },
+   		{ "lat": -5.0, "lon": 106.0 },
+   		{ "lat": -5.0, "lon": 104.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Mozambique Channel Patrol Zone",
-     "type": "Southern Indian Ocean Trade Route Surveillance Area",
-     "significance": "Monitoring of maritime traffic and anti-piracy operations",
-     "coordinates": [
-       { "lat": -18.0, "lon": 38.0 },
-       { "lat": -18.0, "lon": 42.0 },
-       { "lat": -12.0, "lon": 42.0 },
-       { "lat": -12.0, "lon": 38.0 }
-     ]
+   	"name": "Mozambique Channel Patrol Zone",
+   	"type": "Southern Indian Ocean Trade Route Surveillance Area",
+   	"significance": "Monitoring of maritime traffic and anti-piracy operations",
+   	"coordinates": [
+   		{ "lat": -18.0, "lon": 38.0 },
+   		{ "lat": -18.0, "lon": 42.0 },
+   		{ "lat": -12.0, "lon": 42.0 },
+   		{ "lat": -12.0, "lon": 38.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Gulf of Oman Surveillance Area",
-     "type": "Western Indian Ocean Maritime Awareness Zone",
-     "significance": "Monitoring of vessel movements entering/exiting Persian Gulf",
-     "coordinates": [
-       { "lat": 24.0, "lon": 58.0 },
-       { "lat": 24.0, "lon": 62.0 },
-       { "lat": 26.0, "lon": 62.0 },
-       { "lat": 26.0, "lon": 58.0 }
-     ]
+   	"name": "Gulf of Oman Surveillance Area",
+   	"type": "Western Indian Ocean Maritime Awareness Zone",
+   	"significance": "Monitoring of vessel movements entering/exiting Persian Gulf",
+   	"coordinates": [
+   		{ "lat": 24.0, "lon": 58.0 },
+   		{ "lat": 24.0, "lon": 62.0 },
+   		{ "lat": 26.0, "lon": 62.0 },
+   		{ "lat": 26.0, "lon": 58.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Andaman Sea - Bay of Bengal Junction",
-     "type": "Critical Maritime Crossroads Observation Zone",
-     "significance": "Monitoring of traffic transitioning between Andaman Sea and Bay of Bengal",
-     "coordinates": [
-       { "lat": 10.0, "lon": 92.0 },
-       { "lat": 10.0, "lon": 95.0 },
-       { "lat": 14.0, "lon": 95.0 },
-       { "lat": 14.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea - Bay of Bengal Junction",
+   	"type": "Critical Maritime Crossroads Observation Zone",
+   	"significance": "Monitoring of traffic transitioning between Andaman Sea and Bay of Bengal",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 92.0 },
+   		{ "lat": 10.0, "lon": 95.0 },
+   		{ "lat": 14.0, "lon": 95.0 },
+   		{ "lat": 14.0, "lon": 92.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Gulf of Mannar Patrol Sector",
-      "type": "India-Sri Lanka Western Maritime Border Zone",
-      "significance": "Surveillance of fishing activities and maritime boundary",
-      "coordinates": [
-        { "lat": 8.0, "lon": 78.0 },
-        { "lat": 8.0, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Patrol Sector",
+    	"type": "India-Sri Lanka Western Maritime Border Zone",
+    	"significance": "Surveillance of fishing activities and maritime boundary",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 78.0 },
+    		{ "lat": 8.0, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 11. ```json
     {
-      "name": "Laccadive Sea Gateway",
-      "type": "Western Indian Ocean Access Point",
-      "significance": "Monitoring of vessel traffic entering Indian EEZ from the west",
-      "coordinates": [
-        { "lat": 8.0, "lon": 74.0 },
-        { "lat": 8.0, "lon": 76.0 },
-        { "lat": 12.0, "lon": 76.0 },
-        { "lat": 12.0, "lon": 74.0 }
-      ]
+    	"name": "Laccadive Sea Gateway",
+    	"type": "Western Indian Ocean Access Point",
+    	"significance": "Monitoring of vessel traffic entering Indian EEZ from the west",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 74.0 },
+    		{ "lat": 8.0, "lon": 76.0 },
+    		{ "lat": 12.0, "lon": 76.0 },
+    		{ "lat": 12.0, "lon": 74.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Preparis Channel Observation Zone",
-      "type": "India-Myanmar Maritime Border Area",
-      "significance": "Surveillance of northern Andaman Sea and maritime boundary",
-      "coordinates": [
-        { "lat": 14.0, "lon": 93.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 15.5, "lon": 95.0 },
-        { "lat": 15.5, "lon": 93.0 }
-      ]
+    	"name": "Preparis Channel Observation Zone",
+    	"type": "India-Myanmar Maritime Border Area",
+    	"significance": "Surveillance of northern Andaman Sea and maritime boundary",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 93.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 15.5, "lon": 95.0 },
+    		{ "lat": 15.5, "lon": 93.0 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Gulf of Kutch Entrance Surveillance Sector",
-      "type": "Critical Oil Terminal Approach Zone",
-      "significance": "Monitoring of tanker traffic and offshore installation security",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 23.5, "lon": 70.0 },
-        { "lat": 23.5, "lon": 68.0 }
-      ]
+    	"name": "Gulf of Kutch Entrance Surveillance Sector",
+    	"type": "Critical Oil Terminal Approach Zone",
+    	"significance": "Monitoring of tanker traffic and offshore installation security",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 68.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Dondra Head Monitoring Area",
-      "type": "Southern Sri Lanka Traffic Separation Scheme",
-      "significance": "Observation of east-west maritime traffic south of Sri Lanka",
-      "coordinates": [
-        { "lat": 5.5, "lon": 80.0 },
-        { "lat": 5.5, "lon": 82.0 },
-        { "lat": 7.0, "lon": 82.0 },
-        { "lat": 7.0, "lon": 80.0 }
-      ]
+    	"name": "Dondra Head Monitoring Area",
+    	"type": "Southern Sri Lanka Traffic Separation Scheme",
+    	"significance": "Observation of east-west maritime traffic south of Sri Lanka",
+    	"coordinates": [
+    		{ "lat": 5.5, "lon": 80.0 },
+    		{ "lat": 5.5, "lon": 82.0 },
+    		{ "lat": 7.0, "lon": 82.0 },
+    		{ "lat": 7.0, "lon": 80.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Kori Creek Border Patrol Sector",
-      "type": "India-Pakistan Maritime Frontier Zone",
-      "significance": "Monitoring of maritime border and prevention of illegal activities",
-      "coordinates": [
-        { "lat": 23.0, "lon": 68.0 },
-        { "lat": 23.0, "lon": 69.0 },
-        { "lat": 24.0, "lon": 69.0 },
-        { "lat": 24.0, "lon": 68.0 }
-      ]
+    	"name": "Kori Creek Border Patrol Sector",
+    	"type": "India-Pakistan Maritime Frontier Zone",
+    	"significance": "Monitoring of maritime border and prevention of illegal activities",
+    	"coordinates": [
+    		{ "lat": 23.0, "lon": 68.0 },
+    		{ "lat": 23.0, "lon": 69.0 },
+    		{ "lat": 24.0, "lon": 69.0 },
+    		{ "lat": 24.0, "lon": 68.0 }
+    	]
     }
     ```
 
 16. ```json
     {
-      "name": "Ten Degree Channel Surveillance Area",
-      "type": "Andaman Islands Strategic Waterway",
-      "significance": "Monitoring of maritime traffic between Andaman and Nicobar Islands",
-      "coordinates": [
-        { "lat": 9.0, "lon": 91.5 },
-        { "lat": 9.0, "lon": 93.5 },
-        { "lat": 11.0, "lon": 93.5 },
-        { "lat": 11.0, "lon": 91.5 }
-      ]
+    	"name": "Ten Degree Channel Surveillance Area",
+    	"type": "Andaman Islands Strategic Waterway",
+    	"significance": "Monitoring of maritime traffic between Andaman and Nicobar Islands",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 91.5 },
+    		{ "lat": 9.0, "lon": 93.5 },
+    		{ "lat": 11.0, "lon": 93.5 },
+    		{ "lat": 11.0, "lon": 91.5 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Palk Bay Coastal Monitoring Zone",
-      "type": "Shallow Water Surveillance Area",
-      "significance": "Monitoring of local fishing activities and cross-border movements",
-      "coordinates": [
-        { "lat": 9.5, "lon": 79.0 },
-        { "lat": 9.5, "lon": 80.0 },
-        { "lat": 10.5, "lon": 80.0 },
-        { "lat": 10.5, "lon": 79.0 }
-      ]
+    	"name": "Palk Bay Coastal Monitoring Zone",
+    	"type": "Shallow Water Surveillance Area",
+    	"significance": "Monitoring of local fishing activities and cross-border movements",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 79.0 },
+    		{ "lat": 9.5, "lon": 80.0 },
+    		{ "lat": 10.5, "lon": 80.0 },
+    		{ "lat": 10.5, "lon": 79.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "Colombo Approach Observation Sector",
-      "type": "Major Port Vicinity Monitoring Zone",
-      "significance": "Surveillance of vessel traffic approaching key Sri Lankan port",
-      "coordinates": [
-        { "lat": 6.5, "lon": 79.0 },
-        { "lat": 6.5, "lon": 80.0 },
-        { "lat": 7.5, "lon": 80.0 },
-        { "lat": 7.5, "lon": 79.0 }
-      ]
+    	"name": "Colombo Approach Observation Sector",
+    	"type": "Major Port Vicinity Monitoring Zone",
+    	"significance": "Surveillance of vessel traffic approaching key Sri Lankan port",
+    	"coordinates": [
+    		{ "lat": 6.5, "lon": 79.0 },
+    		{ "lat": 6.5, "lon": 80.0 },
+    		{ "lat": 7.5, "lon": 80.0 },
+    		{ "lat": 7.5, "lon": 79.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Gulf of Khambhat Entrance Patrol Area",
-      "type": "High Tidal Range Navigation Zone",
-      "significance": "Monitoring of vessel movements in challenging tidal conditions",
-      "coordinates": [
-        { "lat": 21.0, "lon": 71.5 },
-        { "lat": 21.0, "lon": 72.5 },
-        { "lat": 22.0, "lon": 72.5 },
-        { "lat": 22.0, "lon": 71.5 }
-      ]
+    	"name": "Gulf of Khambhat Entrance Patrol Area",
+    	"type": "High Tidal Range Navigation Zone",
+    	"significance": "Monitoring of vessel movements in challenging tidal conditions",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 71.5 },
+    		{ "lat": 21.0, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 71.5 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Minicoy Island Maritime Buffer Zone",
-      "type": "Southernmost Indian Territory Surveillance Area",
-      "significance": "Monitoring of vessel traffic near southern Lakshadweep",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.5 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 72.5 }
-      ]
+    	"name": "Minicoy Island Maritime Buffer Zone",
+    	"type": "Southernmost Indian Territory Surveillance Area",
+    	"significance": "Monitoring of vessel traffic near southern Lakshadweep",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.5 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 72.5 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Gwadar Port Approach Monitoring Zone",
-      "type": "Chinese-operated Port Surveillance Area",
-      "significance": "Observation of maritime activities around strategic Pakistani port",
-      "coordinates": [
-        { "lat": 24.5, "lon": 61.5 },
-        { "lat": 24.5, "lon": 62.5 },
-        { "lat": 25.5, "lon": 62.5 },
-        { "lat": 25.5, "lon": 61.5 }
-      ]
+    	"name": "Gwadar Port Approach Monitoring Zone",
+    	"type": "Chinese-operated Port Surveillance Area",
+    	"significance": "Observation of maritime activities around strategic Pakistani port",
+    	"coordinates": [
+    		{ "lat": 24.5, "lon": 61.5 },
+    		{ "lat": 24.5, "lon": 62.5 },
+    		{ "lat": 25.5, "lon": 62.5 },
+    		{ "lat": 25.5, "lon": 61.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Trincomalee Harbor Approach Watch Area",
-      "type": "Strategic Sri Lankan Port Monitoring Zone",
-      "significance": "Surveillance of vessel movements near major naval base",
-      "coordinates": [
-        { "lat": 8.5, "lon": 81.0 },
-        { "lat": 8.5, "lon": 82.0 },
-        { "lat": 9.5, "lon": 82.0 },
-        { "lat": 9.5, "lon": 81.0 }
-      ]
+    	"name": "Trincomalee Harbor Approach Watch Area",
+    	"type": "Strategic Sri Lankan Port Monitoring Zone",
+    	"significance": "Surveillance of vessel movements near major naval base",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 81.0 },
+    		{ "lat": 8.5, "lon": 82.0 },
+    		{ "lat": 9.5, "lon": 82.0 },
+    		{ "lat": 9.5, "lon": 81.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Sundarbans Delta Maritime Frontier",
-      "type": "India-Bangladesh Riverine Border Zone",
-      "significance": "Monitoring of complex waterways and prevention of illegal crossings",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Delta Maritime Frontier",
+    	"type": "India-Bangladesh Riverine Border Zone",
+    	"significance": "Monitoring of complex waterways and prevention of illegal crossings",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Car Nicobar - Nancowry Channel",
-      "type": "Inter-Island Passage Surveillance Zone",
-      "significance": "Monitoring of vessel movements between central Nicobar Islands",
-      "coordinates": [
-        { "lat": 8.0, "lon": 92.5 },
-        { "lat": 8.0, "lon": 93.5 },
-        { "lat": 9.0, "lon": 93.5 },
-        { "lat": 9.0, "lon": 92.5 }
-      ]
+    	"name": "Car Nicobar - Nancowry Channel",
+    	"type": "Inter-Island Passage Surveillance Zone",
+    	"significance": "Monitoring of vessel movements between central Nicobar Islands",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 92.5 },
+    		{ "lat": 8.0, "lon": 93.5 },
+    		{ "lat": 9.0, "lon": 93.5 },
+    		{ "lat": 9.0, "lon": 92.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Indira Point Maritime Frontier",
-      "type": "Southernmost Indian Territory Watch Zone",
-      "significance": "Surveillance of approaches to Nicobar Islands from the south",
-      "coordinates": [
-        { "lat": 6.5, "lon": 93.5 },
-        { "lat": 6.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 93.5 }
-      ]
+    	"name": "Indira Point Maritime Frontier",
+    	"type": "Southernmost Indian Territory Watch Zone",
+    	"significance": "Surveillance of approaches to Nicobar Islands from the south",
+    	"coordinates": [
+    		{ "lat": 6.5, "lon": 93.5 },
+    		{ "lat": 6.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 93.5 }
+    	]
     }
     ```
 
@@ -4217,1400 +4217,1400 @@
 
 1. ```json
    {
-     "name": "Arabian Sea Western Patrol Zone",
-     "type": "Naval Patrol Area",
-     "significance": "Anti-piracy operations and maritime security",
-     "coordinates": [
-       { "lat": 14.0, "lon": 60.0 },
-       { "lat": 14.0, "lon": 65.0 },
-       { "lat": 20.0, "lon": 65.0 },
-       { "lat": 20.0, "lon": 60.0 }
-     ]
+   	"name": "Arabian Sea Western Patrol Zone",
+   	"type": "Naval Patrol Area",
+   	"significance": "Anti-piracy operations and maritime security",
+   	"coordinates": [
+   		{ "lat": 14.0, "lon": 60.0 },
+   		{ "lat": 14.0, "lon": 65.0 },
+   		{ "lat": 20.0, "lon": 65.0 },
+   		{ "lat": 20.0, "lon": 60.0 }
+   	]
    }
    ```
 
 2. ```json
    {
-     "name": "Lakshadweep Sea Surveillance Zone",
-     "type": "Maritime Surveillance Area",
-     "significance": "Protection of island territories and EEZ monitoring",
-     "coordinates": [
-       { "lat": 8.0, "lon": 71.0 },
-       { "lat": 8.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 74.0 },
-       { "lat": 12.0, "lon": 71.0 }
-     ]
+   	"name": "Lakshadweep Sea Surveillance Zone",
+   	"type": "Maritime Surveillance Area",
+   	"significance": "Protection of island territories and EEZ monitoring",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 71.0 },
+   		{ "lat": 8.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 74.0 },
+   		{ "lat": 12.0, "lon": 71.0 }
+   	]
    }
    ```
 
 3. ```json
    {
-     "name": "Bay of Bengal Eastern Fleet Operating Area",
-     "type": "Naval Exercise Zone",
-     "significance": "Fleet readiness and interoperability training",
-     "coordinates": [
-       { "lat": 12.0, "lon": 85.0 },
-       { "lat": 12.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 90.0 },
-       { "lat": 16.0, "lon": 85.0 }
-     ]
+   	"name": "Bay of Bengal Eastern Fleet Operating Area",
+   	"type": "Naval Exercise Zone",
+   	"significance": "Fleet readiness and interoperability training",
+   	"coordinates": [
+   		{ "lat": 12.0, "lon": 85.0 },
+   		{ "lat": 12.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 90.0 },
+   		{ "lat": 16.0, "lon": 85.0 }
+   	]
    }
    ```
 
 4. ```json
    {
-     "name": "Andaman Sea Strategic Passage",
-     "type": "Critical Maritime Chokepoint",
-     "significance": "Monitoring of maritime traffic near Andaman Islands",
-     "coordinates": [
-       { "lat": 10.0, "lon": 92.0 },
-       { "lat": 10.0, "lon": 94.0 },
-       { "lat": 14.0, "lon": 94.0 },
-       { "lat": 14.0, "lon": 92.0 }
-     ]
+   	"name": "Andaman Sea Strategic Passage",
+   	"type": "Critical Maritime Chokepoint",
+   	"significance": "Monitoring of maritime traffic near Andaman Islands",
+   	"coordinates": [
+   		{ "lat": 10.0, "lon": 92.0 },
+   		{ "lat": 10.0, "lon": 94.0 },
+   		{ "lat": 14.0, "lon": 94.0 },
+   		{ "lat": 14.0, "lon": 92.0 }
+   	]
    }
    ```
 
 5. ```json
    {
-     "name": "Gulf of Mannar Patrol Sector",
-     "type": "Coastal Security Zone",
-     "significance": "Prevention of illegal activities and resource protection",
-     "coordinates": [
-       { "lat": 8.0, "lon": 78.0 },
-       { "lat": 8.0, "lon": 79.5 },
-       { "lat": 9.5, "lon": 79.5 },
-       { "lat": 9.5, "lon": 78.0 }
-     ]
+   	"name": "Gulf of Mannar Patrol Sector",
+   	"type": "Coastal Security Zone",
+   	"significance": "Prevention of illegal activities and resource protection",
+   	"coordinates": [
+   		{ "lat": 8.0, "lon": 78.0 },
+   		{ "lat": 8.0, "lon": 79.5 },
+   		{ "lat": 9.5, "lon": 79.5 },
+   		{ "lat": 9.5, "lon": 78.0 }
+   	]
    }
    ```
 
 6. ```json
    {
-     "name": "Mumbai High Offshore Security Zone",
-     "type": "Critical Infrastructure Protection Area",
-     "significance": "Security of offshore oil and gas installations",
-     "coordinates": [
-       { "lat": 19.0, "lon": 71.0 },
-       { "lat": 19.0, "lon": 72.5 },
-       { "lat": 20.5, "lon": 72.5 },
-       { "lat": 20.5, "lon": 71.0 }
-     ]
+   	"name": "Mumbai High Offshore Security Zone",
+   	"type": "Critical Infrastructure Protection Area",
+   	"significance": "Security of offshore oil and gas installations",
+   	"coordinates": [
+   		{ "lat": 19.0, "lon": 71.0 },
+   		{ "lat": 19.0, "lon": 72.5 },
+   		{ "lat": 20.5, "lon": 72.5 },
+   		{ "lat": 20.5, "lon": 71.0 }
+   	]
    }
    ```
 
 7. ```json
    {
-     "name": "Strait of Hormuz Approach Monitoring Area",
-     "type": "Strategic Observation Zone",
-     "significance": "Monitoring of oil tanker traffic and regional tensions",
-     "coordinates": [
-       { "lat": 24.0, "lon": 58.0 },
-       { "lat": 24.0, "lon": 60.0 },
-       { "lat": 26.0, "lon": 60.0 },
-       { "lat": 26.0, "lon": 58.0 }
-     ]
+   	"name": "Strait of Hormuz Approach Monitoring Area",
+   	"type": "Strategic Observation Zone",
+   	"significance": "Monitoring of oil tanker traffic and regional tensions",
+   	"coordinates": [
+   		{ "lat": 24.0, "lon": 58.0 },
+   		{ "lat": 24.0, "lon": 60.0 },
+   		{ "lat": 26.0, "lon": 60.0 },
+   		{ "lat": 26.0, "lon": 58.0 }
+   	]
    }
    ```
 
 8. ```json
    {
-     "name": "Southern Bay of Bengal ASW Training Area",
-     "type": "Anti-Submarine Warfare Exercise Zone",
-     "significance": "Submarine detection and engagement practice",
-     "coordinates": [
-       { "lat": 5.0, "lon": 85.0 },
-       { "lat": 5.0, "lon": 90.0 },
-       { "lat": 10.0, "lon": 90.0 },
-       { "lat": 10.0, "lon": 85.0 }
-     ]
+   	"name": "Southern Bay of Bengal ASW Training Area",
+   	"type": "Anti-Submarine Warfare Exercise Zone",
+   	"significance": "Submarine detection and engagement practice",
+   	"coordinates": [
+   		{ "lat": 5.0, "lon": 85.0 },
+   		{ "lat": 5.0, "lon": 90.0 },
+   		{ "lat": 10.0, "lon": 90.0 },
+   		{ "lat": 10.0, "lon": 85.0 }
+   	]
    }
    ```
 
 9. ```json
    {
-     "name": "Goa Naval Air Station Patrol Sector",
-     "type": "Maritime Air Patrol Zone",
-     "significance": "Aerial surveillance and SAR operations",
-     "coordinates": [
-       { "lat": 14.5, "lon": 73.0 },
-       { "lat": 14.5, "lon": 74.5 },
-       { "lat": 16.0, "lon": 74.5 },
-       { "lat": 16.0, "lon": 73.0 }
-     ]
+   	"name": "Goa Naval Air Station Patrol Sector",
+   	"type": "Maritime Air Patrol Zone",
+   	"significance": "Aerial surveillance and SAR operations",
+   	"coordinates": [
+   		{ "lat": 14.5, "lon": 73.0 },
+   		{ "lat": 14.5, "lon": 74.5 },
+   		{ "lat": 16.0, "lon": 74.5 },
+   		{ "lat": 16.0, "lon": 73.0 }
+   	]
    }
    ```
 
 10. ```json
     {
-      "name": "Nicobar Islands Southern Approach",
-      "type": "Maritime Border Surveillance Zone",
-      "significance": "Monitoring of southern maritime border and ship traffic",
-      "coordinates": [
-        { "lat": 6.0, "lon": 92.0 },
-        { "lat": 6.0, "lon": 95.0 },
-        { "lat": 8.0, "lon": 95.0 },
-        { "lat": 8.0, "lon": 92.0 }
-      ]
+    	"name": "Nicobar Islands Southern Approach",
+    	"type": "Maritime Border Surveillance Zone",
+    	"significance": "Monitoring of southern maritime border and ship traffic",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 92.0 },
+    		{ "lat": 6.0, "lon": 95.0 },
+    		{ "lat": 8.0, "lon": 95.0 },
+    		{ "lat": 8.0, "lon": 92.0 }
+    	]
     }
     ```
 
 11. ```json
     {
-      "name": "Gujarat Coastal Patrol Area",
-      "type": "Coastal Security Zone",
-      "significance": "Monitoring of maritime border with Pakistan",
-      "coordinates": [
-        { "lat": 20.0, "lon": 68.0 },
-        { "lat": 20.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 68.0 }
-      ]
+    	"name": "Gujarat Coastal Patrol Area",
+    	"type": "Coastal Security Zone",
+    	"significance": "Monitoring of maritime border with Pakistan",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 68.0 },
+    		{ "lat": 20.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 68.0 }
+    	]
     }
     ```
 
 12. ```json
     {
-      "name": "Eastern Arabian Sea Anti-Piracy Zone",
-      "type": "Counter-Piracy Patrol Area",
-      "significance": "Prevention of piracy and armed robbery at sea",
-      "coordinates": [
-        { "lat": 12.0, "lon": 65.0 },
-        { "lat": 12.0, "lon": 70.0 },
-        { "lat": 16.0, "lon": 70.0 },
-        { "lat": 16.0, "lon": 65.0 }
-      ]
+    	"name": "Eastern Arabian Sea Anti-Piracy Zone",
+    	"type": "Counter-Piracy Patrol Area",
+    	"significance": "Prevention of piracy and armed robbery at sea",
+    	"coordinates": [
+    		{ "lat": 12.0, "lon": 65.0 },
+    		{ "lat": 12.0, "lon": 70.0 },
+    		{ "lat": 16.0, "lon": 70.0 },
+    		{ "lat": 16.0, "lon": 65.0 }
+    	]
     }
     ```
 
 13. ```json
     {
-      "name": "Kochi Naval Base Operating Area",
-      "type": "Naval Exercise Zone",
-      "significance": "Training and readiness operations for Southern Naval Command",
-      "coordinates": [
-        { "lat": 9.0, "lon": 75.0 },
-        { "lat": 9.0, "lon": 77.0 },
-        { "lat": 11.0, "lon": 77.0 },
-        { "lat": 11.0, "lon": 75.0 }
-      ]
+    	"name": "Kochi Naval Base Operating Area",
+    	"type": "Naval Exercise Zone",
+    	"significance": "Training and readiness operations for Southern Naval Command",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 75.0 },
+    		{ "lat": 9.0, "lon": 77.0 },
+    		{ "lat": 11.0, "lon": 77.0 },
+    		{ "lat": 11.0, "lon": 75.0 }
+    	]
     }
     ```
 
 14. ```json
     {
-      "name": "Malacca Strait Approach Monitoring Zone",
-      "type": "Strategic Maritime Chokepoint",
-      "significance": "Surveillance of critical shipping lane",
-      "coordinates": [
-        { "lat": 4.0, "lon": 94.0 },
-        { "lat": 4.0, "lon": 98.0 },
-        { "lat": 6.0, "lon": 98.0 },
-        { "lat": 6.0, "lon": 94.0 }
-      ]
+    	"name": "Malacca Strait Approach Monitoring Zone",
+    	"type": "Strategic Maritime Chokepoint",
+    	"significance": "Surveillance of critical shipping lane",
+    	"coordinates": [
+    		{ "lat": 4.0, "lon": 94.0 },
+    		{ "lat": 4.0, "lon": 98.0 },
+    		{ "lat": 6.0, "lon": 98.0 },
+    		{ "lat": 6.0, "lon": 94.0 }
+    	]
     }
     ```
 
 15. ```json
     {
-      "name": "Central Indian Ocean Long Range Maritime Patrol Area",
-      "type": "Extended Maritime Surveillance Zone",
-      "significance": "Long-range maritime domain awareness",
-      "coordinates": [
-        { "lat": -5.0, "lon": 70.0 },
-        { "lat": -5.0, "lon": 80.0 },
-        { "lat": 5.0, "lon": 80.0 },
-        { "lat": 5.0, "lon": 70.0 }
-      ]
+    	"name": "Central Indian Ocean Long Range Maritime Patrol Area",
+    	"type": "Extended Maritime Surveillance Zone",
+    	"significance": "Long-range maritime domain awareness",
+    	"coordinates": [
+    		{ "lat": -5.0, "lon": 70.0 },
+    		{ "lat": -5.0, "lon": 80.0 },
+    		{ "lat": 5.0, "lon": 80.0 },
+    		{ "lat": 5.0, "lon": 70.0 }
+    	]
     }
     ```
 16. ```json
     {
-      "name": "Vishakhapatnam Fleet Exercise Area",
-      "type": "Naval Exercise Zone",
-      "significance": "Eastern Fleet combat readiness drills",
-      "coordinates": [
-        { "lat": 15.0, "lon": 82.0 },
-        { "lat": 15.0, "lon": 84.0 },
-        { "lat": 17.0, "lon": 84.0 },
-        { "lat": 17.0, "lon": 82.0 }
-      ]
+    	"name": "Vishakhapatnam Fleet Exercise Area",
+    	"type": "Naval Exercise Zone",
+    	"significance": "Eastern Fleet combat readiness drills",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 82.0 },
+    		{ "lat": 15.0, "lon": 84.0 },
+    		{ "lat": 17.0, "lon": 84.0 },
+    		{ "lat": 17.0, "lon": 82.0 }
+    	]
     }
     ```
 
 17. ```json
     {
-      "name": "Trincomalee Approach Monitoring Zone",
-      "type": "Strategic Observation Area",
-      "significance": "Monitoring naval activities near Sri Lankan waters",
-      "coordinates": [
-        { "lat": 8.0, "lon": 81.0 },
-        { "lat": 8.0, "lon": 82.5 },
-        { "lat": 9.5, "lon": 82.5 },
-        { "lat": 9.5, "lon": 81.0 }
-      ]
+    	"name": "Trincomalee Approach Monitoring Zone",
+    	"type": "Strategic Observation Area",
+    	"significance": "Monitoring naval activities near Sri Lankan waters",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 81.0 },
+    		{ "lat": 8.0, "lon": 82.5 },
+    		{ "lat": 9.5, "lon": 82.5 },
+    		{ "lat": 9.5, "lon": 81.0 }
+    	]
     }
     ```
 
 18. ```json
     {
-      "name": "North Arabian Sea Extended Patrol Zone",
-      "type": "Maritime Security Patrol Area",
-      "significance": "Counter-terrorism and anti-smuggling operations",
-      "coordinates": [
-        { "lat": 20.0, "lon": 60.0 },
-        { "lat": 20.0, "lon": 65.0 },
-        { "lat": 24.0, "lon": 65.0 },
-        { "lat": 24.0, "lon": 60.0 }
-      ]
+    	"name": "North Arabian Sea Extended Patrol Zone",
+    	"type": "Maritime Security Patrol Area",
+    	"significance": "Counter-terrorism and anti-smuggling operations",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 60.0 },
+    		{ "lat": 20.0, "lon": 65.0 },
+    		{ "lat": 24.0, "lon": 65.0 },
+    		{ "lat": 24.0, "lon": 60.0 }
+    	]
     }
     ```
 
 19. ```json
     {
-      "name": "Sundarbans Delta Maritime Surveillance Area",
-      "type": "Coastal Security Zone",
-      "significance": "Monitoring of sensitive ecosystem and prevention of illegal activities",
-      "coordinates": [
-        { "lat": 21.0, "lon": 88.0 },
-        { "lat": 21.0, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.0 }
-      ]
+    	"name": "Sundarbans Delta Maritime Surveillance Area",
+    	"type": "Coastal Security Zone",
+    	"significance": "Monitoring of sensitive ecosystem and prevention of illegal activities",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 88.0 },
+    		{ "lat": 21.0, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.0 }
+    	]
     }
     ```
 
 20. ```json
     {
-      "name": "Port Blair Naval Command Operational Area",
-      "type": "Naval Command Zone",
-      "significance": "Andaman and Nicobar Command's primary operational space",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 93.5 },
-        { "lat": 12.5, "lon": 93.5 },
-        { "lat": 12.5, "lon": 92.0 }
-      ]
+    	"name": "Port Blair Naval Command Operational Area",
+    	"type": "Naval Command Zone",
+    	"significance": "Andaman and Nicobar Command's primary operational space",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 93.5 },
+    		{ "lat": 12.5, "lon": 93.5 },
+    		{ "lat": 12.5, "lon": 92.0 }
+    	]
     }
     ```
 
 21. ```json
     {
-      "name": "Karwar Naval Base Exercise Zone",
-      "type": "Naval Training Area",
-      "significance": "Western Fleet training and readiness operations",
-      "coordinates": [
-        { "lat": 14.0, "lon": 73.5 },
-        { "lat": 14.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 73.5 }
-      ]
+    	"name": "Karwar Naval Base Exercise Zone",
+    	"type": "Naval Training Area",
+    	"significance": "Western Fleet training and readiness operations",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 73.5 },
+    		{ "lat": 14.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 73.5 }
+    	]
     }
     ```
 
 22. ```json
     {
-      "name": "Gulf of Kutch Maritime Patrol Sector",
-      "type": "Coastal Patrol Zone",
-      "significance": "Monitoring of oil tanker traffic and offshore installations",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 23.5, "lon": 70.0 },
-        { "lat": 23.5, "lon": 68.0 }
-      ]
+    	"name": "Gulf of Kutch Maritime Patrol Sector",
+    	"type": "Coastal Patrol Zone",
+    	"significance": "Monitoring of oil tanker traffic and offshore installations",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 70.0 },
+    		{ "lat": 23.5, "lon": 68.0 }
+    	]
     }
     ```
 
 23. ```json
     {
-      "name": "Cochin Shipyard Security Zone",
-      "type": "Critical Infrastructure Protection Area",
-      "significance": "Security of strategic shipbuilding facilities",
-      "coordinates": [
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.0, "lon": 76.5 },
-        { "lat": 10.0, "lon": 76.0 }
-      ]
+    	"name": "Cochin Shipyard Security Zone",
+    	"type": "Critical Infrastructure Protection Area",
+    	"significance": "Security of strategic shipbuilding facilities",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.0, "lon": 76.5 },
+    		{ "lat": 10.0, "lon": 76.0 }
+    	]
     }
     ```
 
 24. ```json
     {
-      "name": "Paradip Port Approach Surveillance Area",
-      "type": "Port Security Zone",
-      "significance": "Monitoring of merchant vessel traffic and port security",
-      "coordinates": [
-        { "lat": 19.5, "lon": 86.5 },
-        { "lat": 19.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 86.5 }
-      ]
+    	"name": "Paradip Port Approach Surveillance Area",
+    	"type": "Port Security Zone",
+    	"significance": "Monitoring of merchant vessel traffic and port security",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 86.5 },
+    		{ "lat": 19.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 86.5 }
+    	]
     }
     ```
 
 25. ```json
     {
-      "name": "Laccadive Sea Anti-Submarine Patrol Zone",
-      "type": "ASW Operations Area",
-      "significance": "Submarine detection and tracking exercises",
-      "coordinates": [
-        { "lat": 7.0, "lon": 74.0 },
-        { "lat": 7.0, "lon": 76.0 },
-        { "lat": 9.0, "lon": 76.0 },
-        { "lat": 9.0, "lon": 74.0 }
-      ]
+    	"name": "Laccadive Sea Anti-Submarine Patrol Zone",
+    	"type": "ASW Operations Area",
+    	"significance": "Submarine detection and tracking exercises",
+    	"coordinates": [
+    		{ "lat": 7.0, "lon": 74.0 },
+    		{ "lat": 7.0, "lon": 76.0 },
+    		{ "lat": 9.0, "lon": 76.0 },
+    		{ "lat": 9.0, "lon": 74.0 }
+    	]
     }
     ```
 
 26. ```json
     {
-      "name": "Gwadar Port Monitoring Zone",
-      "type": "Strategic Observation Area",
-      "significance": "Surveillance of Chinese naval activities in Pakistan",
-      "coordinates": [
-        { "lat": 24.5, "lon": 61.5 },
-        { "lat": 24.5, "lon": 62.5 },
-        { "lat": 25.5, "lon": 62.5 },
-        { "lat": 25.5, "lon": 61.5 }
-      ]
+    	"name": "Gwadar Port Monitoring Zone",
+    	"type": "Strategic Observation Area",
+    	"significance": "Surveillance of Chinese naval activities in Pakistan",
+    	"coordinates": [
+    		{ "lat": 24.5, "lon": 61.5 },
+    		{ "lat": 24.5, "lon": 62.5 },
+    		{ "lat": 25.5, "lon": 62.5 },
+    		{ "lat": 25.5, "lon": 61.5 }
+    	]
     }
     ```
 
 27. ```json
     {
-      "name": "Kavaratti Island Maritime Security Zone",
-      "type": "Island Territory Protection Area",
-      "significance": "Security of Lakshadweep administrative capital",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.0 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.5, "lon": 73.0 },
-        { "lat": 11.5, "lon": 72.0 }
-      ]
+    	"name": "Kavaratti Island Maritime Security Zone",
+    	"type": "Island Territory Protection Area",
+    	"significance": "Security of Lakshadweep administrative capital",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.0 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.5, "lon": 73.0 },
+    		{ "lat": 11.5, "lon": 72.0 }
+    	]
     }
     ```
 
 28. ```json
     {
-      "name": "Porbandar Coastal Surveillance Sector",
-      "type": "Coastal Monitoring Zone",
-      "significance": "Maritime border surveillance near Pakistan",
-      "coordinates": [
-        { "lat": 21.0, "lon": 69.0 },
-        { "lat": 21.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 70.0 },
-        { "lat": 22.0, "lon": 69.0 }
-      ]
+    	"name": "Porbandar Coastal Surveillance Sector",
+    	"type": "Coastal Monitoring Zone",
+    	"significance": "Maritime border surveillance near Pakistan",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 69.0 },
+    		{ "lat": 21.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 70.0 },
+    		{ "lat": 22.0, "lon": 69.0 }
+    	]
     }
     ```
 
 29. ```json
     {
-      "name": "Campbell Bay Forward Operating Base",
-      "type": "Naval Outpost Zone",
-      "significance": "Southernmost Indian military base for Strait of Malacca surveillance",
-      "coordinates": [
-        { "lat": 6.5, "lon": 93.5 },
-        { "lat": 6.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 94.5 },
-        { "lat": 7.5, "lon": 93.5 }
-      ]
+    	"name": "Campbell Bay Forward Operating Base",
+    	"type": "Naval Outpost Zone",
+    	"significance": "Southernmost Indian military base for Strait of Malacca surveillance",
+    	"coordinates": [
+    		{ "lat": 6.5, "lon": 93.5 },
+    		{ "lat": 6.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 94.5 },
+    		{ "lat": 7.5, "lon": 93.5 }
+    	]
     }
     ```
 
 30. ```json
     {
-      "name": "Kadmat Island Exclusive Economic Zone Patrol",
-      "type": "EEZ Protection Area",
-      "significance": "Monitoring of fishing activities and resource protection",
-      "coordinates": [
-        { "lat": 11.0, "lon": 72.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 12.0, "lon": 73.0 },
-        { "lat": 12.0, "lon": 72.0 }
-      ]
+    	"name": "Kadmat Island Exclusive Economic Zone Patrol",
+    	"type": "EEZ Protection Area",
+    	"significance": "Monitoring of fishing activities and resource protection",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 72.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 12.0, "lon": 73.0 },
+    		{ "lat": 12.0, "lon": 72.0 }
+    	]
     }
     ```
 
 31. ```json
     {
-      "name": "Kanyakumari Maritime Junction Observation Zone",
-      "type": "Strategic Waterway Monitoring Area",
-      "significance": "Surveillance of ships transitioning between Arabian Sea and Bay of Bengal",
-      "coordinates": [
-        { "lat": 7.0, "lon": 77.0 },
-        { "lat": 7.0, "lon": 78.5 },
-        { "lat": 8.5, "lon": 78.5 },
-        { "lat": 8.5, "lon": 77.0 }
-      ]
+    	"name": "Kanyakumari Maritime Junction Observation Zone",
+    	"type": "Strategic Waterway Monitoring Area",
+    	"significance": "Surveillance of ships transitioning between Arabian Sea and Bay of Bengal",
+    	"coordinates": [
+    		{ "lat": 7.0, "lon": 77.0 },
+    		{ "lat": 7.0, "lon": 78.5 },
+    		{ "lat": 8.5, "lon": 78.5 },
+    		{ "lat": 8.5, "lon": 77.0 }
+    	]
     }
     ```
 
 32. ```json
     {
-      "name": "Chilika Lake Naval Air Station Patrol Sector",
-      "type": "Naval Aviation Operations Area",
-      "significance": "Maritime patrol aircraft training and operations",
-      "coordinates": [
-        { "lat": 19.0, "lon": 85.0 },
-        { "lat": 19.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Naval Air Station Patrol Sector",
+    	"type": "Naval Aviation Operations Area",
+    	"significance": "Maritime patrol aircraft training and operations",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 85.0 },
+    		{ "lat": 19.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 33. ```json
     {
-      "name": "Bhavnagar Shipbreaking Monitoring Zone",
-      "type": "Environmental Security Area",
-      "significance": "Surveillance of ship dismantling activities and pollution prevention",
-      "coordinates": [
-        { "lat": 21.0, "lon": 72.0 },
-        { "lat": 21.0, "lon": 72.5 },
-        { "lat": 21.5, "lon": 72.5 },
-        { "lat": 21.5, "lon": 72.0 }
-      ]
+    	"name": "Bhavnagar Shipbreaking Monitoring Zone",
+    	"type": "Environmental Security Area",
+    	"significance": "Surveillance of ship dismantling activities and pollution prevention",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 72.0 },
+    		{ "lat": 21.0, "lon": 72.5 },
+    		{ "lat": 21.5, "lon": 72.5 },
+    		{ "lat": 21.5, "lon": 72.0 }
+    	]
     }
     ```
 
 34. ```json
     {
-      "name": "Andaman Sea Humanitarian Assistance and Disaster Relief Zone",
-      "type": "HADR Preparedness Area",
-      "significance": "Staging area for rapid response to natural disasters in the region",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.0 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 12.0, "lon": 93.0 },
-        { "lat": 12.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Humanitarian Assistance and Disaster Relief Zone",
+    	"type": "HADR Preparedness Area",
+    	"significance": "Staging area for rapid response to natural disasters in the region",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.0 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 93.0 },
+    		{ "lat": 12.0, "lon": 91.0 }
+    	]
     }
     ```
 
 35. ```json
     {
-      "name": "Lakshadweep Anti-Poaching Patrol Sector",
-      "type": "Fisheries Protection Zone",
-      "significance": "Prevention of illegal fishing and protection of marine resources",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 73.5 },
-        { "lat": 12.0, "lon": 73.5 },
-        { "lat": 12.0, "lon": 71.5 }
-      ]
+    	"name": "Lakshadweep Anti-Poaching Patrol Sector",
+    	"type": "Fisheries Protection Zone",
+    	"significance": "Prevention of illegal fishing and protection of marine resources",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 73.5 },
+    		{ "lat": 12.0, "lon": 73.5 },
+    		{ "lat": 12.0, "lon": 71.5 }
+    	]
     }
     ```
 
 36. ```json
     {
-      "name": "Sunda Strait Approach Monitoring Zone",
-      "type": "Strategic Chokepoint Surveillance Area",
-      "significance": "Monitoring maritime traffic between Indian and Pacific Oceans",
-      "coordinates": [
-        { "lat": -7.0, "lon": 104.0 },
-        { "lat": -7.0, "lon": 106.0 },
-        { "lat": -5.0, "lon": 106.0 },
-        { "lat": -5.0, "lon": 104.0 }
-      ]
+    	"name": "Sunda Strait Approach Monitoring Zone",
+    	"type": "Strategic Chokepoint Surveillance Area",
+    	"significance": "Monitoring maritime traffic between Indian and Pacific Oceans",
+    	"coordinates": [
+    		{ "lat": -7.0, "lon": 104.0 },
+    		{ "lat": -7.0, "lon": 106.0 },
+    		{ "lat": -5.0, "lon": 106.0 },
+    		{ "lat": -5.0, "lon": 104.0 }
+    	]
     }
     ```
 
 37. ```json
     {
-      "name": "Minicoy Island Forward Operating Base",
-      "type": "Naval Outpost Zone",
-      "significance": "Southernmost base in Lakshadweep for extended maritime patrols",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.5 },
-        { "lat": 8.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 73.5 },
-        { "lat": 9.0, "lon": 72.5 }
-      ]
+    	"name": "Minicoy Island Forward Operating Base",
+    	"type": "Naval Outpost Zone",
+    	"significance": "Southernmost base in Lakshadweep for extended maritime patrols",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.5 },
+    		{ "lat": 8.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 73.5 },
+    		{ "lat": 9.0, "lon": 72.5 }
+    	]
     }
     ```
 
 38. ```json
     {
-      "name": "Kochi Underwater Acoustic Range",
-      "type": "Submarine Testing Area",
-      "significance": "Calibration and testing of submarine sonar systems",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.5 },
-        { "lat": 9.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 76.5 },
-        { "lat": 10.5, "lon": 75.5 }
-      ]
+    	"name": "Kochi Underwater Acoustic Range",
+    	"type": "Submarine Testing Area",
+    	"significance": "Calibration and testing of submarine sonar systems",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.5 },
+    		{ "lat": 9.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 76.5 },
+    		{ "lat": 10.5, "lon": 75.5 }
+    	]
     }
     ```
 
 39. ```json
     {
-      "name": "Car Nicobar Air Base Patrol Sector",
-      "type": "Air Defense Identification Zone",
-      "significance": "Aerial surveillance and interception operations",
-      "coordinates": [
-        { "lat": 8.0, "lon": 92.0 },
-        { "lat": 8.0, "lon": 94.0 },
-        { "lat": 10.0, "lon": 94.0 },
-        { "lat": 10.0, "lon": 92.0 }
-      ]
+    	"name": "Car Nicobar Air Base Patrol Sector",
+    	"type": "Air Defense Identification Zone",
+    	"significance": "Aerial surveillance and interception operations",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 92.0 },
+    		{ "lat": 8.0, "lon": 94.0 },
+    		{ "lat": 10.0, "lon": 94.0 },
+    		{ "lat": 10.0, "lon": 92.0 }
+    	]
     }
     ```
 
 40. ```json
     {
-      "name": "Preparis Channel Monitoring Area",
-      "type": "Maritime Border Surveillance Zone",
-      "significance": "Monitoring of India-Myanmar maritime border",
-      "coordinates": [
-        { "lat": 14.0, "lon": 93.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 15.5, "lon": 95.0 },
-        { "lat": 15.5, "lon": 93.0 }
-      ]
+    	"name": "Preparis Channel Monitoring Area",
+    	"type": "Maritime Border Surveillance Zone",
+    	"significance": "Monitoring of India-Myanmar maritime border",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 93.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 15.5, "lon": 95.0 },
+    		{ "lat": 15.5, "lon": 93.0 }
+    	]
     }
     ```
 
 41. ```json
     {
-      "name": "Gulf of Mannar Biosphere Reserve Patrol Zone",
-      "type": "Marine Protected Area",
-      "significance": "Conservation enforcement and anti-poaching operations",
-      "coordinates": [
-        { "lat": 8.5, "lon": 78.0 },
-        { "lat": 8.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 78.0 }
-      ]
+    	"name": "Gulf of Mannar Biosphere Reserve Patrol Zone",
+    	"type": "Marine Protected Area",
+    	"significance": "Conservation enforcement and anti-poaching operations",
+    	"coordinates": [
+    		{ "lat": 8.5, "lon": 78.0 },
+    		{ "lat": 8.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 78.0 }
+    	]
     }
     ```
 
 42. ```json
     {
-      "name": "Visakhapatnam Submarine Base Security Zone",
-      "type": "Critical Naval Infrastructure Protection Area",
-      "significance": "Security of submarine pens and support facilities",
-      "coordinates": [
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.5 },
-        { "lat": 18.0, "lon": 83.5 },
-        { "lat": 18.0, "lon": 83.0 }
-      ]
+    	"name": "Visakhapatnam Submarine Base Security Zone",
+    	"type": "Critical Naval Infrastructure Protection Area",
+    	"significance": "Security of submarine pens and support facilities",
+    	"coordinates": [
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 83.0 }
+    	]
     }
     ```
 
 43. ```json
     {
-      "name": "Dwarka Offshore Wind Farm Security Zone",
-      "type": "Renewable Energy Infrastructure Protection Area",
-      "significance": "Security of offshore wind installations",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.5 },
-        { "lat": 22.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 68.5 }
-      ]
+    	"name": "Dwarka Offshore Wind Farm Security Zone",
+    	"type": "Renewable Energy Infrastructure Protection Area",
+    	"significance": "Security of offshore wind installations",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.5 },
+    		{ "lat": 22.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 68.5 }
+    	]
     }
     ```
 
 44. ```json
     {
-      "name": "Kakinada Deep Water Port Approach Zone",
-      "type": "Port Security Area",
-      "significance": "Monitoring of large vessel traffic and anti-smuggling operations",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 82.5 },
-        { "lat": 17.0, "lon": 82.5 },
-        { "lat": 17.0, "lon": 82.0 }
-      ]
+    	"name": "Kakinada Deep Water Port Approach Zone",
+    	"type": "Port Security Area",
+    	"significance": "Monitoring of large vessel traffic and anti-smuggling operations",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 82.5 },
+    		{ "lat": 17.0, "lon": 82.5 },
+    		{ "lat": 17.0, "lon": 82.0 }
+    	]
     }
     ```
 
 45. ```json
     {
-      "name": "Little Andaman Island Radar Station Coverage",
-      "type": "Long-Range Radar Surveillance Zone",
-      "significance": "Early warning and maritime domain awareness",
-      "coordinates": [
-        { "lat": 10.0, "lon": 91.5 },
-        { "lat": 10.0, "lon": 93.5 },
-        { "lat": 11.5, "lon": 93.5 },
-        { "lat": 11.5, "lon": 91.5 }
-      ]
+    	"name": "Little Andaman Island Radar Station Coverage",
+    	"type": "Long-Range Radar Surveillance Zone",
+    	"significance": "Early warning and maritime domain awareness",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 91.5 },
+    		{ "lat": 10.0, "lon": 93.5 },
+    		{ "lat": 11.5, "lon": 93.5 },
+    		{ "lat": 11.5, "lon": 91.5 }
+    	]
     }
     ```
 
 46. ```json
     {
-      "name": "Karwar Advanced Technology Vessel (ATV) Testing Range",
-      "type": "Nuclear Submarine Trial Area",
-      "significance": "Sea trials and testing of indigenous nuclear submarines",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "Karwar Advanced Technology Vessel (ATV) Testing Range",
+    	"type": "Nuclear Submarine Trial Area",
+    	"significance": "Sea trials and testing of indigenous nuclear submarines",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 47. ```json
     {
-      "name": "Rameswaram Coastal Security Network",
-      "type": "Integrated Coastal Surveillance System",
-      "significance": "Monitoring of Palk Strait and prevention of illegal activities",
-      "coordinates": [
-        { "lat": 9.0, "lon": 79.0 },
-        { "lat": 9.0, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.5 },
-        { "lat": 9.5, "lon": 79.0 }
-      ]
+    	"name": "Rameswaram Coastal Security Network",
+    	"type": "Integrated Coastal Surveillance System",
+    	"significance": "Monitoring of Palk Strait and prevention of illegal activities",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 79.0 },
+    		{ "lat": 9.0, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.5 },
+    		{ "lat": 9.5, "lon": 79.0 }
+    	]
     }
     ```
 
 48. ```json
     {
-      "name": "Andaman Sea Exclusive Economic Zone Enforcement Area",
-      "type": "EEZ Protection Zone",
-      "significance": "Resource protection and law enforcement in distant EEZ",
-      "coordinates": [
-        { "lat": 6.0, "lon": 91.0 },
-        { "lat": 6.0, "lon": 95.0 },
-        { "lat": 10.0, "lon": 95.0 },
-        { "lat": 10.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Exclusive Economic Zone Enforcement Area",
+    	"type": "EEZ Protection Zone",
+    	"significance": "Resource protection and law enforcement in distant EEZ",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 91.0 },
+    		{ "lat": 6.0, "lon": 95.0 },
+    		{ "lat": 10.0, "lon": 95.0 },
+    		{ "lat": 10.0, "lon": 91.0 }
+    	]
     }
     ```
 
 49. ```json
     {
-      "name": "Goa Shipyard Limited Security Perimeter",
-      "type": "Naval Shipbuilding Facility Protection Zone",
-      "significance": "Security of warship construction and repair facilities",
-      "coordinates": [
-        { "lat": 15.3, "lon": 73.7 },
-        { "lat": 15.3, "lon": 74.0 },
-        { "lat": 15.5, "lon": 74.0 },
-        { "lat": 15.5, "lon": 73.7 }
-      ]
+    	"name": "Goa Shipyard Limited Security Perimeter",
+    	"type": "Naval Shipbuilding Facility Protection Zone",
+    	"significance": "Security of warship construction and repair facilities",
+    	"coordinates": [
+    		{ "lat": 15.3, "lon": 73.7 },
+    		{ "lat": 15.3, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 74.0 },
+    		{ "lat": 15.5, "lon": 73.7 }
+    	]
     }
     ```
 
 50. ```json
     {
-      "name": "Konkan Coast Mine Countermeasures Exercise Area",
-      "type": "Naval Mine Warfare Training Zone",
-      "significance": "Training in detection and neutralization of naval mines",
-      "coordinates": [
-        { "lat": 15.0, "lon": 72.5 },
-        { "lat": 15.0, "lon": 73.5 },
-        { "lat": 16.0, "lon": 73.5 },
-        { "lat": 16.0, "lon": 72.5 }
-      ]
+    	"name": "Konkan Coast Mine Countermeasures Exercise Area",
+    	"type": "Naval Mine Warfare Training Zone",
+    	"significance": "Training in detection and neutralization of naval mines",
+    	"coordinates": [
+    		{ "lat": 15.0, "lon": 72.5 },
+    		{ "lat": 15.0, "lon": 73.5 },
+    		{ "lat": 16.0, "lon": 73.5 },
+    		{ "lat": 16.0, "lon": 72.5 }
+    	]
     }
     ```
 
 51. ```json
     {
-      "name": "Kalpakkam Nuclear Power Plant Maritime Security Zone",
-      "type": "Critical Infrastructure Protection Area",
-      "significance": "Security of coastal nuclear installations",
-      "coordinates": [
-        { "lat": 12.3, "lon": 80.0 },
-        { "lat": 12.3, "lon": 80.3 },
-        { "lat": 12.6, "lon": 80.3 },
-        { "lat": 12.6, "lon": 80.0 }
-      ]
+    	"name": "Kalpakkam Nuclear Power Plant Maritime Security Zone",
+    	"type": "Critical Infrastructure Protection Area",
+    	"significance": "Security of coastal nuclear installations",
+    	"coordinates": [
+    		{ "lat": 12.3, "lon": 80.0 },
+    		{ "lat": 12.3, "lon": 80.3 },
+    		{ "lat": 12.6, "lon": 80.3 },
+    		{ "lat": 12.6, "lon": 80.0 }
+    	]
     }
     ```
 
 52. ```json
     {
-      "name": "Katchal Island Forward Operating Base",
-      "type": "Remote Island Naval Outpost",
-      "significance": "Extended range patrols and surveillance in Andaman Sea",
-      "coordinates": [
-        { "lat": 7.5, "lon": 93.0 },
-        { "lat": 7.5, "lon": 94.0 },
-        { "lat": 8.5, "lon": 94.0 },
-        { "lat": 8.5, "lon": 93.0 }
-      ]
+    	"name": "Katchal Island Forward Operating Base",
+    	"type": "Remote Island Naval Outpost",
+    	"significance": "Extended range patrols and surveillance in Andaman Sea",
+    	"coordinates": [
+    		{ "lat": 7.5, "lon": 93.0 },
+    		{ "lat": 7.5, "lon": 94.0 },
+    		{ "lat": 8.5, "lon": 94.0 },
+    		{ "lat": 8.5, "lon": 93.0 }
+    	]
     }
     ```
 
 53. ```json
     {
-      "name": "Hooghly River Estuary Patrol Zone",
-      "type": "Riverine and Coastal Patrol Area",
-      "significance": "Security of approach to Kolkata Port and prevention of smuggling",
-      "coordinates": [
-        { "lat": 21.5, "lon": 87.5 },
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 22.5, "lon": 88.5 },
-        { "lat": 22.5, "lon": 87.5 }
-      ]
+    	"name": "Hooghly River Estuary Patrol Zone",
+    	"type": "Riverine and Coastal Patrol Area",
+    	"significance": "Security of approach to Kolkata Port and prevention of smuggling",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 87.5 },
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 22.5, "lon": 88.5 },
+    		{ "lat": 22.5, "lon": 87.5 }
+    	]
     }
     ```
 
 54. ```json
     {
-      "name": "Lakshadweep Sea Underwater Acoustic Surveillance System",
-      "type": "Submarine Detection Network",
-      "significance": "Long-range detection of submarine movements",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.0 },
-        { "lat": 8.0, "lon": 74.0 },
-        { "lat": 12.0, "lon": 74.0 },
-        { "lat": 12.0, "lon": 72.0 }
-      ]
+    	"name": "Lakshadweep Sea Underwater Acoustic Surveillance System",
+    	"type": "Submarine Detection Network",
+    	"significance": "Long-range detection of submarine movements",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.0 },
+    		{ "lat": 8.0, "lon": 74.0 },
+    		{ "lat": 12.0, "lon": 74.0 },
+    		{ "lat": 12.0, "lon": 72.0 }
+    	]
     }
     ```
 
 55. ```json
     {
-      "name": "Netrani Island Naval Gunnery Range",
-      "type": "Naval Weapons Testing Area",
-      "significance": "Live-fire exercises and weapons calibration",
-      "coordinates": [
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.0 }
-      ]
+    	"name": "Netrani Island Naval Gunnery Range",
+    	"type": "Naval Weapons Testing Area",
+    	"significance": "Live-fire exercises and weapons calibration",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.0 }
+    	]
     }
     ```
 
 56. ```json
     {
-      "name": "Kutch Creek Amphibious Training Zone",
-      "type": "Amphibious Warfare Exercise Area",
-      "significance": "Training for amphibious landing operations",
-      "coordinates": [
-        { "lat": 23.0, "lon": 68.5 },
-        { "lat": 23.0, "lon": 69.5 },
-        { "lat": 23.5, "lon": 69.5 },
-        { "lat": 23.5, "lon": 68.5 }
-      ]
+    	"name": "Kutch Creek Amphibious Training Zone",
+    	"type": "Amphibious Warfare Exercise Area",
+    	"significance": "Training for amphibious landing operations",
+    	"coordinates": [
+    		{ "lat": 23.0, "lon": 68.5 },
+    		{ "lat": 23.0, "lon": 69.5 },
+    		{ "lat": 23.5, "lon": 69.5 },
+    		{ "lat": 23.5, "lon": 68.5 }
+    	]
     }
     ```
 
 57. ```json
     {
-      "name": "Mahanadi Delta Coastal Surveillance Network",
-      "type": "Integrated Coastal Defense System",
-      "significance": "Monitoring of coastal waters and prevention of infiltration",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 19.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 85.5 }
-      ]
+    	"name": "Mahanadi Delta Coastal Surveillance Network",
+    	"type": "Integrated Coastal Defense System",
+    	"significance": "Monitoring of coastal waters and prevention of infiltration",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 19.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 85.5 }
+    	]
     }
     ```
 
 58. ```json
     {
-      "name": "Sagar Island Maritime Security Zone",
-      "type": "Estuarine Patrol Area",
-      "significance": "Security of Hooghly River mouth and coastal surveillance",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.0 },
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.0 }
-      ]
+    	"name": "Sagar Island Maritime Security Zone",
+    	"type": "Estuarine Patrol Area",
+    	"significance": "Security of Hooghly River mouth and coastal surveillance",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.0 },
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.0 }
+    	]
     }
     ```
 
 59. ```json
     {
-      "name": "Kavaratti Underwater Acoustic Range",
-      "type": "Sonar Testing Facility",
-      "significance": "Calibration and testing of naval sonar systems",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 72.5 },
-        { "lat": 11.0, "lon": 72.5 },
-        { "lat": 11.0, "lon": 71.5 }
-      ]
+    	"name": "Kavaratti Underwater Acoustic Range",
+    	"type": "Sonar Testing Facility",
+    	"significance": "Calibration and testing of naval sonar systems",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 72.5 },
+    		{ "lat": 11.0, "lon": 72.5 },
+    		{ "lat": 11.0, "lon": 71.5 }
+    	]
     }
     ```
 
 60. ```json
     {
-      "name": "Karwar Nuclear Submarine Base Security Zone",
-      "type": "Strategic Asset Protection Area",
-      "significance": "Security of nuclear submarine pens and support facilities",
-      "coordinates": [
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.5 },
-        { "lat": 15.0, "lon": 74.0 }
-      ]
+    	"name": "Karwar Nuclear Submarine Base Security Zone",
+    	"type": "Strategic Asset Protection Area",
+    	"significance": "Security of nuclear submarine pens and support facilities",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.5 },
+    		{ "lat": 15.0, "lon": 74.0 }
+    	]
     }
     ```
 
 61. ```json
     {
-      "name": "Sundarbans Anti-Smuggling Patrol Zone",
-      "type": "Riverine Border Security Area",
-      "significance": "Prevention of cross-border smuggling and illegal activities",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Anti-Smuggling Patrol Zone",
+    	"type": "Riverine Border Security Area",
+    	"significance": "Prevention of cross-border smuggling and illegal activities",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 62. ```json
     {
-      "name": "Vizhinjam Deep Sea Port Security Perimeter",
-      "type": "Port Infrastructure Protection Zone",
-      "significance": "Security of upcoming strategic deep-water port",
-      "coordinates": [
-        { "lat": 8.0, "lon": 76.5 },
-        { "lat": 8.0, "lon": 77.0 },
-        { "lat": 8.5, "lon": 77.0 },
-        { "lat": 8.5, "lon": 76.5 }
-      ]
+    	"name": "Vizhinjam Deep Sea Port Security Perimeter",
+    	"type": "Port Infrastructure Protection Zone",
+    	"significance": "Security of upcoming strategic deep-water port",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 76.5 },
+    		{ "lat": 8.0, "lon": 77.0 },
+    		{ "lat": 8.5, "lon": 77.0 },
+    		{ "lat": 8.5, "lon": 76.5 }
+    	]
     }
     ```
 
 63. ```json
     {
-      "name": "Andaman Sea Underwater Volcano Monitoring Area",
-      "type": "Geological Hazard Observation Zone",
-      "significance": "Monitoring of Barren Island volcano and seismic activities",
-      "coordinates": [
-        { "lat": 12.0, "lon": 93.5 },
-        { "lat": 12.0, "lon": 94.5 },
-        { "lat": 13.0, "lon": 94.5 },
-        { "lat": 13.0, "lon": 93.5 }
-      ]
+    	"name": "Andaman Sea Underwater Volcano Monitoring Area",
+    	"type": "Geological Hazard Observation Zone",
+    	"significance": "Monitoring of Barren Island volcano and seismic activities",
+    	"coordinates": [
+    		{ "lat": 12.0, "lon": 93.5 },
+    		{ "lat": 12.0, "lon": 94.5 },
+    		{ "lat": 13.0, "lon": 94.5 },
+    		{ "lat": 13.0, "lon": 93.5 }
+    	]
     }
     ```
 
 64. ```json
     {
-      "name": "Lakshadweep Uninhabited Island Surveillance Network",
-      "type": "Remote Sensor Array",
-      "significance": "Early warning system for unauthorized activities",
-      "coordinates": [
-        { "lat": 10.0, "lon": 71.5 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 12.5, "lon": 74.0 },
-        { "lat": 12.5, "lon": 71.5 }
-      ]
+    	"name": "Lakshadweep Uninhabited Island Surveillance Network",
+    	"type": "Remote Sensor Array",
+    	"significance": "Early warning system for unauthorized activities",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 71.5 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 74.0 },
+    		{ "lat": 12.5, "lon": 71.5 }
+    	]
     }
     ```
 
 65. ```json
     {
-      "name": "Bhavnagar-Pipavav Coastal Security Corridor",
-      "type": "Multi-Port Security Zone",
-      "significance": "Coordinated security for multiple ports in Gujarat",
-      "coordinates": [
-        { "lat": 20.5, "lon": 71.0 },
-        { "lat": 20.5, "lon": 72.5 },
-        { "lat": 22.0, "lon": 72.5 },
-        { "lat": 22.0, "lon": 71.0 }
-      ]
+    	"name": "Bhavnagar-Pipavav Coastal Security Corridor",
+    	"type": "Multi-Port Security Zone",
+    	"significance": "Coordinated security for multiple ports in Gujarat",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 71.0 },
+    		{ "lat": 20.5, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 72.5 },
+    		{ "lat": 22.0, "lon": 71.0 }
+    	]
     }
     ```
 
 66. ```json
     {
-      "name": "Paradip-Dhamra Integrated Maritime Surveillance Area",
-      "type": "Multi-Sensor Coastal Monitoring Zone",
-      "significance": "Comprehensive maritime domain awareness for Odisha coast",
-      "coordinates": [
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 86.0 }
-      ]
+    	"name": "Paradip-Dhamra Integrated Maritime Surveillance Area",
+    	"type": "Multi-Sensor Coastal Monitoring Zone",
+    	"significance": "Comprehensive maritime domain awareness for Odisha coast",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 86.0 }
+    	]
     }
     ```
 
 67. ```json
     {
-      "name": "Gahirmatha Marine Sanctuary Patrol Zone",
-      "type": "Marine Wildlife Protection Area",
-      "significance": "Protection of Olive Ridley turtle nesting sites and anti-poaching operations",
-      "coordinates": [
-        { "lat": 20.5, "lon": 86.5 },
-        { "lat": 20.5, "lon": 87.5 },
-        { "lat": 21.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 86.5 }
-      ]
+    	"name": "Gahirmatha Marine Sanctuary Patrol Zone",
+    	"type": "Marine Wildlife Protection Area",
+    	"significance": "Protection of Olive Ridley turtle nesting sites and anti-poaching operations",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 86.5 },
+    		{ "lat": 20.5, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 86.5 }
+    	]
     }
     ```
 
 68. ```json
     {
-      "name": "INS Kadamba Extended Maritime Security Zone",
-      "type": "Naval Base Operational Area",
-      "significance": "Expanded security perimeter for Karwar naval base",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 74.5 },
-        { "lat": 15.5, "lon": 73.5 }
-      ]
+    	"name": "INS Kadamba Extended Maritime Security Zone",
+    	"type": "Naval Base Operational Area",
+    	"significance": "Expanded security perimeter for Karwar naval base",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 74.5 },
+    		{ "lat": 15.5, "lon": 73.5 }
+    	]
     }
     ```
 
 69. ```json
     {
-      "name": "Kori Creek Border Patrol Sector",
-      "type": "Maritime Border Surveillance Area",
-      "significance": "Monitoring of India-Pakistan maritime border in Gujarat",
-      "coordinates": [
-        { "lat": 23.0, "lon": 68.0 },
-        { "lat": 23.0, "lon": 69.0 },
-        { "lat": 24.0, "lon": 69.0 },
-        { "lat": 24.0, "lon": 68.0 }
-      ]
+    	"name": "Kori Creek Border Patrol Sector",
+    	"type": "Maritime Border Surveillance Area",
+    	"significance": "Monitoring of India-Pakistan maritime border in Gujarat",
+    	"coordinates": [
+    		{ "lat": 23.0, "lon": 68.0 },
+    		{ "lat": 23.0, "lon": 69.0 },
+    		{ "lat": 24.0, "lon": 69.0 },
+    		{ "lat": 24.0, "lon": 68.0 }
+    	]
     }
     ```
 
 70. ```json
     {
-      "name": "Kakinada-Pudimadaka Offshore Development Security Zone",
-      "type": "Oil and Gas Infrastructure Protection Area",
-      "significance": "Security of offshore drilling platforms and subsea pipelines",
-      "coordinates": [
-        { "lat": 16.5, "lon": 82.0 },
-        { "lat": 16.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 82.0 }
-      ]
+    	"name": "Kakinada-Pudimadaka Offshore Development Security Zone",
+    	"type": "Oil and Gas Infrastructure Protection Area",
+    	"significance": "Security of offshore drilling platforms and subsea pipelines",
+    	"coordinates": [
+    		{ "lat": 16.5, "lon": 82.0 },
+    		{ "lat": 16.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 82.0 }
+    	]
     }
     ```
 
 71. ```json
     {
-      "name": "Andaman Trunk Route Patrol Sector",
-      "type": "Inter-Island Communication Security Zone",
-      "significance": "Protection of submarine communication cables between islands",
-      "coordinates": [
-        { "lat": 10.0, "lon": 92.0 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 13.0, "lon": 93.0 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Trunk Route Patrol Sector",
+    	"type": "Inter-Island Communication Security Zone",
+    	"significance": "Protection of submarine communication cables between islands",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 92.0 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 13.0, "lon": 93.0 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 72. ```json
     {
-      "name": "Katchatheevu Island Monitoring Zone",
-      "type": "Disputed Territory Surveillance Area",
-      "significance": "Monitoring of fishing activities and territorial waters near Sri Lanka",
-      "coordinates": [
-        { "lat": 9.0, "lon": 79.5 },
-        { "lat": 9.0, "lon": 80.0 },
-        { "lat": 9.5, "lon": 80.0 },
-        { "lat": 9.5, "lon": 79.5 }
-      ]
+    	"name": "Katchatheevu Island Monitoring Zone",
+    	"type": "Disputed Territory Surveillance Area",
+    	"significance": "Monitoring of fishing activities and territorial waters near Sri Lanka",
+    	"coordinates": [
+    		{ "lat": 9.0, "lon": 79.5 },
+    		{ "lat": 9.0, "lon": 80.0 },
+    		{ "lat": 9.5, "lon": 80.0 },
+    		{ "lat": 9.5, "lon": 79.5 }
+    	]
     }
     ```
 
 73. ```json
     {
-      "name": "Kollam-Kanyakumari Coastal Radar Network",
-      "type": "Integrated Coastal Surveillance System",
-      "significance": "Continuous monitoring of southwestern coastal waters",
-      "coordinates": [
-        { "lat": 8.0, "lon": 76.5 },
-        { "lat": 8.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 77.5 },
-        { "lat": 9.0, "lon": 76.5 }
-      ]
+    	"name": "Kollam-Kanyakumari Coastal Radar Network",
+    	"type": "Integrated Coastal Surveillance System",
+    	"significance": "Continuous monitoring of southwestern coastal waters",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 76.5 },
+    		{ "lat": 8.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 77.5 },
+    		{ "lat": 9.0, "lon": 76.5 }
+    	]
     }
     ```
 
 74. ```json
     {
-      "name": "Chilika Lake Naval Air Station Operational Zone",
-      "type": "Naval Aviation Exercise Area",
-      "significance": "Training and operations for maritime patrol aircraft",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 86.0 },
-        { "lat": 20.0, "lon": 86.0 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Naval Air Station Operational Zone",
+    	"type": "Naval Aviation Exercise Area",
+    	"significance": "Training and operations for maritime patrol aircraft",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 86.0 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 75. ```json
     {
-      "name": "Dwarka-Okha Coastal Defense Battery Range",
-      "type": "Coastal Artillery Training Area",
-      "significance": "Live-fire exercises for shore-based anti-ship missiles",
-      "coordinates": [
-        { "lat": 22.0, "lon": 68.5 },
-        { "lat": 22.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 69.5 },
-        { "lat": 23.0, "lon": 68.5 }
-      ]
+    	"name": "Dwarka-Okha Coastal Defense Battery Range",
+    	"type": "Coastal Artillery Training Area",
+    	"significance": "Live-fire exercises for shore-based anti-ship missiles",
+    	"coordinates": [
+    		{ "lat": 22.0, "lon": 68.5 },
+    		{ "lat": 22.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 69.5 },
+    		{ "lat": 23.0, "lon": 68.5 }
+    	]
     }
     ```
 
 76. ```json
     {
-      "name": "Lakshadweep Islands Maritime Surveillance Triangle",
-      "type": "Remote Island Chain Monitoring Area",
-      "significance": "Comprehensive surveillance of Lakshadweep archipelago",
-      "coordinates": [
-        { "lat": 8.0, "lon": 71.0 },
-        { "lat": 8.0, "lon": 74.0 },
-        { "lat": 12.0, "lon": 74.0 },
-        { "lat": 12.0, "lon": 71.0 }
-      ]
+    	"name": "Lakshadweep Islands Maritime Surveillance Triangle",
+    	"type": "Remote Island Chain Monitoring Area",
+    	"significance": "Comprehensive surveillance of Lakshadweep archipelago",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 71.0 },
+    		{ "lat": 8.0, "lon": 74.0 },
+    		{ "lat": 12.0, "lon": 74.0 },
+    		{ "lat": 12.0, "lon": 71.0 }
+    	]
     }
     ```
 
 77. ```json
     {
-      "name": "Gulf of Khambhat Tidal Energy Security Zone",
-      "type": "Renewable Energy Infrastructure Protection Area",
-      "significance": "Security for tidal power projects and related installations",
-      "coordinates": [
-        { "lat": 21.0, "lon": 72.0 },
-        { "lat": 21.0, "lon": 73.0 },
-        { "lat": 22.0, "lon": 73.0 },
-        { "lat": 22.0, "lon": 72.0 }
-      ]
+    	"name": "Gulf of Khambhat Tidal Energy Security Zone",
+    	"type": "Renewable Energy Infrastructure Protection Area",
+    	"significance": "Security for tidal power projects and related installations",
+    	"coordinates": [
+    		{ "lat": 21.0, "lon": 72.0 },
+    		{ "lat": 21.0, "lon": 73.0 },
+    		{ "lat": 22.0, "lon": 73.0 },
+    		{ "lat": 22.0, "lon": 72.0 }
+    	]
     }
     ```
 
 78. ```json
     {
-      "name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
-      "type": "Extended Maritime Jurisdiction Area",
-      "significance": "Enforcement of EEZ rights and resource protection",
-      "coordinates": [
-        { "lat": 6.0, "lon": 91.0 },
-        { "lat": 6.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 95.0 },
-        { "lat": 14.0, "lon": 91.0 }
-      ]
+    	"name": "Andaman Sea Exclusive Economic Zone Patrol Sector",
+    	"type": "Extended Maritime Jurisdiction Area",
+    	"significance": "Enforcement of EEZ rights and resource protection",
+    	"coordinates": [
+    		{ "lat": 6.0, "lon": 91.0 },
+    		{ "lat": 6.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 95.0 },
+    		{ "lat": 14.0, "lon": 91.0 }
+    	]
     }
     ```
 
 79. ```json
     {
-      "name": "Kochi-Mangalore Offshore Wind Farm Security Corridor",
-      "type": "Renewable Energy Asset Protection Zone",
-      "significance": "Security for offshore wind installations along southwest coast",
-      "coordinates": [
-        { "lat": 9.5, "lon": 75.0 },
-        { "lat": 9.5, "lon": 76.0 },
-        { "lat": 13.0, "lon": 76.0 },
-        { "lat": 13.0, "lon": 75.0 }
-      ]
+    	"name": "Kochi-Mangalore Offshore Wind Farm Security Corridor",
+    	"type": "Renewable Energy Asset Protection Zone",
+    	"significance": "Security for offshore wind installations along southwest coast",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 75.0 },
+    		{ "lat": 9.5, "lon": 76.0 },
+    		{ "lat": 13.0, "lon": 76.0 },
+    		{ "lat": 13.0, "lon": 75.0 }
+    	]
     }
     ```
 
 80. ```json
     {
-      "name": "Gopalpur-Puri Integrated Coastal Defense Network",
-      "type": "Multi-Layer Coastal Security Zone",
-      "significance": "Coordinated coastal surveillance and defense operations",
-      "coordinates": [
-        { "lat": 19.0, "lon": 84.5 },
-        { "lat": 19.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 86.5 },
-        { "lat": 20.0, "lon": 84.5 }
-      ]
+    	"name": "Gopalpur-Puri Integrated Coastal Defense Network",
+    	"type": "Multi-Layer Coastal Security Zone",
+    	"significance": "Coordinated coastal surveillance and defense operations",
+    	"coordinates": [
+    		{ "lat": 19.0, "lon": 84.5 },
+    		{ "lat": 19.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 86.5 },
+    		{ "lat": 20.0, "lon": 84.5 }
+    	]
     }
     ```
 
 81. ```json
     {
-      "name": "Saurashtra Peninsula Anti-Trafficking Patrol Zone",
-      "type": "Counter-Smuggling Operations Area",
-      "significance": "Prevention of drug trafficking and contraband smuggling",
-      "coordinates": [
-        { "lat": 20.5, "lon": 69.0 },
-        { "lat": 20.5, "lon": 72.0 },
-        { "lat": 23.0, "lon": 72.0 },
-        { "lat": 23.0, "lon": 69.0 }
-      ]
+    	"name": "Saurashtra Peninsula Anti-Trafficking Patrol Zone",
+    	"type": "Counter-Smuggling Operations Area",
+    	"significance": "Prevention of drug trafficking and contraband smuggling",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 69.0 },
+    		{ "lat": 20.5, "lon": 72.0 },
+    		{ "lat": 23.0, "lon": 72.0 },
+    		{ "lat": 23.0, "lon": 69.0 }
+    	]
     }
     ```
 
 82. ```json
     {
-      "name": "Kavatti Island Forward Operating Base",
-      "type": "Remote Naval Outpost",
-      "significance": "Extended range patrols and surveillance in southern Lakshadweep",
-      "coordinates": [
-        { "lat": 10.5, "lon": 72.5 },
-        { "lat": 10.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 72.5 }
-      ]
+    	"name": "Kavatti Island Forward Operating Base",
+    	"type": "Remote Naval Outpost",
+    	"significance": "Extended range patrols and surveillance in southern Lakshadweep",
+    	"coordinates": [
+    		{ "lat": 10.5, "lon": 72.5 },
+    		{ "lat": 10.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 72.5 }
+    	]
     }
     ```
 
 83. ```json
     {
-      "name": "Vizag-Gangavaram Port Complex Security Zone",
-      "type": "Multi-Port Maritime Security Area",
-      "significance": "Integrated security for adjacent major ports",
-      "coordinates": [
-        { "lat": 17.5, "lon": 83.0 },
-        { "lat": 17.5, "lon": 83.5 },
-        { "lat": 18.0, "lon": 83.5 },
-        { "lat": 18.0, "lon": 83.0 }
-      ]
+    	"name": "Vizag-Gangavaram Port Complex Security Zone",
+    	"type": "Multi-Port Maritime Security Area",
+    	"significance": "Integrated security for adjacent major ports",
+    	"coordinates": [
+    		{ "lat": 17.5, "lon": 83.0 },
+    		{ "lat": 17.5, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 83.5 },
+    		{ "lat": 18.0, "lon": 83.0 }
+    	]
     }
     ```
 
 84. ```json
     {
-      "name": "Netrani Island Live Fire Exercise Zone",
-      "type": "Naval Gunnery Range",
-      "significance": "Offshore area for naval artillery and missile testing",
-      "coordinates": [
-        { "lat": 14.0, "lon": 74.0 },
-        { "lat": 14.0, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.5 },
-        { "lat": 14.5, "lon": 74.0 }
-      ]
+    	"name": "Netrani Island Live Fire Exercise Zone",
+    	"type": "Naval Gunnery Range",
+    	"significance": "Offshore area for naval artillery and missile testing",
+    	"coordinates": [
+    		{ "lat": 14.0, "lon": 74.0 },
+    		{ "lat": 14.0, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.5 },
+    		{ "lat": 14.5, "lon": 74.0 }
+    	]
     }
     ```
 
 85. ```json
     {
-      "name": "Andaman Nicobar Command Joint Forces Training Area",
-      "type": "Tri-Service Exercise Zone",
-      "significance": "Combined operations training for navy, army, and air force",
-      "coordinates": [
-        { "lat": 11.5, "lon": 92.0 },
-        { "lat": 11.5, "lon": 93.0 },
-        { "lat": 13.0, "lon": 93.0 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Nicobar Command Joint Forces Training Area",
+    	"type": "Tri-Service Exercise Zone",
+    	"significance": "Combined operations training for navy, army, and air force",
+    	"coordinates": [
+    		{ "lat": 11.5, "lon": 92.0 },
+    		{ "lat": 11.5, "lon": 93.0 },
+    		{ "lat": 13.0, "lon": 93.0 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 86. ```json
     {
-      "name": "Kanyakumari-Tuticorin Coastal Security Corridor",
-      "type": "Integrated Maritime Border Surveillance Zone",
-      "significance": "Monitoring of southern tip of Indian peninsula",
-      "coordinates": [
-        { "lat": 8.0, "lon": 77.5 },
-        { "lat": 8.0, "lon": 78.5 },
-        { "lat": 9.0, "lon": 78.5 },
-        { "lat": 9.0, "lon": 77.5 }
-      ]
+    	"name": "Kanyakumari-Tuticorin Coastal Security Corridor",
+    	"type": "Integrated Maritime Border Surveillance Zone",
+    	"significance": "Monitoring of southern tip of Indian peninsula",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 77.5 },
+    		{ "lat": 8.0, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 78.5 },
+    		{ "lat": 9.0, "lon": 77.5 }
+    	]
     }
     ```
 
 87. ```json
     {
-      "name": "Porbandar-Okha Offshore Patrol Vessel Operating Area",
-      "type": "Coast Guard Patrol Zone",
-      "significance": "Regular patrols to combat illegal fishing and smuggling",
-      "coordinates": [
-        { "lat": 21.5, "lon": 68.5 },
-        { "lat": 21.5, "lon": 70.0 },
-        { "lat": 23.0, "lon": 70.0 },
-        { "lat": 23.0, "lon": 68.5 }
-      ]
+    	"name": "Porbandar-Okha Offshore Patrol Vessel Operating Area",
+    	"type": "Coast Guard Patrol Zone",
+    	"significance": "Regular patrols to combat illegal fishing and smuggling",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 68.5 },
+    		{ "lat": 21.5, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 70.0 },
+    		{ "lat": 23.0, "lon": 68.5 }
+    	]
     }
     ```
 
 88. ```json
     {
-      "name": "Kavaratti Underwater Domain Awareness Center",
-      "type": "Submarine Detection and Tracking Zone",
-      "significance": "Monitoring subsurface activities in central Arabian Sea",
-      "coordinates": [
-        { "lat": 9.5, "lon": 71.5 },
-        { "lat": 9.5, "lon": 73.0 },
-        { "lat": 11.0, "lon": 73.0 },
-        { "lat": 11.0, "lon": 71.5 }
-      ]
+    	"name": "Kavaratti Underwater Domain Awareness Center",
+    	"type": "Submarine Detection and Tracking Zone",
+    	"significance": "Monitoring subsurface activities in central Arabian Sea",
+    	"coordinates": [
+    		{ "lat": 9.5, "lon": 71.5 },
+    		{ "lat": 9.5, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 73.0 },
+    		{ "lat": 11.0, "lon": 71.5 }
+    	]
     }
     ```
 
 89. ```json
     {
-      "name": "Paradip-Haldia Offshore Security Zone",
-      "type": "Critical Maritime Infrastructure Protection Area",
-      "significance": "Security for offshore oil rigs and pipelines",
-      "coordinates": [
-        { "lat": 20.5, "lon": 87.0 },
-        { "lat": 20.5, "lon": 88.5 },
-        { "lat": 22.0, "lon": 88.5 },
-        { "lat": 22.0, "lon": 87.0 }
-      ]
+    	"name": "Paradip-Haldia Offshore Security Zone",
+    	"type": "Critical Maritime Infrastructure Protection Area",
+    	"significance": "Security for offshore oil rigs and pipelines",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 87.0 },
+    		{ "lat": 20.5, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 88.5 },
+    		{ "lat": 22.0, "lon": 87.0 }
+    	]
     }
     ```
 
 90. ```json
     {
-      "name": "Little Andaman Island Forward Operating Base",
-      "type": "Southern Naval Outpost",
-      "significance": "Extended range operations in southern Bay of Bengal",
-      "coordinates": [
-        { "lat": 10.0, "lon": 92.0 },
-        { "lat": 10.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 93.0 },
-        { "lat": 11.0, "lon": 92.0 }
-      ]
+    	"name": "Little Andaman Island Forward Operating Base",
+    	"type": "Southern Naval Outpost",
+    	"significance": "Extended range operations in southern Bay of Bengal",
+    	"coordinates": [
+    		{ "lat": 10.0, "lon": 92.0 },
+    		{ "lat": 10.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 93.0 },
+    		{ "lat": 11.0, "lon": 92.0 }
+    	]
     }
     ```
 
 91. ```json
     {
-      "name": "Sundarbans Riverine Patrol Network",
-      "type": "Mangrove Forest Maritime Security Zone",
-      "significance": "Anti-smuggling and environmental protection operations",
-      "coordinates": [
-        { "lat": 21.5, "lon": 88.5 },
-        { "lat": 21.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 89.5 },
-        { "lat": 22.5, "lon": 88.5 }
-      ]
+    	"name": "Sundarbans Riverine Patrol Network",
+    	"type": "Mangrove Forest Maritime Security Zone",
+    	"significance": "Anti-smuggling and environmental protection operations",
+    	"coordinates": [
+    		{ "lat": 21.5, "lon": 88.5 },
+    		{ "lat": 21.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 89.5 },
+    		{ "lat": 22.5, "lon": 88.5 }
+    	]
     }
     ```
 
 92. ```json
     {
-      "name": "Karwar Underwater Ranges and Measurement Facility",
-      "type": "Submarine and Torpedo Testing Area",
-      "significance": "Calibration and performance testing of submarine systems",
-      "coordinates": [
-        { "lat": 14.5, "lon": 73.5 },
-        { "lat": 14.5, "lon": 74.0 },
-        { "lat": 15.0, "lon": 74.0 },
-        { "lat": 15.0, "lon": 73.5 }
-      ]
+    	"name": "Karwar Underwater Ranges and Measurement Facility",
+    	"type": "Submarine and Torpedo Testing Area",
+    	"significance": "Calibration and performance testing of submarine systems",
+    	"coordinates": [
+    		{ "lat": 14.5, "lon": 73.5 },
+    		{ "lat": 14.5, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 74.0 },
+    		{ "lat": 15.0, "lon": 73.5 }
+    	]
     }
     ```
 
 93. ```json
     {
-      "name": "Kalpeni-Minicoy Islands Maritime Patrol Sector",
-      "type": "Inter-Island Security Corridor",
-      "significance": "Monitoring of sea lanes between southern Lakshadweep islands",
-      "coordinates": [
-        { "lat": 8.0, "lon": 72.5 },
-        { "lat": 8.0, "lon": 74.0 },
-        { "lat": 10.0, "lon": 74.0 },
-        { "lat": 10.0, "lon": 72.5 }
-      ]
+    	"name": "Kalpeni-Minicoy Islands Maritime Patrol Sector",
+    	"type": "Inter-Island Security Corridor",
+    	"significance": "Monitoring of sea lanes between southern Lakshadweep islands",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 72.5 },
+    		{ "lat": 8.0, "lon": 74.0 },
+    		{ "lat": 10.0, "lon": 74.0 },
+    		{ "lat": 10.0, "lon": 72.5 }
+    	]
     }
     ```
 
 94. ```json
     {
-      "name": "Chilika Lake Naval Test Facility",
-      "type": "Naval Systems Evaluation Zone",
-      "significance": "Testing of naval equipment in brackish water conditions",
-      "coordinates": [
-        { "lat": 19.5, "lon": 85.0 },
-        { "lat": 19.5, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.5 },
-        { "lat": 20.0, "lon": 85.0 }
-      ]
+    	"name": "Chilika Lake Naval Test Facility",
+    	"type": "Naval Systems Evaluation Zone",
+    	"significance": "Testing of naval equipment in brackish water conditions",
+    	"coordinates": [
+    		{ "lat": 19.5, "lon": 85.0 },
+    		{ "lat": 19.5, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.5 },
+    		{ "lat": 20.0, "lon": 85.0 }
+    	]
     }
     ```
 
 95. ```json
     {
-      "name": "Lakshadweep Sea Extended Anti-Piracy Patrol Zone",
-      "type": "Far Sea Counter-Piracy Area",
-      "significance": "Long-range patrols to combat piracy in western Arabian Sea",
-      "coordinates": [
-        { "lat": 8.0, "lon": 68.0 },
-        { "lat": 8.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 72.0 },
-        { "lat": 12.0, "lon": 68.0 }
-      ]
+    	"name": "Lakshadweep Sea Extended Anti-Piracy Patrol Zone",
+    	"type": "Far Sea Counter-Piracy Area",
+    	"significance": "Long-range patrols to combat piracy in western Arabian Sea",
+    	"coordinates": [
+    		{ "lat": 8.0, "lon": 68.0 },
+    		{ "lat": 8.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 72.0 },
+    		{ "lat": 12.0, "lon": 68.0 }
+    	]
     }
     ```
 
 96. ```json
     {
-      "name": "Daman-Diu Coastal Security Corridor",
-      "type": "Integrated Coastal Surveillance Zone",
-      "significance": "Monitoring of maritime activities in Union Territories",
-      "coordinates": [
-        { "lat": 20.0, "lon": 72.5 },
-        { "lat": 20.0, "lon": 73.0 },
-        { "lat": 21.0, "lon": 73.0 },
-        { "lat": 21.0, "lon": 72.5 }
-      ]
+    	"name": "Daman-Diu Coastal Security Corridor",
+    	"type": "Integrated Coastal Surveillance Zone",
+    	"significance": "Monitoring of maritime activities in Union Territories",
+    	"coordinates": [
+    		{ "lat": 20.0, "lon": 72.5 },
+    		{ "lat": 20.0, "lon": 73.0 },
+    		{ "lat": 21.0, "lon": 73.0 },
+    		{ "lat": 21.0, "lon": 72.5 }
+    	]
     }
     ```
 
 97. ```json
     {
-      "name": "Bhitarkanika Mangrove Maritime Eco-Security Zone",
-      "type": "Environmental Protection and Security Area",
-      "significance": "Biodiversity conservation and anti-poaching operations",
-      "coordinates": [
-        { "lat": 20.5, "lon": 86.5 },
-        { "lat": 20.5, "lon": 87.5 },
-        { "lat": 21.0, "lon": 87.5 },
-        { "lat": 21.0, "lon": 86.5 }
-      ]
+    	"name": "Bhitarkanika Mangrove Maritime Eco-Security Zone",
+    	"type": "Environmental Protection and Security Area",
+    	"significance": "Biodiversity conservation and anti-poaching operations",
+    	"coordinates": [
+    		{ "lat": 20.5, "lon": 86.5 },
+    		{ "lat": 20.5, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 87.5 },
+    		{ "lat": 21.0, "lon": 86.5 }
+    	]
     }
     ```
 
 98. ```json
     {
-      "name": "Vizag Submarine Communication Test Range",
-      "type": "Underwater Communications Evaluation Area",
-      "significance": "Testing and development of submarine communication systems",
-      "coordinates": [
-        { "lat": 17.0, "lon": 83.0 },
-        { "lat": 17.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 84.0 },
-        { "lat": 18.0, "lon": 83.0 }
-      ]
+    	"name": "Vizag Submarine Communication Test Range",
+    	"type": "Underwater Communications Evaluation Area",
+    	"significance": "Testing and development of submarine communication systems",
+    	"coordinates": [
+    		{ "lat": 17.0, "lon": 83.0 },
+    		{ "lat": 17.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 84.0 },
+    		{ "lat": 18.0, "lon": 83.0 }
+    	]
     }
     ```
 
 99. ```json
     {
-      "name": "Andaman Sea Humanitarian Assistance and Disaster Relief Staging Area",
-      "type": "HADR Preparedness Zone",
-      "significance": "Prepositioning for rapid response to natural disasters",
-      "coordinates": [
-        { "lat": 11.0, "lon": 92.0 },
-        { "lat": 11.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 94.0 },
-        { "lat": 13.0, "lon": 92.0 }
-      ]
+    	"name": "Andaman Sea Humanitarian Assistance and Disaster Relief Staging Area",
+    	"type": "HADR Preparedness Zone",
+    	"significance": "Prepositioning for rapid response to natural disasters",
+    	"coordinates": [
+    		{ "lat": 11.0, "lon": 92.0 },
+    		{ "lat": 11.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 94.0 },
+    		{ "lat": 13.0, "lon": 92.0 }
+    	]
     }
     ```
 
 100. ```json
      {
-       "name": "Lakshadweep-Malabar Coast Integrated Maritime Surveillance Sector",
-       "type": "Extended Maritime Domain Awareness Zone",
-       "significance": "Comprehensive monitoring of approaches to southwest coast",
-       "coordinates": [
-         { "lat": 8.0, "lon": 72.0 },
-         { "lat": 8.0, "lon": 76.0 },
-         { "lat": 14.0, "lon": 76.0 },
-         { "lat": 14.0, "lon": 72.0 }
-       ]
+     	"name": "Lakshadweep-Malabar Coast Integrated Maritime Surveillance Sector",
+     	"type": "Extended Maritime Domain Awareness Zone",
+     	"significance": "Comprehensive monitoring of approaches to southwest coast",
+     	"coordinates": [
+     		{ "lat": 8.0, "lon": 72.0 },
+     		{ "lat": 8.0, "lon": 76.0 },
+     		{ "lat": 14.0, "lon": 76.0 },
+     		{ "lat": 14.0, "lon": 72.0 }
+     	]
      }
      ```
 
@@ -7161,114 +7161,114 @@
 
 ```json
 {
-  "maritime_zones": [
-    {
-      "name": "Restricted Area Alpha",
-      "type": "Military Exercise Zone",
-      "coordinates": [
-        { "lat": 12.5, "lon": 70.2 },
-        { "lat": 12.5, "lon": 70.8 },
-        { "lat": 13.1, "lon": 70.8 },
-        { "lat": 13.1, "lon": 70.2 }
-      ]
-    },
-    {
-      "name": "Protected Marine Reserve Beta",
-      "type": "Environmental Protection Zone",
-      "coordinates": [
-        { "lat": 13.2, "lon": 71.0 },
-        { "lat": 13.2, "lon": 71.4 },
-        { "lat": 13.6, "lon": 71.4 },
-        { "lat": 13.6, "lon": 71.0 }
-      ]
-    },
-    {
-      "name": "Territorial Waters",
-      "type": "Sovereign Territory",
-      "description": "Extends 12 nautical miles from the baseline"
-    },
-    {
-      "name": "Contiguous Zone",
-      "type": "Limited Enforcement Zone",
-      "description": "Extends 24 nautical miles from the baseline"
-    },
-    {
-      "name": "Exclusive Economic Zone",
-      "type": "Economic Rights Zone",
-      "description": "Extends 200 nautical miles from the baseline"
-    },
-    {
-      "name": "Fishing Regulation Zone Charlie",
-      "type": "Fisheries Management",
-      "coordinates": [
-        { "lat": 12.7, "lon": 70.5 },
-        { "lat": 12.7, "lon": 71.0 },
-        { "lat": 13.0, "lon": 71.0 },
-        { "lat": 13.0, "lon": 70.5 }
-      ]
-    },
-    {
-      "name": "Port Approach Zone Xavier",
-      "type": "Vessel Traffic Service Zone",
-      "coordinates": [
-        { "lat": 13.4, "lon": 70.8 },
-        { "lat": 13.4, "lon": 71.2 },
-        { "lat": 13.7, "lon": 71.2 },
-        { "lat": 13.7, "lon": 70.8 }
-      ]
-    },
-    {
-      "name": "Submarine Exercise Area Delta",
-      "type": "Naval Training Zone",
-      "coordinates": [
-        { "lat": 12.3, "lon": 71.2 },
-        { "lat": 12.3, "lon": 71.6 },
-        { "lat": 12.7, "lon": 71.6 },
-        { "lat": 12.7, "lon": 71.2 }
-      ]
-    },
-    {
-      "name": "Oil Exploration Block Echo",
-      "type": "Resource Extraction Zone",
-      "coordinates": [
-        { "lat": 13.8, "lon": 70.4 },
-        { "lat": 13.8, "lon": 70.8 },
-        { "lat": 14.2, "lon": 70.8 },
-        { "lat": 14.2, "lon": 70.4 }
-      ]
-    },
-    {
-      "name": "Search and Rescue Region Foxtrot",
-      "type": "SAR Responsibility Zone",
-      "description": "Encompasses all maritime zones and extends to international waters"
-    }
-  ],
-  "shipping_lanes": [
-    {
-      "name": "Northern Approach to Port Xavier",
-      "type": "Major Shipping Route",
-      "coordinates": [
-        { "lat": 13.5, "lon": 71.0 },
-        { "lat": 13.2, "lon": 70.5 }
-      ]
-    },
-    {
-      "name": "Southern Trade Route",
-      "type": "International Shipping Lane",
-      "coordinates": [
-        { "lat": 12.0, "lon": 70.0 },
-        { "lat": 12.5, "lon": 71.5 }
-      ]
-    },
-    {
-      "name": "Coastal Ferry Route Alpha",
-      "type": "Domestic Passenger Route",
-      "coordinates": [
-        { "lat": 13.0, "lon": 70.2 },
-        { "lat": 13.5, "lon": 70.3 },
-        { "lat": 14.0, "lon": 70.4 }
-      ]
-    }
-  ]
+	"maritime_zones": [
+		{
+			"name": "Restricted Area Alpha",
+			"type": "Military Exercise Zone",
+			"coordinates": [
+				{ "lat": 12.5, "lon": 70.2 },
+				{ "lat": 12.5, "lon": 70.8 },
+				{ "lat": 13.1, "lon": 70.8 },
+				{ "lat": 13.1, "lon": 70.2 }
+			]
+		},
+		{
+			"name": "Protected Marine Reserve Beta",
+			"type": "Environmental Protection Zone",
+			"coordinates": [
+				{ "lat": 13.2, "lon": 71.0 },
+				{ "lat": 13.2, "lon": 71.4 },
+				{ "lat": 13.6, "lon": 71.4 },
+				{ "lat": 13.6, "lon": 71.0 }
+			]
+		},
+		{
+			"name": "Territorial Waters",
+			"type": "Sovereign Territory",
+			"description": "Extends 12 nautical miles from the baseline"
+		},
+		{
+			"name": "Contiguous Zone",
+			"type": "Limited Enforcement Zone",
+			"description": "Extends 24 nautical miles from the baseline"
+		},
+		{
+			"name": "Exclusive Economic Zone",
+			"type": "Economic Rights Zone",
+			"description": "Extends 200 nautical miles from the baseline"
+		},
+		{
+			"name": "Fishing Regulation Zone Charlie",
+			"type": "Fisheries Management",
+			"coordinates": [
+				{ "lat": 12.7, "lon": 70.5 },
+				{ "lat": 12.7, "lon": 71.0 },
+				{ "lat": 13.0, "lon": 71.0 },
+				{ "lat": 13.0, "lon": 70.5 }
+			]
+		},
+		{
+			"name": "Port Approach Zone Xavier",
+			"type": "Vessel Traffic Service Zone",
+			"coordinates": [
+				{ "lat": 13.4, "lon": 70.8 },
+				{ "lat": 13.4, "lon": 71.2 },
+				{ "lat": 13.7, "lon": 71.2 },
+				{ "lat": 13.7, "lon": 70.8 }
+			]
+		},
+		{
+			"name": "Submarine Exercise Area Delta",
+			"type": "Naval Training Zone",
+			"coordinates": [
+				{ "lat": 12.3, "lon": 71.2 },
+				{ "lat": 12.3, "lon": 71.6 },
+				{ "lat": 12.7, "lon": 71.6 },
+				{ "lat": 12.7, "lon": 71.2 }
+			]
+		},
+		{
+			"name": "Oil Exploration Block Echo",
+			"type": "Resource Extraction Zone",
+			"coordinates": [
+				{ "lat": 13.8, "lon": 70.4 },
+				{ "lat": 13.8, "lon": 70.8 },
+				{ "lat": 14.2, "lon": 70.8 },
+				{ "lat": 14.2, "lon": 70.4 }
+			]
+		},
+		{
+			"name": "Search and Rescue Region Foxtrot",
+			"type": "SAR Responsibility Zone",
+			"description": "Encompasses all maritime zones and extends to international waters"
+		}
+	],
+	"shipping_lanes": [
+		{
+			"name": "Northern Approach to Port Xavier",
+			"type": "Major Shipping Route",
+			"coordinates": [
+				{ "lat": 13.5, "lon": 71.0 },
+				{ "lat": 13.2, "lon": 70.5 }
+			]
+		},
+		{
+			"name": "Southern Trade Route",
+			"type": "International Shipping Lane",
+			"coordinates": [
+				{ "lat": 12.0, "lon": 70.0 },
+				{ "lat": 12.5, "lon": 71.5 }
+			]
+		},
+		{
+			"name": "Coastal Ferry Route Alpha",
+			"type": "Domestic Passenger Route",
+			"coordinates": [
+				{ "lat": 13.0, "lon": 70.2 },
+				{ "lat": 13.5, "lon": 70.3 },
+				{ "lat": 14.0, "lon": 70.4 }
+			]
+		}
+	]
 }
 ```
