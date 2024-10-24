@@ -1,12 +1,16 @@
-# app/services/rag_service.py
-from transformers import RagTokenizer, RagRetriever, RagSequenceForGeneration
+from transformers import AutoTokenizer, AutoModel
+from sentence_transformers import SentenceTransformer
+from typing import List, Dict
+import torch
 
-def enrich_data_with_rag(query: str, dataset):
-    tokenizer = RagTokenizer.from_pretrained("facebook/rag-sequence-nq")
-    retriever = RagRetriever.from_pretrained("facebook/rag-sequence-nq", index_name="exact", indexed_dataset=dataset)
-    rag_model = RagSequenceForGeneration.from_pretrained("facebook/rag-sequence-nq", retriever=retriever)
-
-    input_ids = tokenizer(query, return_tensors="pt").input_ids
-    output_ids = rag_model.generate(input_ids, num_return_sequences=1)
-    generated_output = tokenizer.batch_decode(output_ids, skip_special_tokens=True)[0]
-    return generated_output
+class MaritimeRAG:
+    def __init__(self):
+        self.tokenizer = AutoTokenizer.from_pretrained('maritime-bert-base')
+        self.model = AutoModel.from_pretrained('maritime-bert-base')
+        self.encoder = SentenceTransformer('all-MiniLM-L6-v2')
+        
+    def process_report(self, text: str) -> Dict:
+        embeddings = self.encoder.encode(text)
+        entities = self.extract_maritime_entities(text)
+        context = self.retrieve_relevant_context(embeddings)
+        return self.generate_structured_data(entities, context)
