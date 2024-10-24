@@ -19,7 +19,7 @@ def main():
     subprocess.run(["python3", "ocr/scripts/audiototxt.py"])
 
     # Combine the results from all three scripts into one file
-    combined_output_file = 'final_combined_output.txt'
+    combined_output_file = 'ocr/final_combined_output.txt'
     combine_results(combined_output_file)
     print(f"All results combined and saved to {combined_output_file}")
 

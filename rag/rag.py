@@ -154,12 +154,14 @@ def main():
     trained_rag_model, tokenizer = fine_tune_rag_model(rag_dataset)
 
     # Process queries from the text file
-    txt_file_path = "final_combined_output.txt"
+    txt_file_path = "ocr/final_combined_output.txt"
     results = process_queries(txt_file_path, trained_rag_model, tokenizer)
 
-    # Print the results in the specified format
-    for result in results:
-        print(f"Generated Response: {result}")
+    # Write the results to a .txt file
+    output_file_path = "rag/extracted.txt"
+    with open(output_file_path, 'w') as output_file:
+        for result in results:
+            output_file.write(f"{result}\n")
 
 if __name__ == "__main__":
     main()

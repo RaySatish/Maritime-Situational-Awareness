@@ -1,0 +1,48 @@
+--- Text from WhatsApp Image 2024-10-23 at 15.24.11.jpeg ---
+: os Oe CAREC ED " =  o—- @ ——
+“oe Code and Course ane ' M.Tech (Integrated) Computer Science and Engineering
+aculty Name(s) : CST3003 & Artificial Intelligence and Expert Systems
+: Dr. Siva SANKARIS, Dr. V. SIVAKUMAR, Dr. GANESH
+Class Number(s) SHAMRAO KHEKARE, Dr. JEEVANANTHAM A. K.
+Date of Examination : VL2024250103683, 3688, 3690, 3692
+Exam Duration toca
+$< : 90 minutes Maximum Marks: 50
+Answer All Questions
+M - Max mark; CO — Course Outcome; BL - Blooms Taxonomy Level (1 - Remember, 2 - Understa
+3 - Apply, 4 - Analyse, 5 - Evaluate, 6 - Create)
+CO3. Analyze and illustrate how search algorithms play vital role in problem solving
+CO4. Demonstrate knowledge of reasoning and knowledge representation for solving real wor
+problems
+gr | Question ic M2) Oe te
+Q. No “In a two player game theory, the mini-max algorithm is used to find optimal | 10 + CO3-| BL
+1. ove fora player. Apply the mini-max algorithm in the following game tree. |
+oe the results of every step and the final path reached and optimal cost :
+
+
+--- Text from WhatsApp6.png ---
+7 From: Coastat kroaq Statzow VICTOR
+i To: ATR PEFENSE Comm Aus
+
+
+--- Text from Screenshot 2024-10-23 at 1.18.57 PM.png ---
+FROM: COASTAL RADAR STATION VICTOR
+
+TO: AIR DEFENSE COMMAND
+
+PRIORITY: URGENT
+
+DTG: 232130Z OCT 24
+
+1. DETECTED UNIDENTIFIED AERIAL OBJECT AT 13°50'N, 70°40'W.
+
+2. ALTITUDE: 5000 FEET. SPEED: VARIABLE, RANGING FROM @ TO 500 KNOTS.
+3. OBJECT DEMONSTRATING IMPOSSIBLE MANEUVERS AND ACCELERATION.
+
+4. DOES NOT MATCH ANY KNOWN AIRCRAFT PROFILES.
+
+5. REQUEST IMMEDIATE FIGHTER INTERCEPT FOR VISUAL CONFIRMATION.
+
+
+--- Transcription from test.mp3 ---
+postal radar station Victor to air defence command
+
