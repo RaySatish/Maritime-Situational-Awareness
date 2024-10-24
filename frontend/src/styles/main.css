@@ -1,0 +1,27 @@
+.app-container {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  grid-template-rows: 1fr auto;
+  height: 100vh;
+}
+
+.map-container {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  height: 100%;
+}
+
+.alert-panel {
+  grid-column: 1;
+  grid-row: 1;
+  background: #f5f5f5;
+  padding: 1rem;
+  overflow-y: auto;
+}
+
+.control-panel {
+  grid-column: 1;
+  grid-row: 2;
+  padding: 1rem;
+  background: #ffffff;
+}
