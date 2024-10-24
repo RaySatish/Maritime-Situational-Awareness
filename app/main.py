@@ -1,16 +1,31 @@
-# app/main.py
-from fastapi import FastAPI
-from app.api.routes import router as api_router
-from app.db import Base, engine
+from fastapi import FastAPI, WebSocket
+from fastapi.middleware.cors import CORSMiddleware
+from typing import List
+import uvicorn
 
-
-# Create database tables if they don't exist
-Base.metadata.create_all(bind=engine)
-
-# Initialize FastAPI
 app = FastAPI(title="Maritime Situational Awareness API")
 
-# Include API routes
-app.include_router(api_router, prefix="/api/v1")
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
-# Run the app using: uvicorn app.main:app --reload
+connected_clients: List[WebSocket] = []
+
+@app.websocket("/ws")
+async def websocket_endpoint(websocket: WebSocket):
+    await websocket.accept()
+    connected_clients.append(websocket)
+    try:
+        while True:
+            data = await websocket.receive_json()
+            # Process and broadcast updates
+            await broadcast_maritime_data(data)
+    except WebSocketDisconnect:
+        connected_clients.remove(websocket)
+
+if __name__ == "__main__":
+    uvicorn.run(app, host="0.0.0.0", port=8000)
