@@ -12,7 +12,7 @@ def perform_ocr(image_path):
     extracted_text = pytesseract.image_to_string(img, config=custom_config)
     return extracted_text
 
-def process_non_handwritten_images(folder_path, output_file):
+def process_image_files(folder_path, output_file):
     with open(output_file, 'w') as outfile:
         for filename in os.listdir(folder_path):
             if filename.lower().endswith(('.png', '.jpg', '.jpeg', '.tiff', '.bmp', '.gif')):
@@ -21,9 +21,4 @@ def process_non_handwritten_images(folder_path, output_file):
                 outfile.write(f"--- Text from {filename} ---\n")
                 outfile.write(extracted_text)
                 outfile.write("\n\n")
-                print(f"Processed non-handwritten image: {filename}")
-
-if __name__ == "__main__":
-    folder_path = '/Users/satishpremanand/Documents/GitHub/Maritime-Situational-Awareness/datasets/testing'
-    output_file = '/Users/satishpremanand/Documents/GitHub/Maritime-Situational-Awareness/ocr/scripts/non_handwritten_output.txt'  # Update this path
-    process_non_handwritten_images(folder_path, output_file)
+                print(f"Processed image: {filename}")
