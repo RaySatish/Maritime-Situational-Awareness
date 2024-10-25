@@ -40,6 +40,6 @@ def process_audio_files(folder_path, output_file):
                 print(f"Processed audio: {filename}")
 
 if __name__ == "__main__":
-    folder_path = '/Users/satishpremanand/Documents/GitHub/Maritime-Situational-Awareness/datasets/testing'
-    output_file = '/Users/satishpremanand/Documents/GitHub/Maritime-Situational-Awareness/ocr/scripts/audio_output.txt'  # Update this path
+    folder_path = 'datasets/testing'
+    output_file = 'ocr/scripts/audio_output.txt' 
     process_audio_files(folder_path, output_file)
