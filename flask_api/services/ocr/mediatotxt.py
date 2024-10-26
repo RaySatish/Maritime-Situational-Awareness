@@ -1,7 +1,13 @@
 import subprocess
 import os
-from .scripts import imgtotxt
-from .scripts import audiototxt
+
+# Conditional imports to handle both standalone and package execution
+try:
+    from .scripts import imgtotxt
+    from .scripts import audiototxt
+except ImportError:
+    from scripts import imgtotxt
+    from scripts import audiototxt
 
 def combine_results(output_file):
     with open(output_file, 'w') as outfile:
