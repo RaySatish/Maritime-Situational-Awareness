@@ -16,4 +16,3 @@ class Alert(db.Model):
     speed = db.Column(db.String(32))
     issue = db.Column(db.String(256))
     red_alert = db.Column(db.Boolean, default=False)
-

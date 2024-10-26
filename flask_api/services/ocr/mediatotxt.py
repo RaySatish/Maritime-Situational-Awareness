@@ -1,7 +1,7 @@
 import subprocess
 import os
-from scripts import imgtotxt
-from scripts import audiototxt
+from .scripts import imgtotxt
+from .scripts import audiototxt
 
 def combine_results(output_file):
     with open(output_file, 'w') as outfile:

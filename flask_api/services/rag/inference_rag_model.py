@@ -1,6 +1,6 @@
 import os
 from transformers import RagTokenizer, RagSequenceForGeneration
-from train_rag_model import main as train_rag_model
+from .train_rag_model import main as train_rag_model
 
 # Function to process queries from a text file
 def process_queries(txt_file_path, rag_model, tokenizer):
