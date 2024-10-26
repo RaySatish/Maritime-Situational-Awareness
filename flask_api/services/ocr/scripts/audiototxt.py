@@ -38,8 +38,3 @@ def process_audio_files(folder_path, output_file):
                 outfile.write(transcribed_text)
                 outfile.write("\n\n")
                 print(f"Processed audio: {filename}")
-
-if __name__ == "__main__":
-    folder_path = 'datasets/testing'
-    output_file = 'ocr/scripts/audio_output.txt' 
-    process_audio_files(folder_path, output_file)

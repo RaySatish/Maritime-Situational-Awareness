@@ -17,7 +17,6 @@ def parse_markdown_file(md_file_path):
     with open(md_file_path, 'r') as file:
         lines = file.readlines()
     
-    # Example parsing: Adjust regex based on your markdown format
     coordinate_pattern = r'Coordinates:\s*(\d+\.\d+\s*[NS],\s*\d+\.\d+\s*[EW])'
     speed_pattern = r'Speed:\s*(\d+\s*knots)'
     from_pattern = r'From:\s*(.*)'
@@ -127,24 +126,10 @@ def fine_tune_rag_model(dataset):
     trainer.train()
     return rag_model, tokenizer
 
-# Function to process queries from a text file
-def process_queries(txt_file_path, rag_model, tokenizer):
-    with open(txt_file_path, 'r') as file:
-        queries = file.readlines()
-
-    results = []
-    for query in queries:
-        input_dict = tokenizer.prepare_seq2seq_batch([query.strip()], return_tensors="pt")
-        generated = rag_model.generate(input_ids=input_dict["input_ids"])
-        result = tokenizer.batch_decode(generated, skip_special_tokens=True)[0]
-        results.append(result)
-    
-    return results
-
-# Main function to run the pipeline
+# Main function to run the training pipeline
 def main():
     # Load and parse the markdown file
-    md_file_path = "./datasets/Combined_Dataset.md"
+    md_file_path = "flask_api/services/rag/datasets/Combined_Dataset.md"
     parsed_data = parse_markdown_file(md_file_path)
 
     # Prepare dataset for the RAG model
@@ -153,15 +138,9 @@ def main():
     # Fine-tune the RAG model on this dataset
     trained_rag_model, tokenizer = fine_tune_rag_model(rag_dataset)
 
-    # Process queries from the text file
-    txt_file_path = "../ocr/final_combined_output.txt"
-    results = process_queries(txt_file_path, trained_rag_model, tokenizer)
-
-    # Write the results to a .txt file
-    output_file_path = "./extracted.txt"
-    with open(output_file_path, 'w') as output_file:
-        for result in results:
-            output_file.write(f"{result}\n")
+    # Save the trained model and tokenizer
+    trained_rag_model.save_pretrained("flask_api/services/rag/trained_model")
+    tokenizer.save_pretrained("flask_api/services/rag/trained_model")
 
 if __name__ == "__main__":
     main()
