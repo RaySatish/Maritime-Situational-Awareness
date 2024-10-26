@@ -29,7 +29,28 @@ Features
 
 
 Installation
-* 
+* Clone the repository
+    - git clone https://github.com/RaySatish/Maritime-Situational-Awareness.git
+    - cd Maritime-Situational-Awareness
+
+* Set Up Virtual Environment
+    * Create a virtual environment
+        - python3 -m venv venv
+    * Activate the virtual environment
+        * On macOS:
+            - source venv/bin/activate
+        * On Windows:
+            - venv\Scripts\activate
+
+* Install PostgreSQL
+    * On macOS
+        * brew install postgresql
+    * On Windows
+        * Download the installer from the official website
+
+* Install necessary python librarires
+    - pip install requirements.txt
+    
 
 Requirements  
 * Python 3.8+
