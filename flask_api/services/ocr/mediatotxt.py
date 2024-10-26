@@ -2,12 +2,8 @@ import subprocess
 import os
 
 # Conditional imports to handle both standalone and package execution
-try:
-    from .scripts import imgtotxt
-    from .scripts import audiototxt
-except ImportError:
-    from scripts import imgtotxt
-    from scripts import audiototxt
+from .scripts import imgtotxt
+from .scripts import audiototxt
 
 def combine_results(output_file):
     with open(output_file, 'w') as outfile:
@@ -35,5 +31,5 @@ def main():
     combine_results(combined_output_file)
     print(f"All results combined and saved to {combined_output_file}")
 
-if _name_ == "_main_":
+if __name__== "_main_":
     main()

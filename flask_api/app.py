@@ -5,7 +5,7 @@ from flask_cors import CORS
 import os
 
 # Initialize Flask app
-app = Flask(_name_)
+app = Flask(__name__)
 CORS(app, resources={r"/": {"origins": ""}})
 
 # Configuration
@@ -19,5 +19,5 @@ migrate.init_app(app, db)
 # Register routes
 app.register_blueprint(api_blueprint)
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     app.run(host='0.0.0.0', port=5000, debug=True, use_reloader=False)
