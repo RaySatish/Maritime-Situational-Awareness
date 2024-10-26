@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maritime Situational Awareness - Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        #map {
+            height: 100vh;
+        }
+        #status {
+            position: fixed;
+            bottom: 20px;
+            left: 20px;
+            background-color: white;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="status">Intruder Status: <span id="intruderStatus">Unknown</span></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([34.0522, -118.2437], 10);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        var shipMarkers = [];
+        var blinkingMarkers = [];
+        var blinkingInterval;
+
+        function updateShipPositions() {
+            fetch('path/to/ship/data')
+                .then(response => response.json())
+                .then(data => {
+                    shipMarkers.forEach(marker => map.removeLayer(marker));
+                    shipMarkers = [];
+                    clearInterval(blinkingInterval);
+
+                    data.ships.forEach(ship => {
+                        var markerColor = ship.intruder ? 'red' : 'green';
+                        var marker = L.circleMarker([ship.lat, ship.lon], {
+                            radius: 8,
+                            color: markerColor,
+                            fillColor: markerColor,
+                            fillOpacity: 0.5
+                        }).addTo(map)
+                        .bindPopup(`<b>${ship.name}</b><br>Status: ${ship.intruder ? 'Intruder Detected' : 'Safe'}`);
+                        shipMarkers.push(marker);
+
+                        if (ship.intruder) {
+                            blinkingMarkers.push(marker);
+                        }
+
+                        marker.on('click', function() {
+                            showShipDetails(ship);
+                        });
+                    });
+
+                    updateIntruderStatus(data.ships);
+                    
+                    if (blinkingMarkers.length > 0) {
+                        startBlinking();
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching ship data:', error);
+                });
+        }
+
+        function updateIntruderStatus(ships) {
+            const intruderDetected = ships.some(ship => ship.intruder);
+            const intruderStatusElement = document.getElementById('intruderStatus');
+            intruderStatusElement.textContent = intruderDetected ? 'Intruder Present' : 'No Intruder';
+        }
+
+        function startBlinking() {
+            let visible = true;
+            clearInterval(blinkingInterval);
+            blinkingInterval = setInterval(() => {
+                blinkingMarkers.forEach(marker => {
+                    if (visible) {
+                        marker.setStyle({ fillOpacity: 0.1 });
+                    } else {
+                        marker.setStyle({ fillOpacity: 0.5 });
+                    }
+                });
+                visible = !visible;
+            }, 500);
+        }
+
+        function showShipDetails(ship) {
+            const details = 
+                `<b>Ship Name:</b> ${ship.name}<br>
+                <b>Status:</b> ${ship.intruder ? 'Intruder Detected' : 'Safe'}<br>
+                <b>Speed:</b> ${ship.speed} knots<br>
+                <b>Heading:</b> ${ship.heading}°<br>
+                <b>Latitude:</b> ${ship.lat}<br>
+                <b>Longitude:</b> ${ship.lon}<br>`;
+            alert(details);
+        }
+
+        setInterval(updateShipPositions, 30000);
+        updateShipPositions();
+    </script>
+</body>
+</html>

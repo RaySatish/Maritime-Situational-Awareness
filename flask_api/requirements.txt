@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+Flask-Migrate
+Flask-SQLAlchemy
+psycopg2-binary
+pytesseract
+Pillow
+SpeechRecognition
+transformers
+datasets

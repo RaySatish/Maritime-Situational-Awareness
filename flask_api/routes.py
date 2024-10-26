@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, render_template
 from models import OcrResult, RagQuery, Alert
 from extensions import db
 import os
@@ -8,6 +8,14 @@ from services.ocr.mediatotxt import main as process_media
 from services.rag.inference_rag_model import main as process_rag_queries
 
 api_blueprint = Blueprint('api', __name__)
+
+@api_blueprint.route('/')
+def index():
+    return render_template('index.html')
+
+@api_blueprint.route('/map')
+def map():
+    return render_template('map.html')
 
 @api_blueprint.route('/ocr/upload', methods=['POST'])
 def upload_ocr():

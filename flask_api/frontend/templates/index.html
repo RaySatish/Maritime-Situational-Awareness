@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maritime Situational Awareness</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> <!-- Adjust path if necessary -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" /> <!-- Leaflet CSS -->
+</head>
+<body>
+    <header>
+        <h1>Maritime Situational Awareness</h1>
+    </header>
+    <main>
+        <div class="feature-container">
+            <div class="feature" id="imgToTxt">
+                <h2>IMAGE TO TXT</h2>
+                <button id="selectImageBtn">Select Image</button>
+                <input type="file" accept="image/*" id="imageInput" style="display: none;">
+                <div id="imageResult"></div>
+            </div>
+            <div class="feature" id="speechToTxt">
+                <h2>SPEECH TO TXT</h2>
+                <button id="selectAudioBtn">Select Audio</button>
+                <input type="file" accept="audio/*" id="speechInput" style="display: none;">
+                <div id="speechResult"></div>
+            </div>
+        </div>
+    </main>
+
+    <div style="text-align: center; margin: 2rem 0;">
+        <button onclick="uploadFile()" class="center-button">UPLOAD</button>
+    </div>
+    <div id="uploadResult" style="text-align: center;"></div>
+
+    <footer>
+        <p>&copy; 2024 Maritime Situational Awareness</p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script> <!-- Adjust path if necessary -->
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script> <!-- Leaflet JS -->
+</body>
+</html>
