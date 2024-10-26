@@ -44,7 +44,7 @@ Installation
 
 * Install PostgreSQL
     * On macOS
-        * brew install postgresql
+        * brew install postgresql (with Homebrew package manager)
     * On Windows
         * Download the installer from the official website
 
