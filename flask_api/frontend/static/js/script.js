@@ -27,17 +27,80 @@ document.getElementById('speechInput').onchange = function() {
         speechResult.innerHTML = "No audio selected.";
     }
 };
-
-function processImage() {
-    const imageResult = document.getElementById('imageResult');
-    // Placeholder for image processing logic
-    imageResult.innerHTML += "<br>Image processed. Text extracted: [Placeholder text]";
+// Function to display the transcription result for images
+function displayImageTranscription(text) {
+    const imageTranscription = document.getElementById('imageTranscription');
+    imageTranscription.value = text; // Display the transcribed text in the image textarea
 }
 
+// Function to display the transcription result for audio
+function displayAudioTranscription(text) {
+    const audioTranscription = document.getElementById('audioTranscription');
+    audioTranscription.value = text; // Display the transcribed text in the audio textarea
+}
+
+// Function to process image files and call the backend for OCR
+function processImage() {
+    const imageResult = document.getElementById('imageResult');
+    const file = document.getElementById('imageInput').files[0];
+    
+    if (file) {
+        const formData = new FormData();
+        formData.append('file', file);
+        
+        // Call backend to perform OCR
+        fetch('/process_image', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.text) {
+                displayImageTranscription(data.text);
+                imageResult.innerHTML = "Image processed successfully.";
+            } else {
+                imageResult.innerHTML = "Error processing image.";
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            imageResult.innerHTML = "Error processing image.";
+        });
+    } else {
+        imageResult.innerHTML = "No image selected.";
+    }
+}
+
+// Function to process audio files and call the backend for transcription
 function processSpeech() {
     const speechResult = document.getElementById('speechResult');
-    // Placeholder for speech processing logic
-    speechResult.innerHTML += "<br>Speech processed. Text extracted: [Placeholder text]";
+    const file = document.getElementById('speechInput').files[0];
+    
+    if (file) {
+        const formData = new FormData();
+        formData.append('file', file);
+        
+        // Call backend to perform speech-to-text
+        fetch('/process_audio', {
+            method: 'POST',
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.text) {
+                displayAudioTranscription(data.text);
+                speechResult.innerHTML = "Audio processed successfully.";
+            } else {
+                speechResult.innerHTML = "Error processing audio.";
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            speechResult.innerHTML = "Error processing audio.";
+        });
+    } else {
+        speechResult.innerHTML = "No audio selected.";
+    }
 }
 
 function uploadFile() {

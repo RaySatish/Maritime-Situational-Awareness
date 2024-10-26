@@ -5,8 +5,8 @@ from flask_cors import CORS
 import os
 
 # Initialize Flask app
-app = Flask(__name__)
-CORS(app, resources={r"/*": {"origins": "*"}})
+app = Flask(_name_)
+CORS(app, resources={r"/": {"origins": ""}})
 
 # Configuration
 app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('DATABASE_URL', 'postgresql://myuser:mypassword@localhost/mydb')
@@ -19,5 +19,5 @@ migrate.init_app(app, db)
 # Register routes
 app.register_blueprint(api_blueprint)
 
-if __name__ == "__main__":
+if _name_ == "_main_":
     app.run(host='0.0.0.0', port=5000, debug=True, use_reloader=False)

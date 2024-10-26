@@ -17,13 +17,17 @@
                 <h2>IMAGE TO TXT</h2>
                 <button id="selectImageBtn">Select Image</button>
                 <input type="file" accept="image/*" id="imageInput" style="display: none;">
-                <div id="imageResult"></div>
+                <div id="imageResult">
+                    <textarea id="imageTranscription" readonly placeholder="Image transcription will appear here..."></textarea>
+                </div>
             </div>
             <div class="feature" id="speechToTxt">
                 <h2>SPEECH TO TXT</h2>
                 <button id="selectAudioBtn">Select Audio</button>
                 <input type="file" accept="audio/*" id="speechInput" style="display: none;">
-                <div id="speechResult"></div>
+                <div id="speechResult">
+                    <textarea id="audioTranscription" readonly placeholder="Audio transcription will appear here..."></textarea>
+                </div>
             </div>
         </div>
     </main>

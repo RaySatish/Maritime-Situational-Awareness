@@ -34,6 +34,7 @@ main {
     align-items: stretch;
     gap: 8rem;
     margin-bottom: 2rem;
+    opacity: 0.75;
 }
 
 .feature {
@@ -93,3 +94,4 @@ footer {
     text-align: center;
     padding: 1rem;
 }
+
